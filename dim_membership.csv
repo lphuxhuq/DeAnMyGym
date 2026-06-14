@@ -1,0 +1,48 @@
+﻿membership_key,membership_type,subscription_model,subscription_price,adjusted_price,final_price,access_hours
+1,Premium,Monthly,50,50.0,47.5,All hours
+2,Standard,Monthly,30,30.0,30.0,Weekdays only
+3,Standard,Monthly,30,30.0,27.0,Weekdays only
+4,Basic,Monthly,20,20.0,20.0,Off-peak only
+5,Elite,Monthly,70,70.0,70.0,All hours + Priority access
+6,Premium,Monthly,50,50.0,50.0,All hours
+7,Basic,Monthly,20,20.0,18.0,Off-peak only
+8,Standard,Monthly,30,30.0,28.5,Weekdays only
+9,Standard,Early Bird (Annual),30,22.5,22.5,Weekdays only
+10,Basic,Early Bird (Annual),20,15.0,14.25,Off-peak only
+11,Premium,Early Bird (Annual),50,37.5,35.625,All hours
+12,Standard,Early Bird (Annual),30,22.5,21.375,Weekdays only
+13,Premium,Early Bird (Annual),50,37.5,37.5,All hours
+14,Basic,Early Bird (Annual),20,15.0,12.75,Off-peak only
+15,Basic,Early Bird (Annual),20,15.0,15.0,Off-peak only
+16,Basic,Quarterly,20,18.0,18.0,Off-peak only
+17,Standard,Monthly,30,30.0,25.5,Weekdays only
+18,Standard,Quarterly,30,27.0,27.0,Weekdays only
+19,Premium,Monthly,50,50.0,45.0,All hours
+20,Basic,Monthly,20,20.0,17.0,Off-peak only
+21,Basic,Monthly,20,20.0,19.0,Off-peak only
+22,Elite,Quarterly,70,63.0,53.55,All hours + Priority access
+23,Basic,Early Bird (Annual),20,15.0,13.5,Off-peak only
+24,Basic,Quarterly,20,18.0,17.1,Off-peak only
+25,Elite,Monthly,70,70.0,63.0,All hours + Priority access
+26,Elite,Monthly,70,70.0,66.5,All hours + Priority access
+27,Standard,Quarterly,30,27.0,22.95,Weekdays only
+28,Premium,Quarterly,50,45.0,38.25,All hours
+29,Standard,Early Bird (Annual),30,22.5,20.25,Weekdays only
+30,Premium,Monthly,50,50.0,42.5,All hours
+31,Premium,Early Bird (Annual),50,37.5,31.875,All hours
+32,Standard,Early Bird (Annual),30,22.5,19.125,Weekdays only
+33,Premium,Early Bird (Annual),50,37.5,33.75,All hours
+34,Standard,Quarterly,30,27.0,25.65,Weekdays only
+35,Elite,Early Bird (Annual),70,52.5,47.25,All hours + Priority access
+36,Premium,Quarterly,50,45.0,45.0,All hours
+37,Standard,Quarterly,30,27.0,24.3,Weekdays only
+38,Premium,Quarterly,50,45.0,40.5,All hours
+39,Basic,Quarterly,20,18.0,16.2,Off-peak only
+40,Elite,Early Bird (Annual),70,52.5,49.875,All hours + Priority access
+41,Basic,Quarterly,20,18.0,15.3,Off-peak only
+42,Elite,Early Bird (Annual),70,52.5,52.5,All hours + Priority access
+43,Elite,Early Bird (Annual),70,52.5,44.625,All hours + Priority access
+44,Elite,Quarterly,70,63.0,63.0,All hours + Priority access
+45,Elite,Monthly,70,70.0,59.5,All hours + Priority access
+46,Elite,Quarterly,70,63.0,56.7,All hours + Priority access
+47,Premium,Quarterly,50,45.0,42.75,All hours

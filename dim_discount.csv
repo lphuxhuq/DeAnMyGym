@@ -1,0 +1,5 @@
+﻿discount_key,discount_type,discount_rate
+1,Promo,0.05
+2,No Discount,0.0
+3,Loyalty,0.1
+4,Student,0.15

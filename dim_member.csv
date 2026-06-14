@@ -1,0 +1,1999 @@
+﻿member_id,age,self_identified_gender,join_date,membership_tenure_days,risk_level,churn,churn_label,engagement_score,engagement_level
+MB00001,40,Male,2024-05-20,429,Low Risk,0,Retained,25.916666666666664,Low Engagement
+MB00002,35,Non-binary,2022-09-14,1043,High Risk,1,Churn,84.66666666666669,High Engagement
+MB00003,39,Male,2023-05-05,810,Medium Risk,1,Churn,69.08333333333334,High Engagement
+MB00004,35,Male,2023-09-24,668,Medium Risk,1,Churn,31.75,Low Engagement
+MB00005,18,Prefer not to say,2025-01-07,197,Active,0,Retained,43.08333333333334,Medium Engagement
+MB00006,43,Prefer not to say,2025-01-07,197,Active,0,Retained,13.833333333333334,Low Engagement
+MB00007,29,Prefer not to say,2025-04-22,92,Active,0,Retained,65.25000000000001,High Engagement
+MB00008,49,Prefer not to say,2022-12-13,953,High Risk,1,Churn,43.50000000000001,Medium Engagement
+MB00009,24,Other (self-described),2023-09-21,671,Medium Risk,1,Churn,58.833333333333336,Medium Engagement
+MB00010,33,Male,2023-05-30,785,Medium Risk,1,Churn,42.75000000000001,Medium Engagement
+MB00011,14,Male,2025-06-01,52,Active,0,Retained,40.0,Medium Engagement
+MB00012,43,Female,2022-08-25,1063,High Risk,1,Churn,44.91666666666667,Medium Engagement
+MB00013,33,Non-binary,2023-01-18,917,High Risk,1,Churn,33.0,Low Engagement
+MB00014,28,Male,2024-11-08,257,Active,0,Retained,31.0,Low Engagement
+MB00015,49,Female,2024-12-11,224,Active,0,Retained,63.5,High Engagement
+MB00016,27,Prefer not to say,2024-12-09,226,Active,0,Retained,9.166666666666666,Low Engagement
+MB00017,26,Other (self-described),2024-08-02,355,Low Risk,0,Retained,62.5,High Engagement
+MB00018,25,Male,2023-12-12,589,Medium Risk,1,Churn,72.50000000000001,High Engagement
+MB00019,13,Prefer not to say,2024-03-19,491,Low Risk,0,Retained,23.75,Low Engagement
+MB00020,25,Non-binary,2024-08-16,341,Low Risk,0,Retained,35.25,Medium Engagement
+MB00021,21,Male,2023-09-10,682,Medium Risk,1,Churn,30.0,Low Engagement
+MB00022,37,Female,2025-01-25,179,Active,0,Retained,28.833333333333332,Low Engagement
+MB00023,23,Female,2024-08-15,342,Low Risk,0,Retained,23.166666666666664,Low Engagement
+MB00024,34,Male,2024-05-28,421,Low Risk,0,Retained,40.416666666666664,Medium Engagement
+MB00025,12,Male,2024-02-23,516,Low Risk,0,Retained,63.83333333333334,High Engagement
+MB00026,40,Prefer not to say,2023-03-09,867,High Risk,1,Churn,42.41666666666667,Medium Engagement
+MB00027,49,Female,2024-11-22,243,Active,0,Retained,45.833333333333336,Medium Engagement
+MB00028,39,Male,2023-12-23,578,Medium Risk,1,Churn,69.66666666666667,High Engagement
+MB00029,22,Male,2023-10-01,661,Medium Risk,1,Churn,78.66666666666667,High Engagement
+MB00030,17,Non-binary,2025-05-04,80,Active,0,Retained,48.91666666666667,Medium Engagement
+MB00031,16,Male,2023-09-14,678,Medium Risk,1,Churn,69.5,High Engagement
+MB00032,49,Female,2024-12-23,212,Active,0,Retained,49.166666666666664,Medium Engagement
+MB00033,49,Male,2025-04-14,100,Active,0,Retained,33.833333333333336,Low Engagement
+MB00034,37,Male,2022-09-16,1041,High Risk,1,Churn,46.99999999999999,Medium Engagement
+MB00035,33,Male,2022-08-29,1059,High Risk,1,Churn,48.00000000000001,Medium Engagement
+MB00036,23,Non-binary,2023-02-13,891,High Risk,1,Churn,53.833333333333336,Medium Engagement
+MB00037,14,Other (self-described),2024-08-02,355,Low Risk,0,Retained,44.74999999999999,Medium Engagement
+MB00038,45,Female,2025-03-10,135,Active,0,Retained,53.25000000000001,Medium Engagement
+MB00039,47,Non-binary,2023-06-25,759,Medium Risk,1,Churn,65.16666666666667,High Engagement
+MB00040,22,Male,2024-03-11,499,Low Risk,0,Retained,75.50000000000001,High Engagement
+MB00041,17,Non-binary,2025-02-13,160,Active,0,Retained,50.25000000000001,Medium Engagement
+MB00042,20,Prefer not to say,2024-01-12,558,Low Risk,0,Retained,42.083333333333336,Medium Engagement
+MB00043,12,Male,2025-05-17,67,Active,0,Retained,95.5,High Engagement
+MB00044,42,Female,2022-10-28,999,High Risk,1,Churn,86.5,High Engagement
+MB00045,18,Non-binary,2024-09-20,306,Low Risk,0,Retained,69.66666666666667,High Engagement
+MB00046,36,Other (self-described),2023-07-18,736,Medium Risk,1,Churn,21.333333333333336,Low Engagement
+MB00047,23,Prefer not to say,2024-07-26,362,Low Risk,0,Retained,37.5,Medium Engagement
+MB00048,36,Male,2023-12-17,584,Medium Risk,1,Churn,52.33333333333334,Medium Engagement
+MB00049,36,Female,2023-11-18,613,Medium Risk,1,Churn,33.833333333333336,Low Engagement
+MB00050,17,Male,2024-12-08,227,Active,0,Retained,22.25,Low Engagement
+MB00051,32,Prefer not to say,2022-08-25,1063,High Risk,1,Churn,69.16666666666667,High Engagement
+MB00052,40,Male,2023-03-20,856,High Risk,1,Churn,47.833333333333336,Medium Engagement
+MB00053,46,Non-binary,2022-09-26,1031,High Risk,1,Churn,27.166666666666668,Low Engagement
+MB00054,39,Non-binary,2022-11-13,983,High Risk,1,Churn,28.749999999999996,Low Engagement
+MB00055,30,Non-binary,2023-09-25,667,Medium Risk,1,Churn,97.33333333333334,High Engagement
+MB00056,24,Female,2022-10-15,1012,High Risk,1,Churn,26.666666666666668,Low Engagement
+MB00057,41,Male,2025-03-20,125,Active,0,Retained,28.000000000000004,Low Engagement
+MB00058,29,Male,2024-11-26,239,Active,0,Retained,40.916666666666664,Medium Engagement
+MB00059,17,Male,2025-05-05,79,Active,0,Retained,39.50000000000001,Medium Engagement
+MB00060,19,Male,2024-07-11,377,Low Risk,0,Retained,45.58333333333333,Medium Engagement
+MB00061,16,Male,2024-05-05,444,Low Risk,0,Retained,45.833333333333336,Medium Engagement
+MB00062,18,Prefer not to say,2024-09-07,319,Low Risk,0,Retained,55.41666666666667,Medium Engagement
+MB00063,38,Male,2023-01-22,913,High Risk,1,Churn,35.16666666666667,Medium Engagement
+MB00064,36,Other (self-described),2024-06-08,410,Low Risk,0,Retained,21.333333333333336,Low Engagement
+MB00065,48,Male,2024-08-27,330,Low Risk,0,Retained,42.833333333333336,Medium Engagement
+MB00066,14,Male,2023-11-23,608,Medium Risk,1,Churn,26.833333333333332,Low Engagement
+MB00067,33,Female,2025-01-23,181,Active,0,Retained,19.333333333333332,Low Engagement
+MB00068,43,Male,2023-02-19,885,High Risk,1,Churn,69.25,High Engagement
+MB00069,28,Prefer not to say,2025-04-04,110,Active,0,Retained,33.66666666666667,Low Engagement
+MB00070,15,Male,2022-08-06,1082,High Risk,1,Churn,51.75000000000001,Medium Engagement
+MB00071,19,Male,2023-03-23,853,High Risk,1,Churn,52.16666666666667,Medium Engagement
+MB00072,38,Non-binary,2024-11-23,242,Active,0,Retained,46.166666666666664,Medium Engagement
+MB00073,42,Prefer not to say,2025-06-17,36,Active,0,Retained,35.583333333333336,Medium Engagement
+MB00074,48,Male,2023-02-05,899,High Risk,1,Churn,51.83333333333333,Medium Engagement
+MB00075,49,Male,2023-06-01,783,Medium Risk,1,Churn,22.833333333333332,Low Engagement
+MB00076,34,Male,2023-05-08,807,Medium Risk,1,Churn,33.416666666666664,Low Engagement
+MB00077,14,Male,2023-03-24,852,High Risk,1,Churn,87.16666666666667,High Engagement
+MB00078,36,Male,2025-04-05,109,Active,0,Retained,53.91666666666667,Medium Engagement
+MB00079,41,Male,2024-06-06,412,Low Risk,0,Retained,35.75,Medium Engagement
+MB00080,14,Non-binary,2025-02-19,154,Active,0,Retained,38.416666666666664,Medium Engagement
+MB00081,35,Non-binary,2022-12-16,950,High Risk,1,Churn,37.0,Medium Engagement
+MB00082,23,Prefer not to say,2023-08-29,694,Medium Risk,1,Churn,43.166666666666664,Medium Engagement
+MB00083,20,Female,2024-07-05,383,Low Risk,0,Retained,47.5,Medium Engagement
+MB00084,45,Other (self-described),2025-04-16,98,Active,0,Retained,26.833333333333332,Low Engagement
+MB00085,14,Female,2024-07-26,362,Low Risk,0,Retained,32.24999999999999,Low Engagement
+MB00086,21,Female,2024-07-11,377,Low Risk,0,Retained,36.74999999999999,Medium Engagement
+MB00087,19,Male,2023-05-07,808,Medium Risk,1,Churn,59.08333333333333,Medium Engagement
+MB00088,24,Male,2023-08-14,709,Medium Risk,1,Churn,49.75000000000001,Medium Engagement
+MB00089,13,Male,2022-11-21,975,High Risk,1,Churn,57.91666666666666,Medium Engagement
+MB00090,46,Non-binary,2024-02-06,533,Low Risk,0,Retained,46.5,Medium Engagement
+MB00091,23,Non-binary,2025-02-15,158,Active,0,Retained,51.083333333333336,Medium Engagement
+MB00092,18,Female,2023-05-25,790,Medium Risk,1,Churn,29.416666666666668,Low Engagement
+MB00093,19,Non-binary,2023-04-04,841,High Risk,1,Churn,46.5,Medium Engagement
+MB00094,41,Non-binary,2023-11-03,628,Medium Risk,1,Churn,57.58333333333333,Medium Engagement
+MB00095,45,Female,2023-03-24,852,High Risk,1,Churn,66.25000000000001,High Engagement
+MB00096,17,Male,2024-01-14,556,Low Risk,0,Retained,35.083333333333336,Medium Engagement
+MB00097,20,Male,2023-12-14,587,Medium Risk,1,Churn,28.416666666666668,Low Engagement
+MB00098,41,Female,2024-03-24,486,Low Risk,0,Retained,67.0,High Engagement
+MB00099,36,Other (self-described),2025-05-26,58,Active,0,Retained,21.333333333333336,Low Engagement
+MB00100,46,Female,2025-02-28,145,Active,0,Retained,68.83333333333333,High Engagement
+MB00101,42,Male,2025-05-20,64,Active,0,Retained,59.41666666666667,Medium Engagement
+MB00102,22,Non-binary,2023-08-15,708,Medium Risk,1,Churn,57.833333333333336,Medium Engagement
+MB00103,20,Male,2024-07-23,365,Low Risk,0,Retained,70.5,High Engagement
+MB00104,19,Female,2023-12-29,572,Medium Risk,1,Churn,42.333333333333336,Medium Engagement
+MB00105,37,Non-binary,2022-10-30,997,High Risk,1,Churn,35.83333333333334,Medium Engagement
+MB00106,41,Non-binary,2024-09-30,296,Low Risk,0,Retained,57.58333333333333,Medium Engagement
+MB00107,13,Male,2024-04-11,468,Low Risk,0,Retained,72.83333333333334,High Engagement
+MB00108,30,Prefer not to say,2023-04-10,835,High Risk,1,Churn,37.66666666666667,Medium Engagement
+MB00109,16,Female,2024-10-22,274,Active,0,Retained,26.916666666666668,Low Engagement
+MB00110,24,Female,2025-04-02,112,Active,0,Retained,56.750000000000014,Medium Engagement
+MB00111,13,Male,2024-08-18,339,Low Risk,0,Retained,32.833333333333336,Low Engagement
+MB00112,17,Female,2025-01-02,202,Active,0,Retained,76.5,High Engagement
+MB00113,39,Female,2022-10-06,1021,High Risk,1,Churn,36.416666666666664,Medium Engagement
+MB00114,26,Male,2023-02-13,891,High Risk,1,Churn,76.83333333333334,High Engagement
+MB00115,31,Male,2023-08-18,705,Medium Risk,1,Churn,35.25,Medium Engagement
+MB00116,42,Female,2022-12-07,959,High Risk,1,Churn,46.5,Medium Engagement
+MB00117,29,Female,2023-02-18,886,High Risk,1,Churn,70.16666666666667,High Engagement
+MB00118,40,Male,2024-12-06,229,Active,0,Retained,47.833333333333336,Medium Engagement
+MB00119,27,Male,2022-11-15,981,High Risk,1,Churn,33.416666666666664,Low Engagement
+MB00120,24,Female,2023-11-26,605,Medium Risk,1,Churn,51.083333333333336,Medium Engagement
+MB00121,23,Non-binary,2023-02-14,890,High Risk,1,Churn,22.416666666666668,Low Engagement
+MB00122,28,Male,2022-11-11,985,High Risk,1,Churn,39.49999999999999,Medium Engagement
+MB00123,45,Female,2024-07-19,369,Low Risk,0,Retained,64.08333333333334,High Engagement
+MB00124,29,Non-binary,2025-02-25,148,Active,0,Retained,34.25,Low Engagement
+MB00125,36,Male,2024-10-23,273,Active,0,Retained,52.33333333333334,Medium Engagement
+MB00126,20,Male,2024-03-25,485,Low Risk,0,Retained,44.916666666666664,Medium Engagement
+MB00127,25,Female,2023-02-02,902,High Risk,1,Churn,40.583333333333336,Medium Engagement
+MB00128,12,Non-binary,2022-12-19,947,High Risk,1,Churn,76.66666666666667,High Engagement
+MB00129,42,Female,2025-06-15,38,Active,0,Retained,24.333333333333336,Low Engagement
+MB00130,26,Other (self-described),2023-12-27,574,Medium Risk,1,Churn,38.99999999999999,Medium Engagement
+MB00131,16,Male,2024-04-04,475,Low Risk,0,Retained,45.833333333333336,Medium Engagement
+MB00132,21,Male,2024-10-29,267,Active,0,Retained,9.000000000000002,Low Engagement
+MB00133,15,Male,2025-02-15,158,Active,0,Retained,51.75000000000001,Medium Engagement
+MB00134,47,Female,2024-06-28,390,Low Risk,0,Retained,40.0,Medium Engagement
+MB00135,19,Male,2022-09-22,1035,High Risk,1,Churn,21.666666666666668,Low Engagement
+MB00136,29,Prefer not to say,2024-07-13,375,Low Risk,0,Retained,65.25000000000001,High Engagement
+MB00137,48,Female,2023-12-18,583,Medium Risk,1,Churn,83.83333333333334,High Engagement
+MB00138,33,Male,2023-06-05,779,Medium Risk,1,Churn,49.083333333333336,Medium Engagement
+MB00139,37,Female,2024-05-31,418,Low Risk,0,Retained,63.0,High Engagement
+MB00140,20,Non-binary,2022-08-23,1065,High Risk,1,Churn,24.666666666666664,Low Engagement
+MB00141,40,Male,2022-09-01,1056,High Risk,1,Churn,61.00000000000001,High Engagement
+MB00142,28,Prefer not to say,2024-09-27,299,Low Risk,0,Retained,33.66666666666667,Low Engagement
+MB00143,39,Other (self-described),2024-01-10,560,Low Risk,0,Retained,46.25,Medium Engagement
+MB00144,29,Male,2024-08-06,351,Low Risk,0,Retained,40.916666666666664,Medium Engagement
+MB00145,35,Female,2024-08-23,334,Low Risk,0,Retained,34.666666666666664,Low Engagement
+MB00146,14,Male,2025-05-14,70,Active,0,Retained,22.916666666666668,Low Engagement
+MB00147,34,Male,2023-09-12,680,Medium Risk,1,Churn,21.750000000000004,Low Engagement
+MB00148,27,Prefer not to say,2024-01-04,566,Medium Risk,1,Churn,48.99999999999999,Medium Engagement
+MB00149,14,Male,2025-04-29,85,Active,0,Retained,26.833333333333332,Low Engagement
+MB00150,40,Male,2024-08-30,327,Low Risk,0,Retained,12.333333333333334,Low Engagement
+MB00151,28,Female,2022-10-29,998,High Risk,1,Churn,45.0,Medium Engagement
+MB00152,27,Prefer not to say,2024-10-10,286,Low Risk,0,Retained,9.166666666666666,Low Engagement
+MB00153,27,Female,2025-01-19,185,Active,0,Retained,60.583333333333336,High Engagement
+MB00154,29,Female,2024-01-18,552,Low Risk,0,Retained,46.166666666666664,Medium Engagement
+MB00155,39,Male,2022-08-08,1080,High Risk,1,Churn,70.16666666666667,High Engagement
+MB00156,41,Male,2024-10-08,288,Low Risk,0,Retained,11.000000000000002,Low Engagement
+MB00157,41,Non-binary,2023-07-08,746,Medium Risk,1,Churn,57.58333333333333,Medium Engagement
+MB00158,40,Non-binary,2023-04-03,842,High Risk,1,Churn,49.41666666666667,Medium Engagement
+MB00159,33,Female,2024-10-12,284,Low Risk,0,Retained,46.416666666666664,Medium Engagement
+MB00160,14,Female,2023-05-09,806,Medium Risk,1,Churn,32.24999999999999,Low Engagement
+MB00161,27,Male,2024-05-27,422,Low Risk,0,Retained,47.83333333333333,Medium Engagement
+MB00162,47,Male,2023-08-19,704,Medium Risk,1,Churn,49.75,Medium Engagement
+MB00163,43,Male,2023-08-18,705,Medium Risk,1,Churn,53.333333333333336,Medium Engagement
+MB00164,22,Male,2023-11-30,601,Medium Risk,1,Churn,4.000000000000001,Low Engagement
+MB00165,14,Female,2025-03-18,127,Active,0,Retained,37.5,Medium Engagement
+MB00166,16,Male,2023-01-15,920,High Risk,1,Churn,59.00000000000001,Medium Engagement
+MB00167,40,Other (self-described),2024-07-16,372,Low Risk,0,Retained,53.333333333333336,Medium Engagement
+MB00168,23,Female,2024-12-06,229,Active,0,Retained,24.16666666666667,Low Engagement
+MB00169,42,Male,2025-05-10,74,Active,0,Retained,37.5,Medium Engagement
+MB00170,27,Female,2023-10-02,660,Medium Risk,1,Churn,41.0,Medium Engagement
+MB00171,28,Prefer not to say,2023-07-02,752,Medium Risk,1,Churn,37.5,Medium Engagement
+MB00172,47,Male,2025-06-05,48,Active,0,Retained,49.75,Medium Engagement
+MB00173,41,Female,2023-12-25,576,Medium Risk,1,Churn,59.33333333333333,Medium Engagement
+MB00174,49,Male,2024-10-24,272,Active,0,Retained,22.833333333333332,Low Engagement
+MB00175,22,Female,2023-08-05,718,Medium Risk,1,Churn,67.66666666666667,High Engagement
+MB00176,34,Female,2024-12-19,216,Active,0,Retained,41.333333333333336,Medium Engagement
+MB00177,39,Male,2023-06-18,766,Medium Risk,1,Churn,45.41666666666666,Medium Engagement
+MB00178,47,Female,2024-05-07,442,Low Risk,0,Retained,32.33333333333333,Low Engagement
+MB00179,37,Prefer not to say,2022-09-29,1028,High Risk,1,Churn,12.916666666666664,Low Engagement
+MB00180,39,Male,2025-01-27,177,Active,0,Retained,91.16666666666666,High Engagement
+MB00181,36,Female,2024-06-24,394,Low Risk,0,Retained,56.16666666666668,Medium Engagement
+MB00182,27,Male,2025-02-22,151,Active,0,Retained,1.3333333333333335,Low Engagement
+MB00183,45,Female,2022-10-12,1015,High Risk,1,Churn,53.25000000000001,Medium Engagement
+MB00184,28,Prefer not to say,2022-12-01,965,High Risk,1,Churn,37.5,Medium Engagement
+MB00185,17,Male,2024-09-21,305,Low Risk,0,Retained,18.083333333333336,Low Engagement
+MB00186,48,Male,2023-07-21,733,Medium Risk,1,Churn,22.499999999999996,Low Engagement
+MB00187,15,Prefer not to say,2023-02-03,901,High Risk,1,Churn,44.5,Medium Engagement
+MB00188,28,Male,2023-11-09,622,Medium Risk,1,Churn,91.33333333333333,High Engagement
+MB00189,22,Female,2023-12-06,595,Medium Risk,1,Churn,53.5,Medium Engagement
+MB00190,18,Female,2024-10-08,288,Low Risk,0,Retained,29.416666666666668,Low Engagement
+MB00191,23,Female,2025-03-15,130,Active,0,Retained,41.5,Medium Engagement
+MB00192,44,Female,2022-11-10,986,High Risk,1,Churn,76.41666666666667,High Engagement
+MB00193,36,Male,2022-11-07,989,High Risk,1,Churn,53.91666666666667,Medium Engagement
+MB00194,40,Male,2023-08-18,705,Medium Risk,1,Churn,32.66666666666666,Low Engagement
+MB00195,17,Prefer not to say,2024-06-26,392,Low Risk,0,Retained,53.25000000000001,Medium Engagement
+MB00196,37,Female,2024-06-16,402,Low Risk,0,Retained,29.333333333333332,Low Engagement
+MB00197,26,Female,2023-05-11,804,Medium Risk,1,Churn,40.583333333333336,Medium Engagement
+MB00198,28,Non-binary,2022-11-10,986,High Risk,1,Churn,52.5,Medium Engagement
+MB00199,48,Male,2022-11-21,975,High Risk,1,Churn,49.75,Medium Engagement
+MB00200,29,Non-binary,2023-03-15,861,High Risk,1,Churn,50.25000000000001,Medium Engagement
+MB00201,49,Prefer not to say,2023-08-09,714,Medium Risk,1,Churn,56.333333333333336,Medium Engagement
+MB00202,30,Female,2025-03-25,120,Active,0,Retained,50.16666666666667,Medium Engagement
+MB00203,29,Female,2025-01-01,203,Active,0,Retained,49.583333333333336,Medium Engagement
+MB00204,34,Female,2022-11-09,987,High Risk,1,Churn,47.41666666666667,Medium Engagement
+MB00205,19,Male,2023-09-16,676,Medium Risk,1,Churn,30.75,Low Engagement
+MB00206,39,Male,2025-06-13,40,Active,0,Retained,38.0,Medium Engagement
+MB00207,41,Male,2025-03-06,139,Active,0,Retained,11.000000000000002,Low Engagement
+MB00208,29,Female,2023-07-17,737,Medium Risk,1,Churn,46.166666666666664,Medium Engagement
+MB00209,17,Prefer not to say,2025-06-17,36,Active,0,Retained,26.0,Low Engagement
+MB00210,40,Male,2025-01-02,202,Active,0,Retained,48.91666666666667,Medium Engagement
+MB00211,31,Prefer not to say,2023-11-16,615,Medium Risk,1,Churn,45.25,Medium Engagement
+MB00212,39,Male,2023-06-17,767,Medium Risk,1,Churn,65.33333333333334,High Engagement
+MB00213,26,Prefer not to say,2023-07-29,725,Medium Risk,1,Churn,84.75000000000001,High Engagement
+MB00214,39,Female,2024-10-27,269,Active,0,Retained,84.83333333333334,High Engagement
+MB00215,29,Female,2023-05-26,789,Medium Risk,1,Churn,46.166666666666664,Medium Engagement
+MB00216,27,Male,2024-10-13,283,Low Risk,0,Retained,24.916666666666664,Low Engagement
+MB00217,32,Female,2024-07-11,377,Low Risk,0,Retained,54.333333333333336,Medium Engagement
+MB00218,35,Non-binary,2023-04-19,826,Medium Risk,1,Churn,37.0,Medium Engagement
+MB00219,43,Male,2023-08-01,722,Medium Risk,1,Churn,69.25,High Engagement
+MB00220,24,Female,2022-12-31,935,High Risk,1,Churn,44.166666666666664,Medium Engagement
+MB00221,22,Male,2023-07-23,731,Medium Risk,1,Churn,75.50000000000001,High Engagement
+MB00222,23,Female,2023-10-26,636,Medium Risk,1,Churn,49.25000000000001,Medium Engagement
+MB00223,17,Male,2025-03-15,130,Active,0,Retained,46.16666666666667,Medium Engagement
+MB00224,19,Non-binary,2024-05-27,422,Low Risk,0,Retained,54.833333333333336,Medium Engagement
+MB00225,24,Female,2024-09-13,313,Low Risk,0,Retained,33.24999999999999,Low Engagement
+MB00226,27,Other (self-described),2024-10-06,290,Low Risk,0,Retained,39.24999999999999,Medium Engagement
+MB00227,22,Male,2022-08-21,1067,High Risk,1,Churn,77.83333333333333,High Engagement
+MB00228,14,Female,2024-04-30,449,Low Risk,0,Retained,35.41666666666667,Medium Engagement
+MB00229,47,Male,2022-11-15,981,High Risk,1,Churn,3.333333333333334,Low Engagement
+MB00230,26,Non-binary,2023-08-20,703,Medium Risk,1,Churn,54.833333333333336,Medium Engagement
+MB00231,36,Non-binary,2023-02-27,877,High Risk,1,Churn,18.166666666666664,Low Engagement
+MB00232,30,Non-binary,2024-01-04,566,Medium Risk,1,Churn,70.75,High Engagement
+MB00233,12,Non-binary,2023-10-17,645,Medium Risk,1,Churn,16.833333333333332,Low Engagement
+MB00234,49,Male,2024-01-15,555,Low Risk,0,Retained,39.49999999999999,Medium Engagement
+MB00235,47,Non-binary,2024-11-27,238,Active,0,Retained,25.666666666666664,Low Engagement
+MB00236,26,Non-binary,2023-05-15,800,Medium Risk,1,Churn,51.16666666666667,Medium Engagement
+MB00237,35,Prefer not to say,2024-08-27,330,Low Risk,0,Retained,38.416666666666664,Medium Engagement
+MB00238,41,Male,2025-05-28,56,Active,0,Retained,46.0,Medium Engagement
+MB00239,26,Male,2023-08-05,718,Medium Risk,1,Churn,63.166666666666686,High Engagement
+MB00240,30,Non-binary,2024-12-16,219,Active,0,Retained,59.333333333333336,Medium Engagement
+MB00241,33,Male,2022-09-25,1032,High Risk,1,Churn,49.083333333333336,Medium Engagement
+MB00242,36,Non-binary,2022-09-11,1046,High Risk,1,Churn,63.0,High Engagement
+MB00243,45,Male,2022-10-22,1005,High Risk,1,Churn,43.33333333333333,Medium Engagement
+MB00244,28,Male,2024-05-24,425,Low Risk,0,Retained,39.49999999999999,Medium Engagement
+MB00245,35,Female,2025-06-06,47,Active,0,Retained,1.6666666666666663,Low Engagement
+MB00246,25,Female,2022-10-08,1019,High Risk,1,Churn,40.583333333333336,Medium Engagement
+MB00247,41,Male,2024-03-23,487,Low Risk,0,Retained,72.83333333333334,High Engagement
+MB00248,18,Non-binary,2022-08-28,1060,High Risk,1,Churn,33.583333333333336,Low Engagement
+MB00249,48,Male,2022-08-31,1057,High Risk,1,Churn,41.33333333333333,Medium Engagement
+MB00250,40,Male,2022-12-27,939,High Risk,1,Churn,68.16666666666667,High Engagement
+MB00251,40,Male,2024-08-13,344,Low Risk,0,Retained,43.583333333333336,Medium Engagement
+MB00252,13,Female,2024-05-08,441,Low Risk,0,Retained,45.333333333333336,Medium Engagement
+MB00253,27,Male,2022-12-29,937,High Risk,1,Churn,64.75000000000001,High Engagement
+MB00254,48,Male,2024-07-20,368,Low Risk,0,Retained,41.33333333333333,Medium Engagement
+MB00255,39,Female,2024-12-24,211,Active,0,Retained,65.91666666666667,High Engagement
+MB00256,37,Non-binary,2023-11-08,623,Medium Risk,1,Churn,23.666666666666668,Low Engagement
+MB00257,26,Female,2022-09-29,1028,High Risk,1,Churn,78.5,High Engagement
+MB00258,48,Male,2023-06-12,772,Medium Risk,1,Churn,48.50000000000001,Medium Engagement
+MB00259,42,Female,2023-10-24,638,Medium Risk,1,Churn,46.5,Medium Engagement
+MB00260,16,Non-binary,2025-03-11,134,Active,0,Retained,62.0,High Engagement
+MB00261,29,Female,2023-09-07,685,Medium Risk,1,Churn,23.166666666666668,Low Engagement
+MB00262,22,Female,2022-08-03,1085,High Risk,1,Churn,42.0,Medium Engagement
+MB00263,43,Other (self-described),2025-01-24,180,Active,0,Retained,75.16666666666667,High Engagement
+MB00264,13,Female,2023-12-18,583,Medium Risk,1,Churn,30.58333333333333,Low Engagement
+MB00265,22,Female,2022-12-01,965,High Risk,1,Churn,78.5,High Engagement
+MB00266,43,Female,2023-04-26,819,Medium Risk,1,Churn,38.99999999999999,Medium Engagement
+MB00267,20,Female,2023-06-11,773,Medium Risk,1,Churn,24.666666666666664,Low Engagement
+MB00268,25,Male,2023-06-05,779,Medium Risk,1,Churn,42.416666666666664,Medium Engagement
+MB00269,34,Male,2024-06-05,413,Low Risk,0,Retained,40.416666666666664,Medium Engagement
+MB00270,46,Female,2024-08-14,343,Low Risk,0,Retained,68.83333333333333,High Engagement
+MB00271,48,Female,2023-02-12,892,High Risk,1,Churn,70.33333333333334,High Engagement
+MB00272,28,Male,2023-02-11,893,High Risk,1,Churn,40.08333333333333,Medium Engagement
+MB00273,20,Male,2022-12-12,954,High Risk,1,Churn,70.5,High Engagement
+MB00274,20,Male,2022-10-24,1003,High Risk,1,Churn,44.916666666666664,Medium Engagement
+MB00275,39,Male,2023-12-26,575,Medium Risk,1,Churn,69.66666666666667,High Engagement
+MB00276,22,Prefer not to say,2024-01-05,565,Medium Risk,1,Churn,34.333333333333336,Low Engagement
+MB00277,27,Male,2023-02-23,881,High Risk,1,Churn,44.66666666666667,Medium Engagement
+MB00278,42,Female,2023-07-31,723,Medium Risk,1,Churn,72.50000000000001,High Engagement
+MB00279,27,Female,2023-06-06,778,Medium Risk,1,Churn,15.166666666666668,Low Engagement
+MB00280,19,Male,2023-02-26,878,High Risk,1,Churn,54.833333333333336,Medium Engagement
+MB00281,35,Female,2022-11-18,978,High Risk,1,Churn,32.25,Low Engagement
+MB00282,20,Female,2024-06-28,390,Low Risk,0,Retained,28.666666666666668,Low Engagement
+MB00283,20,Male,2024-05-19,430,Low Risk,0,Retained,54.41666666666667,Medium Engagement
+MB00284,45,Non-binary,2025-03-14,131,Active,0,Retained,39.5,Medium Engagement
+MB00285,42,Male,2023-10-16,646,Medium Risk,1,Churn,63.83333333333333,High Engagement
+MB00286,31,Female,2025-05-15,69,Active,0,Retained,52.583333333333336,Medium Engagement
+MB00287,48,Female,2024-02-13,526,Low Risk,0,Retained,18.16666666666667,Low Engagement
+MB00288,28,Male,2023-11-23,608,Medium Risk,1,Churn,86.41666666666667,High Engagement
+MB00289,16,Male,2024-08-21,336,Low Risk,0,Retained,69.5,High Engagement
+MB00290,43,Female,2023-10-02,660,Medium Risk,1,Churn,59.66666666666667,Medium Engagement
+MB00291,43,Female,2025-05-21,63,Active,0,Retained,36.83333333333333,Medium Engagement
+MB00292,24,Male,2025-05-14,70,Active,0,Retained,59.25,Medium Engagement
+MB00293,41,Male,2023-01-28,907,High Risk,1,Churn,15.5,Low Engagement
+MB00294,25,Female,2024-06-04,414,Low Risk,0,Retained,31.83333333333333,Low Engagement
+MB00295,16,Female,2025-02-07,166,Active,0,Retained,13.666666666666666,Low Engagement
+MB00296,30,Non-binary,2023-12-14,587,Medium Risk,1,Churn,56.16666666666668,Medium Engagement
+MB00297,41,Female,2023-03-25,851,High Risk,1,Churn,50.083333333333336,Medium Engagement
+MB00298,48,Male,2024-11-05,260,Active,0,Retained,47.583333333333336,Medium Engagement
+MB00299,49,Non-binary,2023-08-29,694,Medium Risk,1,Churn,47.25,Medium Engagement
+MB00300,39,Male,2025-03-24,121,Active,0,Retained,44.666666666666664,Medium Engagement
+MB00301,23,Other (self-described),2025-04-28,86,Active,0,Retained,59.583333333333336,Medium Engagement
+MB00302,24,Female,2023-12-05,596,Medium Risk,1,Churn,44.166666666666664,Medium Engagement
+MB00303,19,Other (self-described),2023-11-25,606,Medium Risk,1,Churn,32.5,Low Engagement
+MB00304,48,Female,2023-08-14,709,Medium Risk,1,Churn,28.666666666666668,Low Engagement
+MB00305,32,Female,2023-05-11,804,Medium Risk,1,Churn,83.0,High Engagement
+MB00306,48,Male,2022-08-18,1070,High Risk,1,Churn,41.416666666666664,Medium Engagement
+MB00307,35,Non-binary,2023-12-21,580,Medium Risk,1,Churn,84.66666666666669,High Engagement
+MB00308,47,Non-binary,2024-07-14,374,Low Risk,0,Retained,65.16666666666667,High Engagement
+MB00309,39,Female,2023-02-27,877,High Risk,1,Churn,48.74999999999999,Medium Engagement
+MB00310,19,Female,2024-09-07,319,Low Risk,0,Retained,47.41666666666667,Medium Engagement
+MB00311,43,Prefer not to say,2024-03-12,498,Low Risk,0,Retained,80.58333333333334,High Engagement
+MB00312,30,Non-binary,2025-03-31,114,Active,0,Retained,97.33333333333334,High Engagement
+MB00313,21,Male,2025-05-27,57,Active,0,Retained,47.16666666666667,Medium Engagement
+MB00314,35,Non-binary,2022-09-01,1056,High Risk,1,Churn,21.000000000000004,Low Engagement
+MB00315,41,Non-binary,2023-01-14,921,High Risk,1,Churn,20.666666666666668,Low Engagement
+MB00316,42,Male,2023-06-12,772,Medium Risk,1,Churn,74.00000000000001,High Engagement
+MB00317,44,Male,2024-04-13,466,Low Risk,0,Retained,60.66666666666667,High Engagement
+MB00318,15,Female,2024-12-20,215,Active,0,Retained,36.583333333333336,Medium Engagement
+MB00319,47,Non-binary,2025-01-07,197,Active,0,Retained,36.416666666666664,Medium Engagement
+MB00320,24,Female,2024-09-29,297,Low Risk,0,Retained,32.99999999999999,Low Engagement
+MB00321,39,Female,2023-11-16,615,Medium Risk,1,Churn,65.91666666666667,High Engagement
+MB00322,33,Female,2023-05-23,792,Medium Risk,1,Churn,19.333333333333332,Low Engagement
+MB00323,47,Non-binary,2023-07-20,734,Medium Risk,1,Churn,42.416666666666664,Medium Engagement
+MB00324,22,Female,2024-08-28,329,Low Risk,0,Retained,53.833333333333336,Medium Engagement
+MB00325,42,Male,2022-09-10,1047,High Risk,1,Churn,37.5,Medium Engagement
+MB00326,42,Male,2023-04-29,816,Medium Risk,1,Churn,59.41666666666667,Medium Engagement
+MB00327,13,Male,2023-11-10,621,Medium Risk,1,Churn,50.66666666666667,Medium Engagement
+MB00328,39,Female,2023-09-10,682,Medium Risk,1,Churn,84.83333333333334,High Engagement
+MB00329,40,Male,2024-04-02,477,Low Risk,0,Retained,32.66666666666666,Low Engagement
+MB00330,36,Male,2024-10-02,294,Low Risk,0,Retained,53.41666666666667,Medium Engagement
+MB00331,16,Prefer not to say,2024-06-08,410,Low Risk,0,Retained,43.25,Medium Engagement
+MB00332,29,Female,2023-04-07,838,High Risk,1,Churn,44.583333333333336,Medium Engagement
+MB00333,16,Female,2025-06-07,46,Active,0,Retained,26.916666666666668,Low Engagement
+MB00334,16,Male,2025-02-19,154,Active,0,Retained,59.00000000000001,Medium Engagement
+MB00335,30,Other (self-described),2025-05-05,79,Active,0,Retained,35.75000000000001,Medium Engagement
+MB00336,43,Male,2025-05-10,74,Active,0,Retained,53.333333333333336,Medium Engagement
+MB00337,28,Male,2022-12-24,942,High Risk,1,Churn,91.33333333333333,High Engagement
+MB00338,40,Male,2023-06-04,780,Medium Risk,1,Churn,47.833333333333336,Medium Engagement
+MB00339,20,Female,2024-02-04,535,Low Risk,0,Retained,47.5,Medium Engagement
+MB00340,39,Male,2025-03-10,135,Active,0,Retained,44.666666666666664,Medium Engagement
+MB00341,25,Female,2024-01-16,554,Low Risk,0,Retained,47.91666666666667,Medium Engagement
+MB00342,29,Other (self-described),2024-02-04,535,Low Risk,0,Retained,28.999999999999996,Low Engagement
+MB00343,24,Male,2024-12-20,215,Active,0,Retained,59.25,Medium Engagement
+MB00344,36,Female,2024-03-17,493,Low Risk,0,Retained,53.91666666666667,Medium Engagement
+MB00345,19,Female,2024-04-24,455,Low Risk,0,Retained,31.75,Low Engagement
+MB00346,18,Male,2023-09-06,686,Medium Risk,1,Churn,64.66666666666667,High Engagement
+MB00347,14,Male,2023-08-16,707,Medium Risk,1,Churn,81.16666666666667,High Engagement
+MB00348,14,Male,2025-05-05,79,Active,0,Retained,55.66666666666668,Medium Engagement
+MB00349,20,Female,2024-05-20,429,Low Risk,0,Retained,66.83333333333334,High Engagement
+MB00350,44,Female,2023-08-26,697,Medium Risk,1,Churn,39.666666666666664,Medium Engagement
+MB00351,39,Male,2024-01-04,566,Medium Risk,1,Churn,69.66666666666667,High Engagement
+MB00352,32,Female,2022-12-23,943,High Risk,1,Churn,40.16666666666667,Medium Engagement
+MB00353,40,Prefer not to say,2023-07-22,732,Medium Risk,1,Churn,59.25,Medium Engagement
+MB00354,34,Male,2024-12-31,204,Active,0,Retained,51.66666666666667,Medium Engagement
+MB00355,46,Male,2025-04-08,106,Active,0,Retained,39.5,Medium Engagement
+MB00356,27,Other (self-described),2023-08-08,715,Medium Risk,1,Churn,39.24999999999999,Medium Engagement
+MB00357,13,Female,2025-05-25,59,Active,0,Retained,46.16666666666667,Medium Engagement
+MB00358,19,Male,2023-10-08,654,Medium Risk,1,Churn,59.08333333333333,Medium Engagement
+MB00359,37,Non-binary,2022-09-25,1032,High Risk,1,Churn,46.0,Medium Engagement
+MB00360,42,Prefer not to say,2023-10-19,643,Medium Risk,1,Churn,41.41666666666667,Medium Engagement
+MB00361,48,Female,2024-05-05,444,Low Risk,0,Retained,70.33333333333334,High Engagement
+MB00362,28,Male,2023-08-07,716,Medium Risk,1,Churn,42.50000000000001,Medium Engagement
+MB00363,21,Male,2024-02-20,519,Low Risk,0,Retained,42.50000000000001,Medium Engagement
+MB00364,23,Male,2023-11-19,612,Medium Risk,1,Churn,57.333333333333336,Medium Engagement
+MB00365,37,Male,2022-09-24,1033,High Risk,1,Churn,51.33333333333333,Medium Engagement
+MB00366,14,Prefer not to say,2024-05-07,442,Low Risk,0,Retained,13.833333333333334,Low Engagement
+MB00367,45,Prefer not to say,2022-09-03,1054,High Risk,1,Churn,40.75,Medium Engagement
+MB00368,19,Male,2022-11-01,995,High Risk,1,Churn,99.33333333333334,High Engagement
+MB00369,23,Non-binary,2024-11-26,239,Active,0,Retained,53.833333333333336,Medium Engagement
+MB00370,38,Male,2025-04-10,104,Active,0,Retained,39.833333333333336,Medium Engagement
+MB00371,14,Female,2025-03-07,138,Active,0,Retained,55.750000000000014,Medium Engagement
+MB00372,46,Non-binary,2025-06-03,50,Active,0,Retained,46.5,Medium Engagement
+MB00373,22,Female,2025-03-14,131,Active,0,Retained,67.08333333333333,High Engagement
+MB00374,47,Female,2023-06-26,758,Medium Risk,1,Churn,32.33333333333333,Low Engagement
+MB00375,28,Non-binary,2025-04-08,106,Active,0,Retained,39.916666666666664,Medium Engagement
+MB00376,29,Male,2024-07-18,370,Low Risk,0,Retained,34.583333333333336,Low Engagement
+MB00377,31,Female,2023-01-05,930,High Risk,1,Churn,47.0,Medium Engagement
+MB00378,14,Male,2025-05-29,55,Active,0,Retained,39.66666666666667,Medium Engagement
+MB00379,29,Other (self-described),2023-02-06,898,High Risk,1,Churn,28.999999999999996,Low Engagement
+MB00380,22,Male,2024-08-26,331,Low Risk,0,Retained,17.0,Low Engagement
+MB00381,47,Non-binary,2025-02-17,156,Active,0,Retained,36.5,Medium Engagement
+MB00382,35,Male,2023-06-11,773,Medium Risk,1,Churn,58.91666666666667,Medium Engagement
+MB00383,28,Female,2023-08-23,700,Medium Risk,1,Churn,60.00000000000001,High Engagement
+MB00384,19,Female,2022-12-01,965,High Risk,1,Churn,40.416666666666664,Medium Engagement
+MB00385,26,Male,2023-05-02,813,Medium Risk,1,Churn,47.0,Medium Engagement
+MB00386,21,Male,2023-02-18,886,High Risk,1,Churn,36.666666666666664,Medium Engagement
+MB00387,38,Male,2024-08-26,331,Low Risk,0,Retained,48.666666666666664,Medium Engagement
+MB00388,25,Male,2024-12-16,219,Active,0,Retained,9.166666666666668,Low Engagement
+MB00389,19,Male,2023-04-15,830,High Risk,1,Churn,48.583333333333336,Medium Engagement
+MB00390,40,Female,2023-02-14,890,High Risk,1,Churn,53.0,Medium Engagement
+MB00391,44,Female,2022-08-03,1085,High Risk,1,Churn,76.41666666666667,High Engagement
+MB00392,16,Male,2024-04-09,470,Low Risk,0,Retained,58.5,Medium Engagement
+MB00393,28,Male,2024-05-22,427,Low Risk,0,Retained,31.0,Low Engagement
+MB00394,27,Prefer not to say,2023-03-19,857,High Risk,1,Churn,9.166666666666666,Low Engagement
+MB00395,34,Female,2024-06-25,393,Low Risk,0,Retained,54.0,Medium Engagement
+MB00396,27,Other (self-described),2022-10-05,1022,High Risk,1,Churn,39.24999999999999,Medium Engagement
+MB00397,49,Male,2022-12-21,945,High Risk,1,Churn,56.50000000000001,Medium Engagement
+MB00398,45,Male,2024-03-23,487,Low Risk,0,Retained,60.50000000000001,High Engagement
+MB00399,49,Male,2023-04-15,830,High Risk,1,Churn,39.49999999999999,Medium Engagement
+MB00400,42,Female,2023-04-11,834,High Risk,1,Churn,44.74999999999999,Medium Engagement
+MB00401,27,Male,2025-03-05,140,Active,0,Retained,24.916666666666664,Low Engagement
+MB00402,38,Female,2022-11-04,992,High Risk,1,Churn,58.00000000000001,Medium Engagement
+MB00403,21,Non-binary,2024-01-01,569,Medium Risk,1,Churn,38.583333333333336,Medium Engagement
+MB00404,29,Female,2023-01-24,911,High Risk,1,Churn,49.583333333333336,Medium Engagement
+MB00405,33,Male,2024-07-17,371,Low Risk,0,Retained,60.00000000000001,High Engagement
+MB00406,22,Male,2022-11-12,984,High Risk,1,Churn,78.66666666666667,High Engagement
+MB00407,37,Male,2024-05-04,445,Low Risk,0,Retained,28.333333333333332,Low Engagement
+MB00408,40,Male,2025-06-11,42,Active,0,Retained,25.916666666666664,Low Engagement
+MB00409,29,Prefer not to say,2022-11-01,995,High Risk,1,Churn,44.583333333333336,Medium Engagement
+MB00410,23,Other (self-described),2025-03-17,128,Active,0,Retained,59.583333333333336,Medium Engagement
+MB00411,12,Non-binary,2024-07-17,371,Low Risk,0,Retained,55.91666666666667,Medium Engagement
+MB00412,40,Male,2022-09-15,1042,High Risk,1,Churn,61.00000000000001,High Engagement
+MB00413,27,Non-binary,2022-09-14,1043,High Risk,1,Churn,47.0,Medium Engagement
+MB00414,34,Non-binary,2023-10-21,641,Medium Risk,1,Churn,40.833333333333336,Medium Engagement
+MB00415,14,Female,2023-08-20,703,Medium Risk,1,Churn,44.16666666666667,Medium Engagement
+MB00416,43,Prefer not to say,2024-03-02,508,Low Risk,0,Retained,25.16666666666667,Low Engagement
+MB00417,33,Non-binary,2024-08-14,343,Low Risk,0,Retained,33.0,Low Engagement
+MB00418,13,Male,2024-07-07,381,Low Risk,0,Retained,32.833333333333336,Low Engagement
+MB00419,23,Non-binary,2023-07-07,747,Medium Risk,1,Churn,86.33333333333334,High Engagement
+MB00420,22,Female,2023-04-13,832,High Risk,1,Churn,31.0,Low Engagement
+MB00421,18,Male,2023-03-02,874,High Risk,1,Churn,46.08333333333333,Medium Engagement
+MB00422,28,Prefer not to say,2023-03-05,871,High Risk,1,Churn,33.66666666666667,Low Engagement
+MB00423,15,Male,2025-03-17,128,Active,0,Retained,55.41666666666667,Medium Engagement
+MB00424,14,Male,2024-01-13,557,Low Risk,0,Retained,66.00000000000001,High Engagement
+MB00425,40,Prefer not to say,2025-04-22,92,Active,0,Retained,59.25,Medium Engagement
+MB00426,35,Male,2023-11-15,616,Medium Risk,1,Churn,51.083333333333336,Medium Engagement
+MB00427,22,Female,2024-03-09,501,Low Risk,0,Retained,67.08333333333333,High Engagement
+MB00428,20,Male,2022-11-20,976,High Risk,1,Churn,44.916666666666664,Medium Engagement
+MB00429,49,Female,2024-06-14,404,Low Risk,0,Retained,49.83333333333333,Medium Engagement
+MB00430,20,Female,2025-02-18,155,Active,0,Retained,47.5,Medium Engagement
+MB00431,49,Male,2025-01-21,183,Active,0,Retained,36.5,Medium Engagement
+MB00432,49,Male,2023-04-03,842,High Risk,1,Churn,60.83333333333334,High Engagement
+MB00433,44,Male,2023-09-03,689,Medium Risk,1,Churn,15.416666666666668,Low Engagement
+MB00434,22,Male,2025-03-07,138,Active,0,Retained,77.83333333333333,High Engagement
+MB00435,36,Female,2025-03-25,120,Active,0,Retained,44.74999999999999,Medium Engagement
+MB00436,32,Male,2023-06-07,777,Medium Risk,1,Churn,26.333333333333332,Low Engagement
+MB00437,29,Non-binary,2025-04-06,108,Active,0,Retained,44.83333333333333,Medium Engagement
+MB00438,49,Male,2023-01-29,906,High Risk,1,Churn,26.916666666666668,Low Engagement
+MB00439,24,Male,2023-06-01,783,Medium Risk,1,Churn,54.16666666666667,Medium Engagement
+MB00440,28,Prefer not to say,2025-03-28,117,Active,0,Retained,33.66666666666667,Low Engagement
+MB00441,47,Other (self-described),2025-03-24,121,Active,0,Retained,35.5,Medium Engagement
+MB00442,41,Female,2022-08-07,1081,High Risk,1,Churn,59.33333333333333,Medium Engagement
+MB00443,32,Prefer not to say,2024-05-20,429,Low Risk,0,Retained,31.666666666666664,Low Engagement
+MB00444,42,Male,2024-05-24,425,Low Risk,0,Retained,37.5,Medium Engagement
+MB00445,39,Male,2023-02-08,896,High Risk,1,Churn,91.83333333333334,High Engagement
+MB00446,44,Male,2022-09-18,1039,High Risk,1,Churn,15.416666666666668,Low Engagement
+MB00447,39,Male,2022-08-07,1081,High Risk,1,Churn,38.0,Medium Engagement
+MB00448,29,Male,2023-04-12,833,High Risk,1,Churn,40.916666666666664,Medium Engagement
+MB00449,14,Male,2024-05-18,431,Low Risk,0,Retained,22.916666666666668,Low Engagement
+MB00450,41,Male,2025-03-26,119,Active,0,Retained,35.75,Medium Engagement
+MB00451,29,Prefer not to say,2023-03-18,858,High Risk,1,Churn,44.583333333333336,Medium Engagement
+MB00452,36,Male,2023-11-06,625,Medium Risk,1,Churn,37.16666666666667,Medium Engagement
+MB00453,38,Non-binary,2024-03-28,482,Low Risk,0,Retained,46.166666666666664,Medium Engagement
+MB00454,14,Male,2022-10-31,996,High Risk,1,Churn,92.66666666666667,High Engagement
+MB00455,30,Non-binary,2025-02-24,149,Active,0,Retained,79.0,High Engagement
+MB00456,26,Female,2024-01-15,555,Low Risk,0,Retained,29.166666666666668,Low Engagement
+MB00457,23,Female,2025-06-10,43,Active,0,Retained,54.41666666666667,Medium Engagement
+MB00458,37,Non-binary,2024-02-09,530,Low Risk,0,Retained,46.0,Medium Engagement
+MB00459,18,Male,2025-04-24,90,Active,0,Retained,40.666666666666664,Medium Engagement
+MB00460,30,Prefer not to say,2025-02-16,157,Active,0,Retained,37.66666666666667,Medium Engagement
+MB00461,23,Female,2025-02-17,156,Active,0,Retained,41.5,Medium Engagement
+MB00462,40,Male,2023-08-01,722,Medium Risk,1,Churn,48.91666666666667,Medium Engagement
+MB00463,16,Male,2023-04-20,825,Medium Risk,1,Churn,45.833333333333336,Medium Engagement
+MB00464,20,Female,2023-10-10,652,Medium Risk,1,Churn,48.75,Medium Engagement
+MB00465,29,Male,2022-09-02,1055,High Risk,1,Churn,65.58333333333334,High Engagement
+MB00466,41,Non-binary,2024-05-19,430,Low Risk,0,Retained,57.58333333333333,Medium Engagement
+MB00467,22,Female,2024-08-22,335,Low Risk,0,Retained,48.66666666666667,Medium Engagement
+MB00468,30,Non-binary,2022-12-10,956,High Risk,1,Churn,70.75,High Engagement
+MB00469,18,Male,2024-10-27,269,Active,0,Retained,35.0,Low Engagement
+MB00470,22,Male,2022-09-01,1056,High Risk,1,Churn,4.000000000000001,Low Engagement
+MB00471,18,Prefer not to say,2025-06-10,43,Active,0,Retained,45.666666666666664,Medium Engagement
+MB00472,49,Female,2022-08-25,1063,High Risk,1,Churn,45.833333333333336,Medium Engagement
+MB00473,31,Prefer not to say,2025-05-08,76,Active,0,Retained,37.16666666666667,Medium Engagement
+MB00474,33,Female,2022-11-16,980,High Risk,1,Churn,50.583333333333336,Medium Engagement
+MB00475,43,Prefer not to say,2023-12-08,593,Medium Risk,1,Churn,13.833333333333334,Low Engagement
+MB00476,34,Male,2022-07-31,1088,High Risk,1,Churn,51.66666666666667,Medium Engagement
+MB00477,30,Other (self-described),2025-04-05,109,Active,0,Retained,35.00000000000001,Medium Engagement
+MB00478,25,Male,2023-11-11,620,Medium Risk,1,Churn,9.166666666666668,Low Engagement
+MB00479,44,Female,2022-08-25,1063,High Risk,1,Churn,47.0,Medium Engagement
+MB00480,19,Prefer not to say,2023-12-13,588,Medium Risk,1,Churn,46.666666666666664,Medium Engagement
+MB00481,24,Female,2023-08-22,701,Medium Risk,1,Churn,41.5,Medium Engagement
+MB00482,20,Female,2023-06-13,771,Medium Risk,1,Churn,26.333333333333336,Low Engagement
+MB00483,44,Non-binary,2024-02-24,515,Low Risk,0,Retained,39.416666666666664,Medium Engagement
+MB00484,17,Male,2023-08-24,699,Medium Risk,1,Churn,18.083333333333336,Low Engagement
+MB00485,17,Female,2023-10-09,653,Medium Risk,1,Churn,49.5,Medium Engagement
+MB00486,12,Male,2022-11-06,990,High Risk,1,Churn,63.83333333333334,High Engagement
+MB00487,12,Male,2025-05-05,79,Active,0,Retained,47.66666666666667,Medium Engagement
+MB00488,43,Male,2024-08-27,330,Low Risk,0,Retained,53.16666666666667,Medium Engagement
+MB00489,47,Prefer not to say,2022-09-14,1043,High Risk,1,Churn,22.333333333333332,Low Engagement
+MB00490,14,Male,2022-11-17,979,High Risk,1,Churn,40.0,Medium Engagement
+MB00491,22,Male,2024-02-23,516,Low Risk,0,Retained,60.66666666666667,High Engagement
+MB00492,33,Prefer not to say,2023-09-01,691,Medium Risk,1,Churn,63.41666666666668,High Engagement
+MB00493,48,Non-binary,2024-08-31,326,Low Risk,0,Retained,34.333333333333336,Low Engagement
+MB00494,23,Female,2024-12-04,231,Active,0,Retained,49.25000000000001,Medium Engagement
+MB00495,44,Prefer not to say,2024-02-15,524,Low Risk,0,Retained,92.0,High Engagement
+MB00496,18,Female,2024-06-11,407,Low Risk,0,Retained,56.08333333333334,Medium Engagement
+MB00497,39,Female,2023-10-10,652,Medium Risk,1,Churn,12.75,Low Engagement
+MB00498,27,Non-binary,2025-04-01,113,Active,0,Retained,47.833333333333336,Medium Engagement
+MB00499,36,Male,2022-08-20,1068,High Risk,1,Churn,28.166666666666668,Low Engagement
+MB00500,35,Male,2022-08-07,1081,High Risk,1,Churn,13.833333333333334,Low Engagement
+MB00501,41,Female,2023-06-10,774,Medium Risk,1,Churn,56.75,Medium Engagement
+MB00502,29,Male,2023-11-30,601,Medium Risk,1,Churn,65.58333333333334,High Engagement
+MB00503,48,Male,2024-07-28,360,Low Risk,0,Retained,51.83333333333333,Medium Engagement
+MB00504,42,Female,2023-02-07,897,High Risk,1,Churn,46.5,Medium Engagement
+MB00505,39,Female,2023-06-24,760,Medium Risk,1,Churn,53.833333333333336,Medium Engagement
+MB00506,30,Prefer not to say,2024-12-31,204,Active,0,Retained,80.41666666666667,High Engagement
+MB00507,33,Female,2022-10-26,1001,High Risk,1,Churn,56.91666666666667,Medium Engagement
+MB00508,48,Other (self-described),2023-01-28,907,High Risk,1,Churn,19.416666666666668,Low Engagement
+MB00509,25,Male,2022-09-15,1042,High Risk,1,Churn,42.416666666666664,Medium Engagement
+MB00510,19,Female,2023-05-12,803,Medium Risk,1,Churn,47.41666666666667,Medium Engagement
+MB00511,45,Female,2023-09-08,684,Medium Risk,1,Churn,61.75000000000001,High Engagement
+MB00512,39,Female,2024-04-03,476,Low Risk,0,Retained,12.75,Low Engagement
+MB00513,27,Male,2022-10-03,1024,High Risk,1,Churn,47.83333333333333,Medium Engagement
+MB00514,26,Non-binary,2022-12-13,953,High Risk,1,Churn,37.666666666666664,Medium Engagement
+MB00515,15,Female,2025-05-05,79,Active,0,Retained,36.583333333333336,Medium Engagement
+MB00516,35,Male,2025-05-25,59,Active,0,Retained,60.333333333333336,High Engagement
+MB00517,38,Female,2024-05-18,431,Low Risk,0,Retained,52.83333333333334,Medium Engagement
+MB00518,31,Male,2023-02-10,894,High Risk,1,Churn,22.000000000000004,Low Engagement
+MB00519,15,Male,2022-08-06,1082,High Risk,1,Churn,21.416666666666668,Low Engagement
+MB00520,12,Male,2025-01-13,191,Active,0,Retained,95.5,High Engagement
+MB00521,19,Other (self-described),2023-09-29,663,Medium Risk,1,Churn,32.5,Low Engagement
+MB00522,46,Non-binary,2024-05-13,436,Low Risk,0,Retained,25.083333333333336,Low Engagement
+MB00523,44,Female,2022-08-25,1063,High Risk,1,Churn,94.16666666666667,High Engagement
+MB00524,46,Non-binary,2023-01-08,927,High Risk,1,Churn,38.33333333333333,Medium Engagement
+MB00525,18,Female,2023-01-12,923,High Risk,1,Churn,29.416666666666668,Low Engagement
+MB00526,47,Prefer not to say,2024-02-09,530,Low Risk,0,Retained,22.333333333333332,Low Engagement
+MB00527,23,Female,2024-04-07,472,Low Risk,0,Retained,53.66666666666667,Medium Engagement
+MB00528,37,Female,2024-09-04,322,Low Risk,0,Retained,28.833333333333332,Low Engagement
+MB00529,21,Male,2025-04-23,91,Active,0,Retained,9.000000000000002,Low Engagement
+MB00530,34,Male,2022-12-15,951,High Risk,1,Churn,45.416666666666664,Medium Engagement
+MB00531,46,Prefer not to say,2023-02-08,896,High Risk,1,Churn,99.50000000000001,High Engagement
+MB00532,34,Male,2022-07-24,1095,High Risk,1,Churn,59.333333333333336,Medium Engagement
+MB00533,29,Prefer not to say,2022-07-27,1092,High Risk,1,Churn,65.25000000000001,High Engagement
+MB00534,25,Female,2023-11-09,622,Medium Risk,1,Churn,51.25000000000001,Medium Engagement
+MB00535,49,Male,2023-03-27,849,High Risk,1,Churn,22.499999999999996,Low Engagement
+MB00536,29,Male,2022-09-20,1037,High Risk,1,Churn,35.50000000000001,Medium Engagement
+MB00537,14,Female,2022-12-31,935,High Risk,1,Churn,45.0,Medium Engagement
+MB00538,18,Prefer not to say,2024-10-02,294,Low Risk,0,Retained,55.41666666666667,Medium Engagement
+MB00539,49,Female,2024-02-29,510,Low Risk,0,Retained,29.08333333333334,Low Engagement
+MB00540,45,Male,2025-02-05,168,Active,0,Retained,52.083333333333336,Medium Engagement
+MB00541,20,Male,2022-09-10,1047,High Risk,1,Churn,19.5,Low Engagement
+MB00542,34,Male,2023-09-16,676,Medium Risk,1,Churn,46.333333333333336,Medium Engagement
+MB00543,18,Non-binary,2024-10-22,274,Active,0,Retained,10.833333333333334,Low Engagement
+MB00544,21,Male,2023-07-08,746,Medium Risk,1,Churn,89.83333333333334,High Engagement
+MB00545,33,Other (self-described),2023-09-03,689,Medium Risk,1,Churn,39.416666666666664,Medium Engagement
+MB00546,27,Male,2024-06-06,412,Low Risk,0,Retained,64.75000000000001,High Engagement
+MB00547,24,Female,2025-02-22,151,Active,0,Retained,38.166666666666664,Medium Engagement
+MB00548,45,Non-binary,2023-07-08,746,Medium Risk,1,Churn,53.0,Medium Engagement
+MB00549,13,Other (self-described),2023-12-16,585,Medium Risk,1,Churn,43.75,Medium Engagement
+MB00550,29,Female,2023-03-23,853,High Risk,1,Churn,46.166666666666664,Medium Engagement
+MB00551,28,Female,2023-12-17,584,Medium Risk,1,Churn,47.41666666666667,Medium Engagement
+MB00552,44,Male,2022-12-28,938,High Risk,1,Churn,60.66666666666667,High Engagement
+MB00553,38,Female,2023-11-13,618,Medium Risk,1,Churn,63.583333333333336,High Engagement
+MB00554,19,Prefer not to say,2023-11-03,628,Medium Risk,1,Churn,53.41666666666667,Medium Engagement
+MB00555,27,Non-binary,2022-12-02,964,High Risk,1,Churn,57.00000000000001,Medium Engagement
+MB00556,35,Male,2024-04-19,460,Low Risk,0,Retained,58.91666666666667,Medium Engagement
+MB00557,43,Male,2025-01-31,173,Active,0,Retained,8.0,Low Engagement
+MB00558,37,Female,2025-05-23,61,Active,0,Retained,18.166666666666664,Low Engagement
+MB00559,13,Female,2023-04-10,835,High Risk,1,Churn,39.75,Medium Engagement
+MB00560,24,Male,2023-09-01,691,Medium Risk,1,Churn,40.416666666666664,Medium Engagement
+MB00561,45,Male,2023-06-04,780,Medium Risk,1,Churn,43.33333333333333,Medium Engagement
+MB00562,23,Other (self-described),2024-11-08,257,Active,0,Retained,74.75,High Engagement
+MB00563,47,Non-binary,2025-01-28,176,Active,0,Retained,59.833333333333336,Medium Engagement
+MB00564,47,Male,2025-06-07,46,Active,0,Retained,33.33333333333333,Low Engagement
+MB00565,32,Female,2024-06-14,404,Low Risk,0,Retained,40.16666666666667,Medium Engagement
+MB00566,19,Female,2023-10-03,659,Medium Risk,1,Churn,35.75000000000001,Medium Engagement
+MB00567,16,Male,2024-05-01,448,Low Risk,0,Retained,45.833333333333336,Medium Engagement
+MB00568,24,Male,2024-03-14,496,Low Risk,0,Retained,72.16666666666669,High Engagement
+MB00569,23,Female,2022-11-03,993,High Risk,1,Churn,23.166666666666664,Low Engagement
+MB00570,30,Prefer not to say,2024-06-17,401,Low Risk,0,Retained,80.41666666666667,High Engagement
+MB00571,49,Prefer not to say,2023-03-11,865,High Risk,1,Churn,56.333333333333336,Medium Engagement
+MB00572,42,Female,2024-04-26,453,Low Risk,0,Retained,24.333333333333336,Low Engagement
+MB00573,39,Prefer not to say,2023-08-30,693,Medium Risk,1,Churn,46.166666666666664,Medium Engagement
+MB00574,29,Other (self-described),2022-12-17,949,High Risk,1,Churn,39.166666666666664,Medium Engagement
+MB00575,33,Female,2022-09-15,1042,High Risk,1,Churn,61.25000000000001,High Engagement
+MB00576,40,Male,2025-01-17,187,Active,0,Retained,34.583333333333336,Low Engagement
+MB00577,20,Male,2022-10-10,1017,High Risk,1,Churn,47.333333333333336,Medium Engagement
+MB00578,38,Prefer not to say,2024-01-15,555,Low Risk,0,Retained,2.8333333333333335,Low Engagement
+MB00579,33,Male,2024-09-20,306,Low Risk,0,Retained,47.333333333333336,Medium Engagement
+MB00580,26,Other (self-described),2024-02-20,519,Low Risk,0,Retained,38.99999999999999,Medium Engagement
+MB00581,27,Prefer not to say,2022-08-14,1074,High Risk,1,Churn,37.41666666666667,Medium Engagement
+MB00582,20,Female,2024-01-15,555,Low Risk,0,Retained,67.66666666666667,High Engagement
+MB00583,23,Male,2024-07-07,381,Low Risk,0,Retained,49.083333333333336,Medium Engagement
+MB00584,12,Male,2023-08-18,705,Medium Risk,1,Churn,63.83333333333334,High Engagement
+MB00585,41,Prefer not to say,2024-10-10,286,Low Risk,0,Retained,56.25,Medium Engagement
+MB00586,32,Male,2025-04-03,111,Active,0,Retained,50.33333333333333,Medium Engagement
+MB00587,44,Female,2025-02-05,168,Active,0,Retained,94.16666666666667,High Engagement
+MB00588,29,Male,2025-02-06,167,Active,0,Retained,40.916666666666664,Medium Engagement
+MB00589,20,Female,2025-01-12,192,Active,0,Retained,28.666666666666668,Low Engagement
+MB00590,35,Male,2025-01-26,178,Active,0,Retained,60.333333333333336,High Engagement
+MB00591,48,Male,2023-08-10,713,Medium Risk,1,Churn,49.75,Medium Engagement
+MB00592,22,Male,2024-12-11,224,Active,0,Retained,60.66666666666667,High Engagement
+MB00593,22,Male,2024-06-19,399,Low Risk,0,Retained,17.0,Low Engagement
+MB00594,30,Non-binary,2022-11-10,986,High Risk,1,Churn,70.75,High Engagement
+MB00595,47,Female,2024-02-04,535,Low Risk,0,Retained,32.33333333333333,Low Engagement
+MB00596,32,Male,2023-07-13,741,Medium Risk,1,Churn,50.5,Medium Engagement
+MB00597,20,Female,2024-12-21,214,Active,0,Retained,67.66666666666667,High Engagement
+MB00598,40,Other (self-described),2024-11-30,235,Active,0,Retained,53.333333333333336,Medium Engagement
+MB00599,25,Female,2025-05-10,74,Active,0,Retained,47.91666666666667,Medium Engagement
+MB00600,45,Male,2024-12-25,210,Active,0,Retained,66.66666666666667,High Engagement
+MB00601,49,Male,2024-08-30,327,Low Risk,0,Retained,36.5,Medium Engagement
+MB00602,30,Other (self-described),2024-12-16,219,Active,0,Retained,38.00000000000001,Medium Engagement
+MB00603,27,Female,2025-03-20,125,Active,0,Retained,15.166666666666668,Low Engagement
+MB00604,30,Prefer not to say,2025-02-14,159,Active,0,Retained,60.16666666666667,High Engagement
+MB00605,40,Male,2024-02-18,521,Low Risk,0,Retained,32.66666666666666,Low Engagement
+MB00606,33,Female,2024-11-15,250,Active,0,Retained,46.416666666666664,Medium Engagement
+MB00607,49,Prefer not to say,2024-05-31,418,Low Risk,0,Retained,43.50000000000001,Medium Engagement
+MB00608,27,Male,2024-01-03,567,Medium Risk,1,Churn,47.83333333333333,Medium Engagement
+MB00609,29,Male,2023-06-18,766,Medium Risk,1,Churn,36.5,Medium Engagement
+MB00610,38,Male,2025-05-12,72,Active,0,Retained,73.5,High Engagement
+MB00611,34,Prefer not to say,2023-02-22,882,High Risk,1,Churn,37.583333333333336,Medium Engagement
+MB00612,32,Prefer not to say,2023-08-24,699,Medium Risk,1,Churn,20.0,Low Engagement
+MB00613,48,Male,2025-03-27,118,Active,0,Retained,43.66666666666667,Medium Engagement
+MB00614,39,Male,2022-12-05,961,High Risk,1,Churn,91.33333333333333,High Engagement
+MB00615,40,Male,2022-10-16,1011,High Risk,1,Churn,68.16666666666667,High Engagement
+MB00616,39,Female,2025-04-18,96,Active,0,Retained,45.08333333333333,Medium Engagement
+MB00617,19,Male,2024-09-01,325,Low Risk,0,Retained,34.50000000000001,Low Engagement
+MB00618,48,Non-binary,2023-02-15,889,High Risk,1,Churn,42.08333333333333,Medium Engagement
+MB00619,37,Female,2023-04-18,827,Medium Risk,1,Churn,63.0,High Engagement
+MB00620,39,Female,2024-12-08,227,Active,0,Retained,38.16666666666667,Medium Engagement
+MB00621,13,Female,2024-11-12,253,Active,0,Retained,0.0,Low Engagement
+MB00622,48,Female,2024-05-24,425,Low Risk,0,Retained,28.666666666666668,Low Engagement
+MB00623,33,Prefer not to say,2024-01-23,547,Low Risk,0,Retained,33.33333333333333,Low Engagement
+MB00624,39,Female,2023-09-03,689,Medium Risk,1,Churn,52.916666666666664,Medium Engagement
+MB00625,15,Male,2024-05-26,423,Low Risk,0,Retained,28.166666666666668,Low Engagement
+MB00626,38,Male,2024-02-16,523,Low Risk,0,Retained,39.833333333333336,Medium Engagement
+MB00627,44,Female,2023-04-18,827,Medium Risk,1,Churn,32.25,Low Engagement
+MB00628,49,Non-binary,2025-05-14,70,Active,0,Retained,27.166666666666668,Low Engagement
+MB00629,23,Female,2024-09-27,299,Low Risk,0,Retained,19.916666666666664,Low Engagement
+MB00630,35,Male,2023-05-25,790,Medium Risk,1,Churn,62.33333333333334,High Engagement
+MB00631,18,Male,2022-11-12,984,High Risk,1,Churn,54.41666666666667,Medium Engagement
+MB00632,23,Prefer not to say,2023-12-26,575,Medium Risk,1,Churn,32.583333333333336,Low Engagement
+MB00633,14,Male,2023-12-04,597,Medium Risk,1,Churn,92.66666666666667,High Engagement
+MB00634,15,Male,2025-02-28,145,Active,0,Retained,73.50000000000001,High Engagement
+MB00635,27,Non-binary,2024-03-03,507,Low Risk,0,Retained,47.0,Medium Engagement
+MB00636,34,Female,2023-12-03,598,Medium Risk,1,Churn,41.333333333333336,Medium Engagement
+MB00637,29,Male,2024-10-07,289,Low Risk,0,Retained,30.75,Low Engagement
+MB00638,15,Female,2024-09-09,317,Low Risk,0,Retained,33.416666666666664,Low Engagement
+MB00639,45,Female,2024-05-17,432,Low Risk,0,Retained,53.25000000000001,Medium Engagement
+MB00640,40,Male,2025-06-01,52,Active,0,Retained,48.91666666666667,Medium Engagement
+MB00641,29,Non-binary,2024-07-14,374,Low Risk,0,Retained,48.50000000000001,Medium Engagement
+MB00642,17,Male,2024-11-09,256,Active,0,Retained,35.083333333333336,Medium Engagement
+MB00643,47,Prefer not to say,2024-07-09,379,Low Risk,0,Retained,47.75,Medium Engagement
+MB00644,29,Male,2025-02-15,158,Active,0,Retained,43.666666666666664,Medium Engagement
+MB00645,39,Male,2022-11-17,979,High Risk,1,Churn,69.08333333333334,High Engagement
+MB00646,23,Female,2023-09-29,663,Medium Risk,1,Churn,23.166666666666664,Low Engagement
+MB00647,22,Male,2023-06-30,754,Medium Risk,1,Churn,60.66666666666667,High Engagement
+MB00648,14,Female,2023-03-05,871,High Risk,1,Churn,35.41666666666667,Medium Engagement
+MB00649,49,Prefer not to say,2024-01-09,561,Low Risk,0,Retained,43.50000000000001,Medium Engagement
+MB00650,14,Male,2025-03-22,123,Active,0,Retained,40.0,Medium Engagement
+MB00651,48,Female,2023-11-28,603,Medium Risk,1,Churn,70.0,High Engagement
+MB00652,36,Female,2023-10-07,655,Medium Risk,1,Churn,54.66666666666667,Medium Engagement
+MB00653,19,Female,2023-04-21,824,Medium Risk,1,Churn,41.0,Medium Engagement
+MB00654,16,Prefer not to say,2024-03-20,490,Low Risk,0,Retained,54.0,Medium Engagement
+MB00655,12,Prefer not to say,2025-02-07,166,Active,0,Retained,36.25000000000001,Medium Engagement
+MB00656,42,Female,2024-08-24,333,Low Risk,0,Retained,72.50000000000001,High Engagement
+MB00657,43,Female,2024-06-01,417,Low Risk,0,Retained,16.833333333333332,Low Engagement
+MB00658,45,Non-binary,2023-08-05,718,Medium Risk,1,Churn,39.5,Medium Engagement
+MB00659,23,Male,2023-10-24,638,Medium Risk,1,Churn,57.333333333333336,Medium Engagement
+MB00660,33,Female,2024-06-08,410,Low Risk,0,Retained,19.333333333333332,Low Engagement
+MB00661,21,Male,2022-08-07,1081,High Risk,1,Churn,42.50000000000001,Medium Engagement
+MB00662,24,Other (self-described),2023-09-16,676,Medium Risk,1,Churn,58.833333333333336,Medium Engagement
+MB00663,28,Female,2024-10-13,283,Low Risk,0,Retained,60.00000000000001,High Engagement
+MB00664,24,Female,2025-03-06,139,Active,0,Retained,32.99999999999999,Low Engagement
+MB00665,45,Female,2025-01-11,193,Active,0,Retained,64.08333333333334,High Engagement
+MB00666,20,Female,2024-10-04,292,Low Risk,0,Retained,24.666666666666664,Low Engagement
+MB00667,44,Male,2025-01-02,202,Active,0,Retained,39.583333333333336,Medium Engagement
+MB00668,37,Prefer not to say,2024-12-06,229,Active,0,Retained,16.333333333333332,Low Engagement
+MB00669,14,Male,2024-08-23,334,Low Risk,0,Retained,51.66666666666666,Medium Engagement
+MB00670,20,Non-binary,2024-12-20,215,Active,0,Retained,75.5,High Engagement
+MB00671,36,Female,2022-11-10,986,High Risk,1,Churn,60.66666666666667,High Engagement
+MB00672,36,Female,2025-03-29,116,Active,0,Retained,60.66666666666667,High Engagement
+MB00673,29,Male,2023-12-12,589,Medium Risk,1,Churn,36.5,Medium Engagement
+MB00674,29,Male,2024-04-11,468,Low Risk,0,Retained,22.333333333333332,Low Engagement
+MB00675,27,Male,2022-08-11,1077,High Risk,1,Churn,44.66666666666667,Medium Engagement
+MB00676,33,Female,2025-02-23,150,Active,0,Retained,80.33333333333333,High Engagement
+MB00677,44,Female,2024-04-25,454,Low Risk,0,Retained,17.5,Low Engagement
+MB00678,14,Non-binary,2022-08-25,1063,High Risk,1,Churn,38.5,Medium Engagement
+MB00679,13,Non-binary,2022-12-14,952,High Risk,1,Churn,74.83333333333334,High Engagement
+MB00680,33,Male,2023-02-03,901,High Risk,1,Churn,42.66666666666667,Medium Engagement
+MB00681,19,Male,2024-09-21,305,Low Risk,0,Retained,34.50000000000001,Low Engagement
+MB00682,36,Female,2024-12-23,212,Active,0,Retained,35.333333333333336,Medium Engagement
+MB00683,36,Female,2023-07-11,743,Medium Risk,1,Churn,33.75,Low Engagement
+MB00684,47,Prefer not to say,2022-10-07,1020,High Risk,1,Churn,47.75,Medium Engagement
+MB00685,37,Non-binary,2023-11-08,623,Medium Risk,1,Churn,46.0,Medium Engagement
+MB00686,36,Non-binary,2023-10-23,639,Medium Risk,1,Churn,63.0,High Engagement
+MB00687,13,Female,2024-08-28,329,Low Risk,0,Retained,0.0,Low Engagement
+MB00688,41,Female,2023-03-26,850,High Risk,1,Churn,51.75000000000001,Medium Engagement
+MB00689,30,Non-binary,2024-12-05,230,Active,0,Retained,59.333333333333336,Medium Engagement
+MB00690,30,Prefer not to say,2024-07-13,375,Low Risk,0,Retained,74.66666666666667,High Engagement
+MB00691,17,Non-binary,2024-03-26,484,Low Risk,0,Retained,36.75,Medium Engagement
+MB00692,20,Prefer not to say,2023-12-30,571,Medium Risk,1,Churn,42.083333333333336,Medium Engagement
+MB00693,18,Non-binary,2024-10-07,289,Low Risk,0,Retained,33.583333333333336,Low Engagement
+MB00694,25,Non-binary,2025-02-20,153,Active,0,Retained,65.33333333333333,High Engagement
+MB00695,23,Female,2023-09-11,681,Medium Risk,1,Churn,53.58333333333333,Medium Engagement
+MB00696,23,Male,2024-08-19,338,Low Risk,0,Retained,31.0,Low Engagement
+MB00697,20,Female,2023-10-12,650,Medium Risk,1,Churn,24.666666666666664,Low Engagement
+MB00698,24,Male,2025-01-09,195,Active,0,Retained,54.16666666666667,Medium Engagement
+MB00699,16,Female,2024-01-27,543,Low Risk,0,Retained,66.58333333333334,High Engagement
+MB00700,33,Male,2023-12-03,598,Medium Risk,1,Churn,49.083333333333336,Medium Engagement
+MB00701,36,Female,2025-04-28,86,Active,0,Retained,54.16666666666667,Medium Engagement
+MB00702,33,Female,2024-06-29,389,Low Risk,0,Retained,49.75000000000001,Medium Engagement
+MB00703,19,Female,2025-01-30,174,Active,0,Retained,40.416666666666664,Medium Engagement
+MB00704,24,Non-binary,2025-04-16,98,Active,0,Retained,34.0,Low Engagement
+MB00705,41,Female,2022-08-03,1085,High Risk,1,Churn,34.0,Low Engagement
+MB00706,29,Non-binary,2024-07-14,374,Low Risk,0,Retained,34.25,Low Engagement
+MB00707,43,Female,2023-02-11,893,High Risk,1,Churn,48.833333333333336,Medium Engagement
+MB00708,28,Male,2024-09-24,302,Low Risk,0,Retained,40.08333333333333,Medium Engagement
+MB00709,44,Male,2023-06-28,756,Medium Risk,1,Churn,36.58333333333333,Medium Engagement
+MB00710,31,Non-binary,2023-04-05,840,High Risk,1,Churn,62.33333333333334,High Engagement
+MB00711,17,Female,2023-09-27,665,Medium Risk,1,Churn,48.33333333333333,Medium Engagement
+MB00712,26,Male,2024-02-06,533,Low Risk,0,Retained,70.33333333333334,High Engagement
+MB00713,48,Female,2024-04-10,469,Low Risk,0,Retained,34.583333333333336,Low Engagement
+MB00714,39,Female,2024-06-16,402,Low Risk,0,Retained,61.08333333333334,High Engagement
+MB00715,18,Female,2022-10-07,1020,High Risk,1,Churn,61.33333333333334,High Engagement
+MB00716,34,Non-binary,2023-01-20,915,High Risk,1,Churn,40.25,Medium Engagement
+MB00717,27,Non-binary,2022-08-30,1058,High Risk,1,Churn,28.166666666666668,Low Engagement
+MB00718,16,Female,2025-02-10,163,Active,0,Retained,32.666666666666664,Low Engagement
+MB00719,23,Male,2023-05-06,809,Medium Risk,1,Churn,31.0,Low Engagement
+MB00720,32,Female,2022-09-27,1030,High Risk,1,Churn,58.25,Medium Engagement
+MB00721,16,Male,2024-12-11,224,Active,0,Retained,45.833333333333336,Medium Engagement
+MB00722,34,Male,2025-04-13,101,Active,0,Retained,46.333333333333336,Medium Engagement
+MB00723,20,Prefer not to say,2023-04-25,820,Medium Risk,1,Churn,32.75,Low Engagement
+MB00724,28,Male,2023-10-20,642,Medium Risk,1,Churn,34.333333333333336,Low Engagement
+MB00725,29,Female,2023-01-08,927,High Risk,1,Churn,70.16666666666667,High Engagement
+MB00726,38,Prefer not to say,2025-01-25,179,Active,0,Retained,2.8333333333333335,Low Engagement
+MB00727,22,Female,2023-02-27,877,High Risk,1,Churn,42.0,Medium Engagement
+MB00728,26,Female,2024-11-20,245,Active,0,Retained,67.33333333333333,High Engagement
+MB00729,24,Female,2024-12-30,205,Active,0,Retained,41.5,Medium Engagement
+MB00730,17,Female,2024-12-30,205,Active,0,Retained,40.333333333333336,Medium Engagement
+MB00731,15,Other (self-described),2023-02-06,898,High Risk,1,Churn,41.833333333333336,Medium Engagement
+MB00732,22,Non-binary,2023-07-15,739,Medium Risk,1,Churn,46.416666666666664,Medium Engagement
+MB00733,35,Female,2023-12-13,588,Medium Risk,1,Churn,24.000000000000004,Low Engagement
+MB00734,18,Female,2024-06-05,413,Low Risk,0,Retained,44.083333333333336,Medium Engagement
+MB00735,46,Prefer not to say,2022-12-01,965,High Risk,1,Churn,99.50000000000001,High Engagement
+MB00736,44,Female,2024-05-01,448,Low Risk,0,Retained,76.41666666666667,High Engagement
+MB00737,21,Male,2023-02-04,900,High Risk,1,Churn,51.0,Medium Engagement
+MB00738,17,Prefer not to say,2024-03-12,498,Low Risk,0,Retained,26.0,Low Engagement
+MB00739,32,Female,2024-05-17,432,Low Risk,0,Retained,58.25,Medium Engagement
+MB00740,39,Female,2024-02-16,523,Low Risk,0,Retained,40.0,Medium Engagement
+MB00741,39,Non-binary,2024-08-06,351,Low Risk,0,Retained,39.25,Medium Engagement
+MB00742,19,Female,2023-04-18,827,Medium Risk,1,Churn,41.0,Medium Engagement
+MB00743,14,Male,2024-01-04,566,Medium Risk,1,Churn,48.083333333333336,Medium Engagement
+MB00744,33,Prefer not to say,2024-10-18,278,Active,0,Retained,33.33333333333333,Low Engagement
+MB00745,14,Male,2022-11-07,989,High Risk,1,Churn,81.16666666666667,High Engagement
+MB00746,17,Male,2024-05-10,439,Low Risk,0,Retained,39.50000000000001,Medium Engagement
+MB00747,35,Male,2023-11-22,609,Medium Risk,1,Churn,51.083333333333336,Medium Engagement
+MB00748,14,Female,2022-10-31,996,High Risk,1,Churn,32.24999999999999,Low Engagement
+MB00749,26,Male,2023-08-28,695,Medium Risk,1,Churn,47.0,Medium Engagement
+MB00750,41,Prefer not to say,2025-02-18,155,Active,0,Retained,49.666666666666664,Medium Engagement
+MB00751,39,Male,2022-09-26,1031,High Risk,1,Churn,26.583333333333336,Low Engagement
+MB00752,17,Male,2023-08-24,699,Medium Risk,1,Churn,35.916666666666664,Medium Engagement
+MB00753,29,Female,2024-07-01,387,Low Risk,0,Retained,70.16666666666667,High Engagement
+MB00754,44,Non-binary,2025-01-25,179,Active,0,Retained,39.416666666666664,Medium Engagement
+MB00755,33,Prefer not to say,2023-02-28,876,High Risk,1,Churn,11.333333333333334,Low Engagement
+MB00756,33,Male,2023-09-01,691,Medium Risk,1,Churn,73.16666666666667,High Engagement
+MB00757,48,Male,2023-12-02,599,Medium Risk,1,Churn,64.16666666666667,High Engagement
+MB00758,36,Female,2022-11-14,982,High Risk,1,Churn,54.66666666666667,Medium Engagement
+MB00759,29,Male,2023-03-06,870,High Risk,1,Churn,40.916666666666664,Medium Engagement
+MB00760,29,Prefer not to say,2025-01-12,192,Active,0,Retained,44.583333333333336,Medium Engagement
+MB00761,47,Other (self-described),2024-07-26,362,Low Risk,0,Retained,46.08333333333333,Medium Engagement
+MB00762,23,Other (self-described),2024-10-01,295,Low Risk,0,Retained,59.583333333333336,Medium Engagement
+MB00763,40,Female,2023-04-22,823,Medium Risk,1,Churn,29.500000000000004,Low Engagement
+MB00764,37,Female,2025-05-18,66,Active,0,Retained,64.75000000000001,High Engagement
+MB00765,22,Female,2023-10-25,637,Medium Risk,1,Churn,48.66666666666667,Medium Engagement
+MB00766,44,Non-binary,2023-04-02,843,High Risk,1,Churn,39.416666666666664,Medium Engagement
+MB00767,49,Non-binary,2022-12-02,964,High Risk,1,Churn,17.0,Low Engagement
+MB00768,44,Female,2024-06-23,395,Low Risk,0,Retained,47.0,Medium Engagement
+MB00769,13,Male,2023-01-30,905,High Risk,1,Churn,57.91666666666666,Medium Engagement
+MB00770,23,Other (self-described),2025-02-25,148,Active,0,Retained,74.75,High Engagement
+MB00771,16,Female,2023-01-03,932,High Risk,1,Churn,32.666666666666664,Low Engagement
+MB00772,49,Female,2025-02-07,166,Active,0,Retained,68.0,High Engagement
+MB00773,20,Male,2024-04-25,454,Low Risk,0,Retained,66.0,High Engagement
+MB00774,38,Female,2023-02-24,880,High Risk,1,Churn,52.83333333333334,Medium Engagement
+MB00775,20,Prefer not to say,2025-01-14,190,Active,0,Retained,32.75,Low Engagement
+MB00776,33,Male,2024-10-21,275,Active,0,Retained,42.66666666666667,Medium Engagement
+MB00777,12,Female,2023-05-15,800,Medium Risk,1,Churn,48.083333333333336,Medium Engagement
+MB00778,20,Other (self-described),2023-05-18,797,Medium Risk,1,Churn,60.083333333333336,High Engagement
+MB00779,20,Female,2023-08-10,713,Medium Risk,1,Churn,47.5,Medium Engagement
+MB00780,41,Prefer not to say,2023-06-14,770,Medium Risk,1,Churn,49.666666666666664,Medium Engagement
+MB00781,40,Male,2023-11-22,609,Medium Risk,1,Churn,34.583333333333336,Low Engagement
+MB00782,24,Female,2024-09-27,299,Low Risk,0,Retained,41.5,Medium Engagement
+MB00783,49,Male,2024-06-19,399,Low Risk,0,Retained,14.166666666666666,Low Engagement
+MB00784,43,Female,2024-12-11,224,Active,0,Retained,16.833333333333332,Low Engagement
+MB00785,24,Prefer not to say,2022-10-29,998,High Risk,1,Churn,38.74999999999999,Medium Engagement
+MB00786,19,Male,2023-10-10,652,Medium Risk,1,Churn,99.33333333333334,High Engagement
+MB00787,26,Male,2024-04-22,457,Low Risk,0,Retained,43.66666666666667,Medium Engagement
+MB00788,12,Non-binary,2024-02-16,523,Low Risk,0,Retained,16.833333333333332,Low Engagement
+MB00789,13,Non-binary,2022-09-18,1039,High Risk,1,Churn,74.83333333333334,High Engagement
+MB00790,30,Other (self-described),2025-01-10,194,Active,0,Retained,40.0,Medium Engagement
+MB00791,47,Non-binary,2023-10-07,655,Medium Risk,1,Churn,42.416666666666664,Medium Engagement
+MB00792,30,Prefer not to say,2024-01-01,569,Medium Risk,1,Churn,80.41666666666667,High Engagement
+MB00793,19,Non-binary,2023-09-10,682,Medium Risk,1,Churn,54.833333333333336,Medium Engagement
+MB00794,36,Female,2025-06-03,50,Active,0,Retained,53.08333333333333,Medium Engagement
+MB00795,43,Female,2022-12-07,959,High Risk,1,Churn,59.66666666666667,Medium Engagement
+MB00796,45,Female,2022-10-04,1023,High Risk,1,Churn,35.41666666666667,Medium Engagement
+MB00797,39,Female,2023-10-30,632,Medium Risk,1,Churn,33.58333333333333,Low Engagement
+MB00798,38,Non-binary,2023-06-12,772,Medium Risk,1,Churn,61.00000000000001,High Engagement
+MB00799,15,Non-binary,2022-10-14,1013,High Risk,1,Churn,48.083333333333336,Medium Engagement
+MB00800,22,Female,2023-05-31,784,Medium Risk,1,Churn,53.833333333333336,Medium Engagement
+MB00801,18,Male,2025-01-11,193,Active,0,Retained,67.75000000000001,High Engagement
+MB00802,29,Female,2023-10-18,644,Medium Risk,1,Churn,57.49999999999999,Medium Engagement
+MB00803,49,Non-binary,2023-09-15,677,Medium Risk,1,Churn,47.25,Medium Engagement
+MB00804,16,Female,2024-03-28,482,Low Risk,0,Retained,66.58333333333334,High Engagement
+MB00805,36,Female,2023-04-30,815,Medium Risk,1,Churn,39.75,Medium Engagement
+MB00806,14,Male,2022-10-01,1026,High Risk,1,Churn,15.333333333333336,Low Engagement
+MB00807,48,Male,2022-10-11,1016,High Risk,1,Churn,41.33333333333333,Medium Engagement
+MB00808,46,Male,2024-02-28,511,Low Risk,0,Retained,98.00000000000001,High Engagement
+MB00809,27,Non-binary,2025-02-22,151,Active,0,Retained,27.916666666666668,Low Engagement
+MB00810,43,Male,2022-08-09,1079,High Risk,1,Churn,80.0,High Engagement
+MB00811,32,Female,2023-01-11,924,High Risk,1,Churn,40.16666666666667,Medium Engagement
+MB00812,20,Male,2025-02-10,163,Active,0,Retained,54.41666666666667,Medium Engagement
+MB00813,37,Prefer not to say,2022-10-16,1011,High Risk,1,Churn,12.916666666666664,Low Engagement
+MB00814,14,Male,2022-12-09,957,High Risk,1,Churn,87.16666666666667,High Engagement
+MB00815,35,Male,2023-12-18,583,Medium Risk,1,Churn,60.333333333333336,High Engagement
+MB00816,43,Prefer not to say,2023-10-02,660,Medium Risk,1,Churn,48.083333333333336,Medium Engagement
+MB00817,34,Female,2024-04-24,455,Low Risk,0,Retained,30.333333333333336,Low Engagement
+MB00818,44,Prefer not to say,2025-04-25,89,Active,0,Retained,46.91666666666667,Medium Engagement
+MB00819,12,Male,2024-07-01,387,Low Risk,0,Retained,69.33333333333334,High Engagement
+MB00820,39,Male,2023-02-18,886,High Risk,1,Churn,21.583333333333336,Low Engagement
+MB00821,37,Non-binary,2025-06-18,35,Active,0,Retained,46.0,Medium Engagement
+MB00822,36,Male,2024-07-02,386,Low Risk,0,Retained,52.33333333333334,Medium Engagement
+MB00823,42,Prefer not to say,2024-04-24,455,Low Risk,0,Retained,41.41666666666667,Medium Engagement
+MB00824,44,Male,2023-11-28,603,Medium Risk,1,Churn,36.58333333333333,Medium Engagement
+MB00825,29,Male,2022-10-17,1010,High Risk,1,Churn,9.000000000000002,Low Engagement
+MB00826,34,Male,2024-06-19,399,Low Risk,0,Retained,36.91666666666667,Medium Engagement
+MB00827,13,Male,2024-06-18,400,Low Risk,0,Retained,32.833333333333336,Low Engagement
+MB00828,19,Female,2023-04-29,816,Medium Risk,1,Churn,31.75,Low Engagement
+MB00829,35,Male,2024-02-27,512,Low Risk,0,Retained,29.166666666666664,Low Engagement
+MB00830,24,Male,2024-10-26,270,Active,0,Retained,72.16666666666669,High Engagement
+MB00831,19,Male,2024-02-27,512,Low Risk,0,Retained,52.16666666666667,Medium Engagement
+MB00832,29,Female,2025-01-23,181,Active,0,Retained,70.16666666666667,High Engagement
+MB00833,36,Prefer not to say,2024-12-17,218,Active,0,Retained,13.833333333333334,Low Engagement
+MB00834,48,Male,2024-01-09,561,Low Risk,0,Retained,49.75,Medium Engagement
+MB00835,39,Female,2024-04-02,477,Low Risk,0,Retained,33.58333333333333,Low Engagement
+MB00836,13,Female,2022-10-22,1005,High Risk,1,Churn,0.0,Low Engagement
+MB00837,13,Male,2024-06-02,416,Low Risk,0,Retained,57.91666666666666,Medium Engagement
+MB00838,41,Female,2023-10-13,649,Medium Risk,1,Churn,34.0,Low Engagement
+MB00839,32,Female,2023-08-19,704,Medium Risk,1,Churn,67.0,High Engagement
+MB00840,28,Female,2025-06-09,44,Active,0,Retained,60.00000000000001,High Engagement
+MB00841,14,Non-binary,2023-07-17,737,Medium Risk,1,Churn,38.416666666666664,Medium Engagement
+MB00842,43,Female,2024-12-15,220,Active,0,Retained,48.833333333333336,Medium Engagement
+MB00843,13,Non-binary,2022-09-03,1054,High Risk,1,Churn,74.83333333333334,High Engagement
+MB00844,46,Prefer not to say,2025-01-15,189,Active,0,Retained,53.666666666666664,Medium Engagement
+MB00845,36,Female,2024-04-07,472,Low Risk,0,Retained,47.16666666666667,Medium Engagement
+MB00846,44,Male,2025-03-24,121,Active,0,Retained,36.58333333333333,Medium Engagement
+MB00847,18,Female,2022-07-27,1092,High Risk,1,Churn,40.66666666666667,Medium Engagement
+MB00848,18,Female,2024-01-05,565,Medium Risk,1,Churn,40.66666666666667,Medium Engagement
+MB00849,40,Male,2023-09-27,665,Medium Risk,1,Churn,34.583333333333336,Low Engagement
+MB00850,27,Male,2025-04-12,102,Active,0,Retained,52.75000000000001,Medium Engagement
+MB00851,29,Male,2023-04-16,829,Medium Risk,1,Churn,30.75,Low Engagement
+MB00852,49,Female,2024-11-11,254,Active,0,Retained,49.166666666666664,Medium Engagement
+MB00853,49,Male,2022-11-09,987,High Risk,1,Churn,14.166666666666666,Low Engagement
+MB00854,12,Prefer not to say,2024-11-16,249,Active,0,Retained,49.666666666666664,Medium Engagement
+MB00855,46,Female,2024-12-01,234,Active,0,Retained,21.000000000000004,Low Engagement
+MB00856,37,Female,2025-05-15,69,Active,0,Retained,53.333333333333336,Medium Engagement
+MB00857,34,Male,2024-02-06,533,Low Risk,0,Retained,21.750000000000004,Low Engagement
+MB00858,34,Male,2023-10-30,632,Medium Risk,1,Churn,21.750000000000004,Low Engagement
+MB00859,37,Female,2025-04-14,100,Active,0,Retained,70.75000000000001,High Engagement
+MB00860,26,Female,2023-03-20,856,High Risk,1,Churn,43.41666666666667,Medium Engagement
+MB00861,49,Female,2024-02-26,513,Low Risk,0,Retained,29.08333333333334,Low Engagement
+MB00862,48,Female,2023-12-12,589,Medium Risk,1,Churn,83.83333333333334,High Engagement
+MB00863,36,Female,2024-03-10,500,Low Risk,0,Retained,60.66666666666667,High Engagement
+MB00864,27,Male,2024-04-22,457,Low Risk,0,Retained,46.08333333333333,Medium Engagement
+MB00865,12,Non-binary,2023-11-04,627,Medium Risk,1,Churn,42.00000000000001,Medium Engagement
+MB00866,14,Male,2025-01-08,196,Active,0,Retained,64.50000000000001,High Engagement
+MB00867,46,Prefer not to say,2024-12-11,224,Active,0,Retained,53.666666666666664,Medium Engagement
+MB00868,14,Male,2022-12-18,948,High Risk,1,Churn,22.916666666666668,Low Engagement
+MB00869,13,Prefer not to say,2022-09-19,1038,High Risk,1,Churn,23.75,Low Engagement
+MB00870,15,Male,2024-05-21,428,Low Risk,0,Retained,51.75000000000001,Medium Engagement
+MB00871,25,Male,2024-09-07,319,Low Risk,0,Retained,23.75,Low Engagement
+MB00872,21,Male,2023-08-07,716,Medium Risk,1,Churn,30.0,Low Engagement
+MB00873,15,Female,2024-04-13,466,Low Risk,0,Retained,33.416666666666664,Low Engagement
+MB00874,18,Prefer not to say,2025-05-26,58,Active,0,Retained,55.41666666666667,Medium Engagement
+MB00875,14,Female,2025-01-07,197,Active,0,Retained,33.333333333333336,Low Engagement
+MB00876,45,Female,2023-05-22,793,Medium Risk,1,Churn,66.25000000000001,High Engagement
+MB00877,40,Non-binary,2023-07-22,732,Medium Risk,1,Churn,56.750000000000014,Medium Engagement
+MB00878,22,Female,2025-05-25,59,Active,0,Retained,53.5,Medium Engagement
+MB00879,47,Female,2024-10-29,267,Active,0,Retained,32.33333333333333,Low Engagement
+MB00880,30,Prefer not to say,2024-10-19,277,Active,0,Retained,37.66666666666667,Medium Engagement
+MB00881,19,Male,2023-07-08,746,Medium Risk,1,Churn,59.08333333333333,Medium Engagement
+MB00882,28,Prefer not to say,2025-06-02,51,Active,0,Retained,37.5,Medium Engagement
+MB00883,24,Other (self-described),2025-03-04,141,Active,0,Retained,33.0,Low Engagement
+MB00884,22,Female,2023-02-22,882,High Risk,1,Churn,67.66666666666667,High Engagement
+MB00885,47,Other (self-described),2024-12-14,221,Active,0,Retained,35.5,Medium Engagement
+MB00886,39,Male,2023-07-28,726,Medium Risk,1,Churn,70.16666666666667,High Engagement
+MB00887,49,Non-binary,2024-10-12,284,Low Risk,0,Retained,17.0,Low Engagement
+MB00888,44,Female,2025-03-09,136,Active,0,Retained,17.5,Low Engagement
+MB00889,35,Male,2024-10-07,289,Low Risk,0,Retained,13.833333333333334,Low Engagement
+MB00890,39,Other (self-described),2023-05-15,800,Medium Risk,1,Churn,38.74999999999999,Medium Engagement
+MB00891,37,Other (self-described),2022-12-24,942,High Risk,1,Churn,23.333333333333332,Low Engagement
+MB00892,32,Male,2023-01-20,915,High Risk,1,Churn,59.166666666666664,Medium Engagement
+MB00893,29,Female,2024-04-25,454,Low Risk,0,Retained,15.5,Low Engagement
+MB00894,27,Non-binary,2023-07-12,742,Medium Risk,1,Churn,30.91666666666667,Low Engagement
+MB00895,36,Female,2024-11-16,249,Active,0,Retained,47.666666666666664,Medium Engagement
+MB00896,24,Prefer not to say,2024-08-14,343,Low Risk,0,Retained,49.583333333333336,Medium Engagement
+MB00897,30,Non-binary,2022-11-11,985,High Risk,1,Churn,56.16666666666668,Medium Engagement
+MB00898,29,Female,2025-06-09,44,Active,0,Retained,49.583333333333336,Medium Engagement
+MB00899,36,Male,2025-03-23,122,Active,0,Retained,42.333333333333336,Medium Engagement
+MB00900,27,Female,2024-11-13,252,Active,0,Retained,15.166666666666668,Low Engagement
+MB00901,29,Prefer not to say,2025-05-25,59,Active,0,Retained,65.25000000000001,High Engagement
+MB00902,29,Female,2024-12-11,224,Active,0,Retained,49.583333333333336,Medium Engagement
+MB00903,45,Male,2023-10-11,651,Medium Risk,1,Churn,60.416666666666664,High Engagement
+MB00904,24,Male,2024-03-31,479,Low Risk,0,Retained,66.66666666666667,High Engagement
+MB00905,48,Male,2022-11-15,981,High Risk,1,Churn,64.16666666666667,High Engagement
+MB00906,22,Male,2023-02-03,901,High Risk,1,Churn,38.33333333333333,Medium Engagement
+MB00907,41,Female,2024-06-23,395,Low Risk,0,Retained,34.0,Low Engagement
+MB00908,29,Female,2024-09-19,307,Low Risk,0,Retained,70.16666666666667,High Engagement
+MB00909,29,Male,2024-05-14,435,Low Risk,0,Retained,43.666666666666664,Medium Engagement
+MB00910,29,Female,2023-10-03,659,Medium Risk,1,Churn,70.16666666666667,High Engagement
+MB00911,17,Female,2024-09-10,316,Low Risk,0,Retained,82.58333333333334,High Engagement
+MB00912,36,Female,2023-08-28,695,Medium Risk,1,Churn,33.75,Low Engagement
+MB00913,27,Female,2024-04-12,467,Low Risk,0,Retained,68.08333333333334,High Engagement
+MB00914,41,Female,2023-11-13,618,Medium Risk,1,Churn,67.0,High Engagement
+MB00915,28,Other (self-described),2024-03-15,495,Low Risk,0,Retained,46.91666666666667,Medium Engagement
+MB00916,29,Male,2024-08-13,344,Low Risk,0,Retained,29.500000000000004,Low Engagement
+MB00917,16,Prefer not to say,2022-09-16,1041,High Risk,1,Churn,54.0,Medium Engagement
+MB00918,21,Prefer not to say,2023-04-01,844,High Risk,1,Churn,63.083333333333336,High Engagement
+MB00919,33,Female,2025-01-24,180,Active,0,Retained,19.333333333333332,Low Engagement
+MB00920,14,Male,2022-12-11,955,High Risk,1,Churn,40.0,Medium Engagement
+MB00921,45,Female,2024-01-20,550,Low Risk,0,Retained,66.25000000000001,High Engagement
+MB00922,45,Female,2022-11-13,983,High Risk,1,Churn,53.25000000000001,Medium Engagement
+MB00923,24,Male,2023-02-22,882,High Risk,1,Churn,43.50000000000001,Medium Engagement
+MB00924,34,Male,2024-03-27,483,Low Risk,0,Retained,33.416666666666664,Low Engagement
+MB00925,47,Male,2025-05-30,54,Active,0,Retained,49.75,Medium Engagement
+MB00926,32,Female,2024-09-09,317,Low Risk,0,Retained,51.75000000000001,Medium Engagement
+MB00927,39,Non-binary,2023-11-24,607,Medium Risk,1,Churn,39.25,Medium Engagement
+MB00928,35,Male,2023-08-18,705,Medium Risk,1,Churn,32.0,Low Engagement
+MB00929,17,Male,2024-09-21,305,Low Risk,0,Retained,12.000000000000002,Low Engagement
+MB00930,32,Male,2025-01-25,179,Active,0,Retained,42.00000000000001,Medium Engagement
+MB00931,33,Male,2023-01-15,920,High Risk,1,Churn,17.166666666666668,Low Engagement
+MB00932,32,Male,2022-08-09,1079,High Risk,1,Churn,42.00000000000001,Medium Engagement
+MB00933,20,Female,2023-12-11,590,Medium Risk,1,Churn,25.666666666666664,Low Engagement
+MB00934,37,Female,2024-12-22,213,Active,0,Retained,18.166666666666664,Low Engagement
+MB00935,18,Prefer not to say,2024-09-05,321,Low Risk,0,Retained,45.666666666666664,Medium Engagement
+MB00936,43,Female,2025-06-03,50,Active,0,Retained,82.91666666666667,High Engagement
+MB00937,25,Male,2022-10-23,1004,High Risk,1,Churn,9.166666666666668,Low Engagement
+MB00938,25,Prefer not to say,2025-02-17,156,Active,0,Retained,38.33333333333333,Medium Engagement
+MB00939,46,Male,2023-10-18,644,Medium Risk,1,Churn,98.00000000000001,High Engagement
+MB00940,43,Male,2024-09-04,322,Low Risk,0,Retained,80.0,High Engagement
+MB00941,46,Male,2023-11-10,621,Medium Risk,1,Churn,75.0,High Engagement
+MB00942,19,Male,2023-07-30,724,Medium Risk,1,Churn,59.08333333333333,Medium Engagement
+MB00943,47,Non-binary,2023-01-21,914,High Risk,1,Churn,36.416666666666664,Medium Engagement
+MB00944,44,Female,2024-11-15,250,Active,0,Retained,94.16666666666667,High Engagement
+MB00945,47,Prefer not to say,2025-06-11,42,Active,0,Retained,50.583333333333336,Medium Engagement
+MB00946,16,Male,2025-01-28,176,Active,0,Retained,36.83333333333333,Medium Engagement
+MB00947,24,Female,2022-11-07,989,High Risk,1,Churn,33.24999999999999,Low Engagement
+MB00948,23,Female,2022-12-05,961,High Risk,1,Churn,24.16666666666667,Low Engagement
+MB00949,31,Male,2023-09-25,667,Medium Risk,1,Churn,48.25000000000001,Medium Engagement
+MB00950,12,Female,2023-09-22,670,Medium Risk,1,Churn,48.083333333333336,Medium Engagement
+MB00951,39,Female,2023-07-15,739,Medium Risk,1,Churn,48.74999999999999,Medium Engagement
+MB00952,32,Female,2024-12-18,217,Active,0,Retained,83.0,High Engagement
+MB00953,22,Male,2022-10-23,1004,High Risk,1,Churn,75.50000000000001,High Engagement
+MB00954,32,Prefer not to say,2024-04-03,476,Low Risk,0,Retained,31.666666666666664,Low Engagement
+MB00955,19,Male,2024-05-10,439,Low Risk,0,Retained,45.58333333333333,Medium Engagement
+MB00956,30,Other (self-described),2023-12-18,583,Medium Risk,1,Churn,40.0,Medium Engagement
+MB00957,13,Male,2025-05-03,81,Active,0,Retained,72.83333333333334,High Engagement
+MB00958,36,Female,2024-12-27,208,Active,0,Retained,41.33333333333333,Medium Engagement
+MB00959,35,Female,2023-04-28,817,Medium Risk,1,Churn,46.916666666666664,Medium Engagement
+MB00960,30,Prefer not to say,2025-03-26,119,Active,0,Retained,37.66666666666667,Medium Engagement
+MB00961,29,Male,2023-09-19,673,Medium Risk,1,Churn,43.83333333333333,Medium Engagement
+MB00962,47,Non-binary,2024-10-04,292,Low Risk,0,Retained,42.416666666666664,Medium Engagement
+MB00963,29,Female,2024-05-04,445,Low Risk,0,Retained,46.166666666666664,Medium Engagement
+MB00964,49,Female,2024-08-19,338,Low Risk,0,Retained,29.08333333333334,Low Engagement
+MB00965,16,Female,2024-06-09,409,Low Risk,0,Retained,45.83333333333333,Medium Engagement
+MB00966,13,Male,2023-05-19,796,Medium Risk,1,Churn,37.83333333333333,Medium Engagement
+MB00967,47,Prefer not to say,2024-08-10,347,Low Risk,0,Retained,47.75,Medium Engagement
+MB00968,23,Male,2023-10-28,634,Medium Risk,1,Churn,55.00000000000001,Medium Engagement
+MB00969,29,Female,2024-02-02,537,Low Risk,0,Retained,64.91666666666667,High Engagement
+MB00970,49,Female,2023-07-17,737,Medium Risk,1,Churn,45.5,Medium Engagement
+MB00971,29,Female,2022-09-29,1028,High Risk,1,Churn,46.166666666666664,Medium Engagement
+MB00972,21,Male,2023-05-04,811,Medium Risk,1,Churn,43.5,Medium Engagement
+MB00973,27,Prefer not to say,2024-11-06,259,Active,0,Retained,9.166666666666666,Low Engagement
+MB00974,38,Prefer not to say,2025-05-20,64,Active,0,Retained,2.8333333333333335,Low Engagement
+MB00975,22,Male,2024-09-16,310,Low Risk,0,Retained,66.83333333333333,High Engagement
+MB00976,30,Male,2023-09-28,664,Medium Risk,1,Churn,51.08333333333333,Medium Engagement
+MB00977,25,Non-binary,2025-04-29,85,Active,0,Retained,35.25,Medium Engagement
+MB00978,35,Female,2024-01-11,559,Low Risk,0,Retained,24.000000000000004,Low Engagement
+MB00979,16,Male,2023-09-26,666,Medium Risk,1,Churn,50.33333333333334,Medium Engagement
+MB00980,18,Male,2024-07-02,386,Low Risk,0,Retained,47.0,Medium Engagement
+MB00981,36,Female,2023-03-24,852,High Risk,1,Churn,35.333333333333336,Medium Engagement
+MB00982,30,Male,2025-03-01,144,Active,0,Retained,39.166666666666664,Medium Engagement
+MB00983,43,Male,2025-04-03,111,Active,0,Retained,45.0,Medium Engagement
+MB00984,16,Male,2023-05-09,806,Medium Risk,1,Churn,36.83333333333333,Medium Engagement
+MB00985,27,Male,2024-01-12,558,Low Risk,0,Retained,46.08333333333333,Medium Engagement
+MB00986,37,Non-binary,2023-06-20,764,Medium Risk,1,Churn,56.50000000000001,Medium Engagement
+MB00987,14,Male,2024-03-16,494,Low Risk,0,Retained,51.66666666666666,Medium Engagement
+MB00988,16,Non-binary,2024-10-03,293,Low Risk,0,Retained,62.0,High Engagement
+MB00989,45,Female,2023-02-01,903,High Risk,1,Churn,80.00000000000001,High Engagement
+MB00990,26,Prefer not to say,2023-02-22,882,High Risk,1,Churn,84.75000000000001,High Engagement
+MB00991,45,Non-binary,2023-06-14,770,Medium Risk,1,Churn,24.5,Low Engagement
+MB00992,27,Non-binary,2024-09-06,320,Low Risk,0,Retained,64.16666666666666,High Engagement
+MB00993,19,Male,2023-10-03,659,Medium Risk,1,Churn,21.666666666666668,Low Engagement
+MB00994,37,Female,2024-06-03,415,Low Risk,0,Retained,70.75000000000001,High Engagement
+MB00995,49,Male,2025-03-17,128,Active,0,Retained,36.5,Medium Engagement
+MB00996,34,Male,2022-10-20,1007,High Risk,1,Churn,36.91666666666667,Medium Engagement
+MB00997,42,Male,2025-01-28,176,Active,0,Retained,59.41666666666667,Medium Engagement
+MB00998,25,Non-binary,2022-09-14,1043,High Risk,1,Churn,65.33333333333333,High Engagement
+MB00999,39,Female,2024-03-05,505,Low Risk,0,Retained,30.583333333333336,Low Engagement
+MB01000,47,Female,2024-12-07,228,Active,0,Retained,36.41666666666667,Medium Engagement
+MB01001,20,Female,2023-11-23,608,Medium Risk,1,Churn,24.666666666666664,Low Engagement
+MB01002,40,Female,2022-12-06,960,High Risk,1,Churn,29.500000000000004,Low Engagement
+MB01003,39,Female,2023-05-05,810,Medium Risk,1,Churn,12.75,Low Engagement
+MB01004,12,Non-binary,2023-02-15,889,High Risk,1,Churn,16.833333333333332,Low Engagement
+MB01005,36,Other (self-described),2023-07-22,732,Medium Risk,1,Churn,50.000000000000014,Medium Engagement
+MB01006,41,Non-binary,2023-06-16,768,Medium Risk,1,Churn,38.74999999999999,Medium Engagement
+MB01007,14,Female,2022-12-31,935,High Risk,1,Churn,52.33333333333333,Medium Engagement
+MB01008,39,Male,2024-09-30,296,Low Risk,0,Retained,53.91666666666667,Medium Engagement
+MB01009,21,Female,2024-01-18,552,Low Risk,0,Retained,22.083333333333336,Low Engagement
+MB01010,18,Female,2024-10-30,266,Active,0,Retained,44.083333333333336,Medium Engagement
+MB01011,24,Male,2022-08-06,1082,High Risk,1,Churn,66.66666666666667,High Engagement
+MB01012,41,Female,2022-09-21,1036,High Risk,1,Churn,33.333333333333336,Low Engagement
+MB01013,44,Female,2025-05-12,72,Active,0,Retained,17.5,Low Engagement
+MB01014,39,Male,2023-06-02,782,Medium Risk,1,Churn,26.583333333333336,Low Engagement
+MB01015,40,Male,2022-10-11,1016,High Risk,1,Churn,68.16666666666667,High Engagement
+MB01016,13,Female,2024-12-12,223,Active,0,Retained,45.333333333333336,Medium Engagement
+MB01017,26,Non-binary,2023-10-27,635,Medium Risk,1,Churn,51.16666666666667,Medium Engagement
+MB01018,35,Female,2022-10-22,1005,High Risk,1,Churn,46.916666666666664,Medium Engagement
+MB01019,37,Non-binary,2025-05-17,67,Active,0,Retained,35.83333333333334,Medium Engagement
+MB01020,34,Male,2023-06-11,773,Medium Risk,1,Churn,40.416666666666664,Medium Engagement
+MB01021,36,Male,2024-08-10,347,Low Risk,0,Retained,52.33333333333334,Medium Engagement
+MB01022,37,Male,2022-10-12,1015,High Risk,1,Churn,59.333333333333336,Medium Engagement
+MB01023,29,Female,2022-08-23,1065,High Risk,1,Churn,64.91666666666667,High Engagement
+MB01024,24,Male,2022-09-21,1036,High Risk,1,Churn,40.666666666666664,Medium Engagement
+MB01025,27,Prefer not to say,2024-02-03,536,Low Risk,0,Retained,9.166666666666666,Low Engagement
+MB01026,48,Male,2022-12-17,949,High Risk,1,Churn,48.50000000000001,Medium Engagement
+MB01027,15,Non-binary,2023-01-05,930,High Risk,1,Churn,41.25,Medium Engagement
+MB01028,35,Female,2024-07-18,370,Low Risk,0,Retained,27.500000000000004,Low Engagement
+MB01029,33,Female,2023-01-22,913,High Risk,1,Churn,50.583333333333336,Medium Engagement
+MB01030,43,Prefer not to say,2025-05-14,70,Active,0,Retained,33.0,Low Engagement
+MB01031,28,Female,2023-09-26,666,Medium Risk,1,Churn,45.0,Medium Engagement
+MB01032,17,Female,2024-10-21,275,Active,0,Retained,76.5,High Engagement
+MB01033,23,Female,2025-02-14,159,Active,0,Retained,19.916666666666664,Low Engagement
+MB01034,36,Female,2025-04-02,112,Active,0,Retained,44.74999999999999,Medium Engagement
+MB01035,17,Female,2023-06-12,772,Medium Risk,1,Churn,64.00000000000001,High Engagement
+MB01036,46,Male,2024-06-26,392,Low Risk,0,Retained,39.5,Medium Engagement
+MB01037,12,Male,2023-05-13,802,Medium Risk,1,Churn,69.33333333333334,High Engagement
+MB01038,29,Female,2025-04-14,100,Active,0,Retained,59.833333333333336,Medium Engagement
+MB01039,20,Male,2024-07-22,366,Low Risk,0,Retained,28.416666666666668,Low Engagement
+MB01040,14,Female,2023-11-26,605,Medium Risk,1,Churn,82.83333333333334,High Engagement
+MB01041,29,Male,2023-03-03,873,High Risk,1,Churn,29.500000000000004,Low Engagement
+MB01042,49,Female,2024-07-18,370,Low Risk,0,Retained,49.166666666666664,Medium Engagement
+MB01043,37,Prefer not to say,2023-08-26,697,Medium Risk,1,Churn,16.333333333333332,Low Engagement
+MB01044,29,Female,2022-11-22,974,High Risk,1,Churn,70.16666666666667,High Engagement
+MB01045,22,Female,2023-09-06,686,Medium Risk,1,Churn,67.66666666666667,High Engagement
+MB01046,14,Female,2024-10-17,279,Active,0,Retained,32.24999999999999,Low Engagement
+MB01047,20,Female,2025-05-28,56,Active,0,Retained,24.666666666666664,Low Engagement
+MB01048,21,Male,2022-12-09,957,High Risk,1,Churn,42.50000000000001,Medium Engagement
+MB01049,32,Male,2025-05-31,53,Active,0,Retained,50.33333333333333,Medium Engagement
+MB01050,33,Male,2022-12-04,962,High Risk,1,Churn,49.083333333333336,Medium Engagement
+MB01051,33,Female,2023-12-07,594,Medium Risk,1,Churn,49.75000000000001,Medium Engagement
+MB01052,29,Male,2022-09-26,1031,High Risk,1,Churn,43.83333333333333,Medium Engagement
+MB01053,25,Prefer not to say,2023-02-23,881,High Risk,1,Churn,34.583333333333336,Low Engagement
+MB01054,35,Female,2022-07-26,1093,High Risk,1,Churn,34.666666666666664,Low Engagement
+MB01055,46,Female,2024-06-14,404,Low Risk,0,Retained,75.75,High Engagement
+MB01056,47,Prefer not to say,2023-03-28,848,High Risk,1,Churn,47.75,Medium Engagement
+MB01057,34,Non-binary,2024-04-20,459,Low Risk,0,Retained,32.75,Low Engagement
+MB01058,23,Female,2024-01-28,542,Low Risk,0,Retained,19.916666666666664,Low Engagement
+MB01059,21,Female,2023-08-24,699,Medium Risk,1,Churn,36.74999999999999,Medium Engagement
+MB01060,17,Male,2022-12-05,961,High Risk,1,Churn,18.083333333333336,Low Engagement
+MB01061,40,Male,2022-08-09,1079,High Risk,1,Churn,46.583333333333336,Medium Engagement
+MB01062,45,Male,2023-03-27,849,High Risk,1,Churn,66.66666666666667,High Engagement
+MB01063,45,Male,2024-04-04,475,Low Risk,0,Retained,52.083333333333336,Medium Engagement
+MB01064,28,Female,2024-03-31,479,Low Risk,0,Retained,18.583333333333336,Low Engagement
+MB01065,27,Non-binary,2023-04-29,816,Medium Risk,1,Churn,47.0,Medium Engagement
+MB01066,17,Prefer not to say,2024-10-11,285,Low Risk,0,Retained,35.58333333333333,Medium Engagement
+MB01067,45,Male,2025-02-25,148,Active,0,Retained,60.416666666666664,High Engagement
+MB01068,25,Male,2024-06-10,408,Low Risk,0,Retained,72.50000000000001,High Engagement
+MB01069,27,Male,2024-08-21,336,Low Risk,0,Retained,12.333333333333334,Low Engagement
+MB01070,49,Non-binary,2024-08-11,346,Low Risk,0,Retained,38.833333333333336,Medium Engagement
+MB01071,39,Male,2024-10-17,279,Low Risk,0,Retained,45.41666666666666,Medium Engagement
+MB01072,34,Male,2025-05-09,75,Active,0,Retained,51.66666666666667,Medium Engagement
+MB01073,24,Non-binary,2025-06-03,50,Active,0,Retained,26.583333333333336,Low Engagement
+MB01074,35,Female,2022-08-06,1082,High Risk,1,Churn,75.00000000000001,High Engagement
+MB01075,35,Female,2024-03-24,486,Low Risk,0,Retained,75.00000000000001,High Engagement
+MB01076,18,Female,2024-05-09,440,Low Risk,0,Retained,61.33333333333334,High Engagement
+MB01077,13,Male,2023-06-30,754,Medium Risk,1,Churn,72.83333333333334,High Engagement
+MB01078,22,Male,2024-11-02,263,Active,0,Retained,4.000000000000001,Low Engagement
+MB01079,30,Non-binary,2022-09-15,1042,High Risk,1,Churn,59.333333333333336,Medium Engagement
+MB01080,36,Female,2023-03-08,868,High Risk,1,Churn,33.833333333333336,Low Engagement
+MB01081,30,Female,2025-03-19,126,Active,0,Retained,24.666666666666664,Low Engagement
+MB01082,29,Male,2024-04-04,475,Low Risk,0,Retained,68.33333333333333,High Engagement
+MB01083,13,Prefer not to say,2022-11-29,967,High Risk,1,Churn,23.75,Low Engagement
+MB01084,14,Male,2022-09-20,1037,High Risk,1,Churn,73.5,High Engagement
+MB01085,45,Female,2024-02-11,528,Low Risk,0,Retained,80.00000000000001,High Engagement
+MB01086,25,Non-binary,2023-09-08,684,Medium Risk,1,Churn,35.25,Medium Engagement
+MB01087,29,Non-binary,2024-12-27,208,Active,0,Retained,44.83333333333333,Medium Engagement
+MB01088,36,Female,2022-08-02,1086,High Risk,1,Churn,35.916666666666664,Medium Engagement
+MB01089,18,Male,2024-10-19,277,Active,0,Retained,67.75000000000001,High Engagement
+MB01090,30,Prefer not to say,2022-09-22,1035,High Risk,1,Churn,39.583333333333336,Medium Engagement
+MB01091,44,Prefer not to say,2023-08-01,722,Medium Risk,1,Churn,92.0,High Engagement
+MB01092,38,Non-binary,2023-09-14,678,Medium Risk,1,Churn,46.166666666666664,Medium Engagement
+MB01093,46,Female,2023-12-24,577,Medium Risk,1,Churn,21.000000000000004,Low Engagement
+MB01094,48,Female,2024-10-20,276,Active,0,Retained,28.666666666666668,Low Engagement
+MB01095,43,Non-binary,2024-12-16,219,Active,0,Retained,50.5,Medium Engagement
+MB01096,21,Male,2024-10-31,265,Active,0,Retained,40.416666666666664,Medium Engagement
+MB01097,29,Male,2024-12-06,229,Active,0,Retained,36.5,Medium Engagement
+MB01098,47,Female,2023-03-15,861,High Risk,1,Churn,28.749999999999996,Low Engagement
+MB01099,18,Prefer not to say,2024-06-15,403,Low Risk,0,Retained,55.41666666666667,Medium Engagement
+MB01100,19,Female,2025-04-22,92,Active,0,Retained,35.75000000000001,Medium Engagement
+MB01101,47,Other (self-described),2022-08-25,1063,High Risk,1,Churn,35.5,Medium Engagement
+MB01102,46,Female,2022-11-24,972,High Risk,1,Churn,21.000000000000004,Low Engagement
+MB01103,44,Female,2022-10-08,1019,High Risk,1,Churn,17.5,Low Engagement
+MB01104,39,Male,2022-07-29,1090,High Risk,1,Churn,69.08333333333334,High Engagement
+MB01105,24,Male,2024-12-19,216,Active,0,Retained,54.66666666666667,Medium Engagement
+MB01106,38,Female,2024-04-27,452,Low Risk,0,Retained,52.83333333333334,Medium Engagement
+MB01107,28,Male,2023-04-07,838,High Risk,1,Churn,86.41666666666667,High Engagement
+MB01108,28,Male,2023-06-12,772,Medium Risk,1,Churn,86.41666666666667,High Engagement
+MB01109,20,Male,2025-01-10,194,Active,0,Retained,75.25,High Engagement
+MB01110,39,Male,2023-02-05,899,High Risk,1,Churn,45.41666666666666,Medium Engagement
+MB01111,23,Female,2024-10-26,270,Active,0,Retained,38.91666666666666,Medium Engagement
+MB01112,41,Prefer not to say,2024-10-27,269,Active,0,Retained,49.666666666666664,Medium Engagement
+MB01113,23,Female,2023-11-29,602,Medium Risk,1,Churn,54.41666666666667,Medium Engagement
+MB01114,39,Male,2023-09-30,662,Medium Risk,1,Churn,91.16666666666666,High Engagement
+MB01115,32,Prefer not to say,2023-10-14,648,Medium Risk,1,Churn,31.666666666666664,Low Engagement
+MB01116,49,Non-binary,2025-03-17,128,Active,0,Retained,47.25,Medium Engagement
+MB01117,41,Female,2022-12-01,965,High Risk,1,Churn,33.333333333333336,Low Engagement
+MB01118,26,Male,2024-09-13,313,Low Risk,0,Retained,61.75000000000001,High Engagement
+MB01119,39,Male,2025-02-05,168,Active,0,Retained,91.83333333333334,High Engagement
+MB01120,29,Male,2022-11-19,977,High Risk,1,Churn,65.58333333333334,High Engagement
+MB01121,37,Male,2022-09-09,1048,High Risk,1,Churn,32.166666666666664,Low Engagement
+MB01122,32,Prefer not to say,2022-12-17,949,High Risk,1,Churn,31.666666666666664,Low Engagement
+MB01123,20,Female,2023-02-11,893,High Risk,1,Churn,65.33333333333334,High Engagement
+MB01124,27,Non-binary,2023-07-26,728,Medium Risk,1,Churn,30.91666666666667,Low Engagement
+MB01125,42,Male,2023-11-14,617,Medium Risk,1,Churn,63.83333333333333,High Engagement
+MB01126,39,Male,2025-03-22,123,Active,0,Retained,44.666666666666664,Medium Engagement
+MB01127,40,Male,2024-04-13,466,Low Risk,0,Retained,46.583333333333336,Medium Engagement
+MB01128,20,Prefer not to say,2024-05-22,427,Low Risk,0,Retained,42.083333333333336,Medium Engagement
+MB01129,47,Prefer not to say,2024-09-19,307,Low Risk,0,Retained,22.333333333333332,Low Engagement
+MB01130,45,Other (self-described),2023-05-14,801,Medium Risk,1,Churn,38.0,Medium Engagement
+MB01131,28,Male,2024-01-11,559,Low Risk,0,Retained,42.50000000000001,Medium Engagement
+MB01132,17,Female,2025-03-28,117,Active,0,Retained,55.333333333333336,Medium Engagement
+MB01133,19,Non-binary,2024-10-31,265,Active,0,Retained,54.833333333333336,Medium Engagement
+MB01134,32,Prefer not to say,2023-06-26,758,Medium Risk,1,Churn,69.5,High Engagement
+MB01135,19,Female,2025-04-02,112,Active,0,Retained,88.83333333333334,High Engagement
+MB01136,47,Other (self-described),2022-12-29,937,High Risk,1,Churn,35.5,Medium Engagement
+MB01137,34,Female,2024-01-12,558,Low Risk,0,Retained,47.41666666666667,Medium Engagement
+MB01138,25,Male,2024-01-28,542,Low Risk,0,Retained,30.583333333333336,Low Engagement
+MB01139,48,Male,2023-10-01,661,Medium Risk,1,Churn,64.16666666666667,High Engagement
+MB01140,29,Male,2023-01-26,909,High Risk,1,Churn,40.916666666666664,Medium Engagement
+MB01141,33,Prefer not to say,2024-06-17,401,Low Risk,0,Retained,51.74999999999999,Medium Engagement
+MB01142,45,Male,2023-07-01,753,Medium Risk,1,Churn,43.33333333333333,Medium Engagement
+MB01143,27,Non-binary,2023-10-29,633,Medium Risk,1,Churn,47.833333333333336,Medium Engagement
+MB01144,16,Female,2024-09-11,315,Low Risk,0,Retained,45.83333333333333,Medium Engagement
+MB01145,41,Prefer not to say,2022-11-30,966,High Risk,1,Churn,65.41666666666667,High Engagement
+MB01146,30,Female,2023-02-24,880,High Risk,1,Churn,58.50000000000001,Medium Engagement
+MB01147,46,Female,2023-07-22,732,Medium Risk,1,Churn,42.333333333333336,Medium Engagement
+MB01148,26,Prefer not to say,2022-12-30,936,High Risk,1,Churn,84.75000000000001,High Engagement
+MB01149,31,Non-binary,2022-12-12,954,High Risk,1,Churn,65.08333333333334,High Engagement
+MB01150,29,Female,2023-05-30,785,Medium Risk,1,Churn,59.833333333333336,Medium Engagement
+MB01151,47,Female,2023-01-13,922,High Risk,1,Churn,34.25,Low Engagement
+MB01152,33,Non-binary,2023-06-11,773,Medium Risk,1,Churn,51.583333333333336,Medium Engagement
+MB01153,36,Non-binary,2023-06-29,755,Medium Risk,1,Churn,18.166666666666664,Low Engagement
+MB01154,34,Non-binary,2023-09-03,689,Medium Risk,1,Churn,43.16666666666666,Medium Engagement
+MB01155,33,Male,2023-04-13,832,High Risk,1,Churn,49.083333333333336,Medium Engagement
+MB01156,23,Female,2025-01-05,199,Active,0,Retained,53.66666666666667,Medium Engagement
+MB01157,16,Female,2022-11-27,969,High Risk,1,Churn,28.666666666666668,Low Engagement
+MB01158,27,Male,2022-12-07,959,High Risk,1,Churn,33.416666666666664,Low Engagement
+MB01159,40,Female,2025-05-22,62,Active,0,Retained,29.500000000000004,Low Engagement
+MB01160,41,Non-binary,2023-01-25,910,High Risk,1,Churn,20.666666666666668,Low Engagement
+MB01161,37,Female,2025-02-05,168,Active,0,Retained,15.666666666666668,Low Engagement
+MB01162,27,Male,2024-07-01,387,Low Risk,0,Retained,12.333333333333334,Low Engagement
+MB01163,18,Male,2023-04-23,822,Medium Risk,1,Churn,46.08333333333333,Medium Engagement
+MB01164,41,Male,2025-01-02,202,Active,0,Retained,35.75,Medium Engagement
+MB01165,16,Female,2023-02-02,902,High Risk,1,Churn,45.83333333333333,Medium Engagement
+MB01166,36,Female,2023-01-18,917,High Risk,1,Churn,47.666666666666664,Medium Engagement
+MB01167,47,Male,2023-12-30,571,Medium Risk,1,Churn,45.416666666666664,Medium Engagement
+MB01168,32,Male,2025-06-16,37,Active,0,Retained,50.083333333333336,Medium Engagement
+MB01169,48,Male,2024-08-21,336,Low Risk,0,Retained,48.50000000000001,Medium Engagement
+MB01170,19,Female,2023-09-04,688,Medium Risk,1,Churn,13.166666666666668,Low Engagement
+MB01171,33,Male,2022-08-13,1075,High Risk,1,Churn,17.166666666666668,Low Engagement
+MB01172,24,Female,2023-08-20,703,Medium Risk,1,Churn,63.25000000000001,High Engagement
+MB01173,35,Non-binary,2024-09-19,307,Low Risk,0,Retained,37.0,Medium Engagement
+MB01174,41,Prefer not to say,2023-08-17,706,Medium Risk,1,Churn,49.666666666666664,Medium Engagement
+MB01175,39,Other (self-described),2023-11-25,606,Medium Risk,1,Churn,38.74999999999999,Medium Engagement
+MB01176,45,Male,2023-03-15,861,High Risk,1,Churn,66.66666666666667,High Engagement
+MB01177,31,Prefer not to say,2025-03-01,144,Active,0,Retained,45.25,Medium Engagement
+MB01178,45,Male,2023-04-04,841,High Risk,1,Churn,66.50000000000001,High Engagement
+MB01179,44,Male,2023-11-24,607,Medium Risk,1,Churn,47.91666666666667,Medium Engagement
+MB01180,42,Female,2022-09-01,1056,High Risk,1,Churn,83.41666666666667,High Engagement
+MB01181,20,Female,2024-06-23,395,Low Risk,0,Retained,43.833333333333336,Medium Engagement
+MB01182,40,Male,2023-08-19,704,Medium Risk,1,Churn,61.00000000000001,High Engagement
+MB01183,19,Female,2022-10-04,1023,High Risk,1,Churn,40.416666666666664,Medium Engagement
+MB01184,21,Male,2025-03-05,140,Active,0,Retained,43.5,Medium Engagement
+MB01185,27,Other (self-described),2022-09-28,1029,High Risk,1,Churn,53.0,Medium Engagement
+MB01186,20,Female,2023-06-21,763,Medium Risk,1,Churn,28.666666666666668,Low Engagement
+MB01187,41,Prefer not to say,2025-04-11,103,Active,0,Retained,56.25,Medium Engagement
+MB01188,29,Male,2024-08-06,351,Low Risk,0,Retained,43.666666666666664,Medium Engagement
+MB01189,27,Male,2023-05-30,785,Medium Risk,1,Churn,33.416666666666664,Low Engagement
+MB01190,39,Female,2025-04-12,102,Active,0,Retained,33.58333333333333,Low Engagement
+MB01191,46,Non-binary,2023-10-11,651,Medium Risk,1,Churn,38.33333333333333,Medium Engagement
+MB01192,14,Male,2024-06-19,399,Low Risk,0,Retained,87.16666666666667,High Engagement
+MB01193,27,Female,2023-08-31,692,Medium Risk,1,Churn,60.583333333333336,High Engagement
+MB01194,15,Male,2025-05-05,79,Active,0,Retained,30.000000000000004,Low Engagement
+MB01195,29,Male,2022-12-07,959,High Risk,1,Churn,34.583333333333336,Low Engagement
+MB01196,49,Male,2022-08-21,1067,High Risk,1,Churn,22.499999999999996,Low Engagement
+MB01197,38,Prefer not to say,2022-08-26,1062,High Risk,1,Churn,2.8333333333333335,Low Engagement
+MB01198,28,Female,2023-04-16,829,Medium Risk,1,Churn,60.00000000000001,High Engagement
+MB01199,24,Prefer not to say,2025-02-04,169,Active,0,Retained,38.74999999999999,Medium Engagement
+MB01200,40,Male,2023-04-07,838,High Risk,1,Churn,49.333333333333336,Medium Engagement
+MB01201,32,Male,2025-05-27,57,Active,0,Retained,26.333333333333332,Low Engagement
+MB01202,43,Male,2025-05-30,54,Active,0,Retained,80.0,High Engagement
+MB01203,30,Female,2024-07-13,375,Low Risk,0,Retained,50.16666666666667,Medium Engagement
+MB01204,17,Female,2024-01-19,551,Low Risk,0,Retained,40.333333333333336,Medium Engagement
+MB01205,27,Male,2023-03-25,851,High Risk,1,Churn,33.416666666666664,Low Engagement
+MB01206,48,Male,2023-06-26,758,Medium Risk,1,Churn,41.33333333333333,Medium Engagement
+MB01207,24,Female,2024-03-05,505,Low Risk,0,Retained,55.750000000000014,Medium Engagement
+MB01208,45,Female,2024-09-04,322,Low Risk,0,Retained,66.25000000000001,High Engagement
+MB01209,42,Female,2022-07-27,1092,High Risk,1,Churn,24.333333333333336,Low Engagement
+MB01210,23,Male,2024-03-26,484,Low Risk,0,Retained,64.83333333333334,High Engagement
+MB01211,27,Male,2024-02-28,511,Low Risk,0,Retained,1.3333333333333335,Low Engagement
+MB01212,24,Female,2024-12-30,205,Active,0,Retained,44.166666666666664,Medium Engagement
+MB01213,44,Prefer not to say,2023-02-27,877,High Risk,1,Churn,92.0,High Engagement
+MB01214,23,Prefer not to say,2023-06-15,769,Medium Risk,1,Churn,43.166666666666664,Medium Engagement
+MB01215,41,Prefer not to say,2024-10-30,266,Active,0,Retained,56.25,Medium Engagement
+MB01216,37,Non-binary,2025-03-27,118,Active,0,Retained,28.666666666666675,Low Engagement
+MB01217,33,Male,2023-06-29,755,Medium Risk,1,Churn,48.00000000000001,Medium Engagement
+MB01218,33,Female,2023-07-26,728,Medium Risk,1,Churn,56.91666666666667,Medium Engagement
+MB01219,28,Female,2024-09-04,322,Low Risk,0,Retained,55.16666666666667,Medium Engagement
+MB01220,29,Non-binary,2022-09-14,1043,High Risk,1,Churn,50.25000000000001,Medium Engagement
+MB01221,41,Non-binary,2025-01-13,191,Active,0,Retained,40.5,Medium Engagement
+MB01222,38,Non-binary,2024-03-19,491,Low Risk,0,Retained,61.00000000000001,High Engagement
+MB01223,22,Female,2022-09-22,1035,High Risk,1,Churn,18.583333333333336,Low Engagement
+MB01224,35,Male,2024-04-01,478,Low Risk,0,Retained,31.75,Low Engagement
+MB01225,31,Male,2023-08-12,711,Medium Risk,1,Churn,48.25000000000001,Medium Engagement
+MB01226,30,Female,2024-04-25,454,Low Risk,0,Retained,58.50000000000001,Medium Engagement
+MB01227,24,Male,2024-09-03,323,Low Risk,0,Retained,54.66666666666667,Medium Engagement
+MB01228,23,Non-binary,2022-08-10,1078,High Risk,1,Churn,86.33333333333334,High Engagement
+MB01229,33,Male,2024-04-13,466,Low Risk,0,Retained,49.083333333333336,Medium Engagement
+MB01230,28,Male,2022-11-13,983,High Risk,1,Churn,67.25,High Engagement
+MB01231,43,Non-binary,2024-10-21,275,Active,0,Retained,73.50000000000001,High Engagement
+MB01232,45,Prefer not to say,2024-11-08,257,Active,0,Retained,40.75,Medium Engagement
+MB01233,39,Prefer not to say,2025-05-20,64,Active,0,Retained,63.083333333333336,High Engagement
+MB01234,23,Female,2023-07-29,725,Medium Risk,1,Churn,54.41666666666667,Medium Engagement
+MB01235,48,Male,2024-05-26,423,Low Risk,0,Retained,42.833333333333336,Medium Engagement
+MB01236,30,Other (self-described),2022-12-15,951,High Risk,1,Churn,35.00000000000001,Medium Engagement
+MB01237,19,Non-binary,2024-02-05,534,Low Risk,0,Retained,54.833333333333336,Medium Engagement
+MB01238,33,Female,2022-08-26,1062,High Risk,1,Churn,50.583333333333336,Medium Engagement
+MB01239,33,Female,2024-12-07,228,Active,0,Retained,49.75000000000001,Medium Engagement
+MB01240,22,Female,2022-12-10,956,High Risk,1,Churn,49.333333333333336,Medium Engagement
+MB01241,39,Male,2023-03-18,858,High Risk,1,Churn,91.16666666666666,High Engagement
+MB01242,22,Female,2023-03-24,852,High Risk,1,Churn,67.66666666666667,High Engagement
+MB01243,43,Other (self-described),2023-01-05,930,High Risk,1,Churn,75.16666666666667,High Engagement
+MB01244,35,Female,2023-04-04,841,High Risk,1,Churn,27.500000000000004,Low Engagement
+MB01245,26,Female,2023-08-26,697,Medium Risk,1,Churn,78.5,High Engagement
+MB01246,29,Male,2025-02-03,170,Active,0,Retained,43.666666666666664,Medium Engagement
+MB01247,35,Male,2025-05-19,65,Active,0,Retained,51.083333333333336,Medium Engagement
+MB01248,47,Other (self-described),2022-10-16,1011,High Risk,1,Churn,46.08333333333333,Medium Engagement
+MB01249,19,Male,2023-09-05,687,Medium Risk,1,Churn,52.16666666666667,Medium Engagement
+MB01250,43,Female,2023-02-25,879,High Risk,1,Churn,48.833333333333336,Medium Engagement
+MB01251,24,Male,2024-01-27,543,Low Risk,0,Retained,66.66666666666667,High Engagement
+MB01252,15,Non-binary,2025-02-18,155,Active,0,Retained,48.083333333333336,Medium Engagement
+MB01253,19,Male,2025-02-09,164,Active,0,Retained,45.58333333333333,Medium Engagement
+MB01254,27,Male,2023-06-23,761,Medium Risk,1,Churn,1.3333333333333335,Low Engagement
+MB01255,43,Female,2024-03-21,489,Low Risk,0,Retained,44.91666666666667,Medium Engagement
+MB01256,35,Male,2024-11-21,244,Active,0,Retained,27.666666666666668,Low Engagement
+MB01257,36,Male,2024-01-16,554,Low Risk,0,Retained,56.58333333333333,Medium Engagement
+MB01258,40,Non-binary,2025-04-15,99,Active,0,Retained,49.41666666666667,Medium Engagement
+MB01259,38,Male,2023-10-12,650,Medium Risk,1,Churn,48.666666666666664,Medium Engagement
+MB01260,19,Male,2024-09-09,317,Low Risk,0,Retained,34.50000000000001,Low Engagement
+MB01261,20,Female,2023-02-24,880,High Risk,1,Churn,28.666666666666668,Low Engagement
+MB01262,44,Female,2024-07-27,361,Low Risk,0,Retained,17.5,Low Engagement
+MB01263,34,Non-binary,2024-02-24,515,Low Risk,0,Retained,43.16666666666666,Medium Engagement
+MB01264,13,Female,2025-06-10,43,Active,0,Retained,46.16666666666667,Medium Engagement
+MB01265,29,Male,2025-04-06,108,Active,0,Retained,30.75,Low Engagement
+MB01266,31,Female,2024-04-30,449,Low Risk,0,Retained,87.5,High Engagement
+MB01267,15,Male,2024-01-28,542,Low Risk,0,Retained,30.000000000000004,Low Engagement
+MB01268,38,Female,2023-09-22,670,Medium Risk,1,Churn,76.58333333333334,High Engagement
+MB01269,32,Male,2024-08-16,341,Low Risk,0,Retained,50.083333333333336,Medium Engagement
+MB01270,37,Female,2023-06-13,771,Medium Risk,1,Churn,15.666666666666668,Low Engagement
+MB01271,24,Male,2022-12-19,947,High Risk,1,Churn,66.66666666666667,High Engagement
+MB01272,23,Female,2023-03-15,861,High Risk,1,Churn,38.91666666666666,Medium Engagement
+MB01273,20,Prefer not to say,2025-05-11,73,Active,0,Retained,42.083333333333336,Medium Engagement
+MB01274,35,Non-binary,2024-01-28,542,Low Risk,0,Retained,84.66666666666669,High Engagement
+MB01275,26,Female,2025-03-03,142,Active,0,Retained,78.5,High Engagement
+MB01276,17,Female,2024-10-08,288,Low Risk,0,Retained,55.333333333333336,Medium Engagement
+MB01277,40,Female,2022-08-07,1081,High Risk,1,Churn,53.0,Medium Engagement
+MB01278,28,Male,2025-01-22,182,Active,0,Retained,54.58333333333334,Medium Engagement
+MB01279,17,Male,2024-01-08,562,Low Risk,0,Retained,18.083333333333336,Low Engagement
+MB01280,23,Male,2023-09-03,689,Medium Risk,1,Churn,57.333333333333336,Medium Engagement
+MB01281,24,Male,2023-06-05,779,Medium Risk,1,Churn,59.25,Medium Engagement
+MB01282,18,Non-binary,2023-11-04,627,Medium Risk,1,Churn,10.833333333333334,Low Engagement
+MB01283,48,Male,2025-06-12,41,Active,0,Retained,34.91666666666667,Low Engagement
+MB01284,38,Female,2024-07-10,378,Low Risk,0,Retained,60.83333333333334,High Engagement
+MB01285,23,Female,2023-12-19,582,Medium Risk,1,Churn,38.91666666666666,Medium Engagement
+MB01286,36,Female,2025-03-21,124,Active,0,Retained,58.08333333333334,Medium Engagement
+MB01287,26,Male,2024-06-14,404,Low Risk,0,Retained,43.66666666666667,Medium Engagement
+MB01288,18,Male,2025-05-18,66,Active,0,Retained,67.75000000000001,High Engagement
+MB01289,20,Prefer not to say,2025-03-31,114,Active,0,Retained,32.75,Low Engagement
+MB01290,19,Female,2024-04-26,453,Low Risk,0,Retained,88.83333333333334,High Engagement
+MB01291,13,Male,2025-02-01,172,Active,0,Retained,52.75000000000001,Medium Engagement
+MB01292,43,Female,2023-10-27,635,Medium Risk,1,Churn,61.16666666666667,High Engagement
+MB01293,27,Female,2023-06-19,765,Medium Risk,1,Churn,15.166666666666668,Low Engagement
+MB01294,48,Female,2023-02-21,883,High Risk,1,Churn,28.666666666666668,Low Engagement
+MB01295,45,Prefer not to say,2024-11-21,244,Active,0,Retained,36.41666666666667,Medium Engagement
+MB01296,36,Female,2024-12-26,209,Active,0,Retained,33.75,Low Engagement
+MB01297,21,Male,2025-03-03,142,Active,0,Retained,89.83333333333334,High Engagement
+MB01298,41,Female,2023-08-15,708,Medium Risk,1,Churn,42.0,Medium Engagement
+MB01299,28,Male,2023-06-01,783,Medium Risk,1,Churn,34.333333333333336,Low Engagement
+MB01300,21,Male,2025-05-20,64,Active,0,Retained,30.0,Low Engagement
+MB01301,29,Female,2022-09-29,1028,High Risk,1,Churn,23.166666666666668,Low Engagement
+MB01302,14,Male,2025-04-28,86,Active,0,Retained,81.16666666666667,High Engagement
+MB01303,17,Male,2023-11-24,607,Medium Risk,1,Churn,22.25,Low Engagement
+MB01304,31,Male,2023-05-29,786,Medium Risk,1,Churn,47.91666666666667,Medium Engagement
+MB01305,20,Prefer not to say,2022-12-08,958,High Risk,1,Churn,42.083333333333336,Medium Engagement
+MB01306,13,Female,2023-05-24,791,Medium Risk,1,Churn,52.33333333333333,Medium Engagement
+MB01307,16,Male,2023-02-20,884,High Risk,1,Churn,40.0,Medium Engagement
+MB01308,47,Non-binary,2024-06-26,392,Low Risk,0,Retained,65.16666666666667,High Engagement
+MB01309,40,Male,2023-02-06,898,High Risk,1,Churn,48.91666666666667,Medium Engagement
+MB01310,26,Female,2025-03-29,116,Active,0,Retained,27.500000000000004,Low Engagement
+MB01311,33,Male,2022-11-13,983,High Risk,1,Churn,47.333333333333336,Medium Engagement
+MB01312,36,Female,2023-11-17,614,Medium Risk,1,Churn,41.33333333333333,Medium Engagement
+MB01313,24,Female,2023-02-03,901,High Risk,1,Churn,51.083333333333336,Medium Engagement
+MB01314,46,Prefer not to say,2024-02-27,512,Low Risk,0,Retained,99.50000000000001,High Engagement
+MB01315,37,Non-binary,2023-08-07,716,Medium Risk,1,Churn,23.666666666666668,Low Engagement
+MB01316,28,Female,2023-12-10,591,Medium Risk,1,Churn,18.583333333333336,Low Engagement
+MB01317,28,Prefer not to say,2023-05-05,810,Medium Risk,1,Churn,33.66666666666667,Low Engagement
+MB01318,26,Female,2025-03-28,117,Active,0,Retained,70.66666666666667,High Engagement
+MB01319,22,Prefer not to say,2025-04-19,95,Active,0,Retained,34.333333333333336,Low Engagement
+MB01320,14,Female,2024-10-02,294,Low Risk,0,Retained,45.0,Medium Engagement
+MB01321,47,Other (self-described),2025-01-04,200,Active,0,Retained,46.08333333333333,Medium Engagement
+MB01322,32,Female,2022-12-07,959,High Risk,1,Churn,59.833333333333336,Medium Engagement
+MB01323,35,Non-binary,2024-11-01,264,Active,0,Retained,34.75,Low Engagement
+MB01324,39,Prefer not to say,2022-08-18,1070,High Risk,1,Churn,41.75000000000001,Medium Engagement
+MB01325,36,Female,2024-06-29,389,Low Risk,0,Retained,44.08333333333334,Medium Engagement
+MB01326,12,Male,2024-12-11,224,Active,0,Retained,47.66666666666667,Medium Engagement
+MB01327,23,Male,2023-03-04,872,High Risk,1,Churn,55.00000000000001,Medium Engagement
+MB01328,48,Other (self-described),2023-07-22,732,Medium Risk,1,Churn,59.333333333333336,Medium Engagement
+MB01329,32,Female,2024-01-09,561,Low Risk,0,Retained,54.333333333333336,Medium Engagement
+MB01330,45,Female,2023-11-09,622,Medium Risk,1,Churn,64.08333333333334,High Engagement
+MB01331,32,Non-binary,2023-05-19,796,Medium Risk,1,Churn,43.5,Medium Engagement
+MB01332,33,Prefer not to say,2024-10-22,274,Active,0,Retained,57.833333333333336,Medium Engagement
+MB01333,21,Female,2022-07-27,1092,High Risk,1,Churn,82.83333333333334,High Engagement
+MB01334,44,Female,2022-08-19,1069,High Risk,1,Churn,32.25,Low Engagement
+MB01335,19,Non-binary,2023-07-31,723,Medium Risk,1,Churn,54.833333333333336,Medium Engagement
+MB01336,14,Other (self-described),2024-11-22,243,Active,0,Retained,50.25000000000001,Medium Engagement
+MB01337,13,Female,2023-06-29,755,Medium Risk,1,Churn,25.0,Low Engagement
+MB01338,29,Male,2025-04-07,107,Active,0,Retained,30.75,Low Engagement
+MB01339,33,Prefer not to say,2025-05-21,63,Active,0,Retained,57.833333333333336,Medium Engagement
+MB01340,16,Male,2024-09-21,305,Low Risk,0,Retained,59.00000000000001,Medium Engagement
+MB01341,28,Male,2024-02-16,523,Low Risk,0,Retained,42.50000000000001,Medium Engagement
+MB01342,14,Female,2022-12-11,955,High Risk,1,Churn,45.0,Medium Engagement
+MB01343,16,Female,2023-05-10,805,Medium Risk,1,Churn,66.58333333333334,High Engagement
+MB01344,49,Male,2023-04-24,821,Medium Risk,1,Churn,22.499999999999996,Low Engagement
+MB01345,22,Male,2024-03-26,484,Low Risk,0,Retained,17.0,Low Engagement
+MB01346,49,Male,2024-06-19,399,Low Risk,0,Retained,22.833333333333332,Low Engagement
+MB01347,14,Female,2024-05-23,426,Low Risk,0,Retained,48.333333333333336,Medium Engagement
+MB01348,49,Male,2022-08-06,1082,High Risk,1,Churn,26.916666666666668,Low Engagement
+MB01349,28,Prefer not to say,2025-05-11,73,Active,0,Retained,33.66666666666667,Low Engagement
+MB01350,21,Male,2022-12-12,954,High Risk,1,Churn,30.0,Low Engagement
+MB01351,21,Male,2023-10-15,647,Medium Risk,1,Churn,28.916666666666664,Low Engagement
+MB01352,49,Male,2024-03-12,498,Low Risk,0,Retained,22.833333333333332,Low Engagement
+MB01353,24,Male,2023-05-12,803,Medium Risk,1,Churn,49.75000000000001,Medium Engagement
+MB01354,25,Male,2024-01-21,549,Low Risk,0,Retained,9.166666666666668,Low Engagement
+MB01355,40,Female,2022-12-05,961,High Risk,1,Churn,29.500000000000004,Low Engagement
+MB01356,48,Female,2022-11-06,990,High Risk,1,Churn,34.583333333333336,Low Engagement
+MB01357,41,Male,2024-03-30,480,Low Risk,0,Retained,35.75,Medium Engagement
+MB01358,14,Female,2024-09-01,325,Low Risk,0,Retained,33.333333333333336,Low Engagement
+MB01359,38,Non-binary,2023-10-01,661,Medium Risk,1,Churn,61.00000000000001,High Engagement
+MB01360,35,Non-binary,2022-10-25,1002,High Risk,1,Churn,68.33333333333333,High Engagement
+MB01361,18,Male,2024-11-10,255,Active,0,Retained,42.833333333333336,Medium Engagement
+MB01362,25,Male,2023-08-29,694,Medium Risk,1,Churn,9.166666666666668,Low Engagement
+MB01363,17,Female,2023-08-20,703,Medium Risk,1,Churn,74.16666666666667,High Engagement
+MB01364,31,Male,2023-05-04,811,Medium Risk,1,Churn,48.25000000000001,Medium Engagement
+MB01365,45,Non-binary,2025-02-02,171,Active,0,Retained,53.0,Medium Engagement
+MB01366,41,Male,2023-05-22,793,Medium Risk,1,Churn,11.000000000000002,Low Engagement
+MB01367,12,Male,2022-10-28,999,High Risk,1,Churn,69.33333333333334,High Engagement
+MB01368,12,Female,2024-12-13,222,Active,0,Retained,48.083333333333336,Medium Engagement
+MB01369,19,Female,2024-10-13,283,Low Risk,0,Retained,31.75,Low Engagement
+MB01370,24,Non-binary,2022-08-23,1065,High Risk,1,Churn,34.0,Low Engagement
+MB01371,47,Female,2024-12-12,223,Active,0,Retained,36.41666666666667,Medium Engagement
+MB01372,21,Prefer not to say,2022-12-26,940,High Risk,1,Churn,32.91666666666667,Low Engagement
+MB01373,39,Male,2024-01-15,555,Low Risk,0,Retained,44.666666666666664,Medium Engagement
+MB01374,41,Female,2024-10-02,294,Low Risk,0,Retained,34.0,Low Engagement
+MB01375,17,Female,2022-12-08,958,High Risk,1,Churn,40.333333333333336,Medium Engagement
+MB01376,26,Female,2024-03-05,505,Low Risk,0,Retained,29.166666666666668,Low Engagement
+MB01377,27,Male,2023-12-22,579,Medium Risk,1,Churn,38.416666666666664,Medium Engagement
+MB01378,27,Non-binary,2024-06-05,413,Low Risk,0,Retained,64.16666666666666,High Engagement
+MB01379,21,Male,2023-09-30,662,Medium Risk,1,Churn,25.666666666666664,Low Engagement
+MB01380,28,Female,2024-12-30,205,Active,0,Retained,55.16666666666667,Medium Engagement
+MB01381,35,Male,2024-05-02,447,Low Risk,0,Retained,13.833333333333334,Low Engagement
+MB01382,33,Female,2022-08-25,1063,High Risk,1,Churn,50.583333333333336,Medium Engagement
+MB01383,37,Female,2024-09-21,305,Low Risk,0,Retained,29.333333333333332,Low Engagement
+MB01384,24,Female,2023-07-24,730,Medium Risk,1,Churn,33.24999999999999,Low Engagement
+MB01385,17,Non-binary,2024-07-11,377,Low Risk,0,Retained,50.25000000000001,Medium Engagement
+MB01386,29,Male,2023-03-22,854,High Risk,1,Churn,65.58333333333334,High Engagement
+MB01387,45,Other (self-described),2025-02-03,170,Active,0,Retained,26.833333333333332,Low Engagement
+MB01388,37,Female,2022-08-25,1063,High Risk,1,Churn,15.666666666666668,Low Engagement
+MB01389,44,Male,2024-02-25,514,Low Risk,0,Retained,47.91666666666667,Medium Engagement
+MB01390,34,Non-binary,2024-10-14,282,Low Risk,0,Retained,32.75,Low Engagement
+MB01391,37,Male,2025-04-05,109,Active,0,Retained,46.99999999999999,Medium Engagement
+MB01392,31,Non-binary,2024-12-24,211,Active,0,Retained,65.08333333333334,High Engagement
+MB01393,21,Female,2023-12-17,584,Medium Risk,1,Churn,22.083333333333336,Low Engagement
+MB01394,26,Male,2024-06-29,389,Low Risk,0,Retained,63.166666666666686,High Engagement
+MB01395,20,Non-binary,2023-01-22,913,High Risk,1,Churn,75.5,High Engagement
+MB01396,19,Non-binary,2024-03-21,489,Low Risk,0,Retained,71.83333333333334,High Engagement
+MB01397,35,Male,2024-10-01,295,Low Risk,0,Retained,29.166666666666664,Low Engagement
+MB01398,26,Female,2023-09-04,688,Medium Risk,1,Churn,40.583333333333336,Medium Engagement
+MB01399,26,Male,2023-06-01,783,Medium Risk,1,Churn,47.0,Medium Engagement
+MB01400,21,Non-binary,2024-12-27,208,Active,0,Retained,38.583333333333336,Medium Engagement
+MB01401,37,Non-binary,2024-12-26,209,Active,0,Retained,56.50000000000001,Medium Engagement
+MB01402,39,Prefer not to say,2025-05-14,70,Active,0,Retained,63.083333333333336,High Engagement
+MB01403,13,Male,2023-04-30,815,Medium Risk,1,Churn,52.75000000000001,Medium Engagement
+MB01404,41,Female,2023-07-17,737,Medium Risk,1,Churn,50.083333333333336,Medium Engagement
+MB01405,34,Female,2024-02-03,536,Low Risk,0,Retained,60.16666666666667,High Engagement
+MB01406,34,Female,2023-01-05,930,High Risk,1,Churn,30.333333333333336,Low Engagement
+MB01407,18,Male,2023-02-15,889,High Risk,1,Churn,42.833333333333336,Medium Engagement
+MB01408,33,Male,2023-10-08,654,Medium Risk,1,Churn,49.083333333333336,Medium Engagement
+MB01409,29,Male,2022-12-11,955,High Risk,1,Churn,36.5,Medium Engagement
+MB01410,17,Male,2024-11-15,250,Active,0,Retained,12.000000000000002,Low Engagement
+MB01411,43,Other (self-described),2025-02-23,150,Active,0,Retained,75.16666666666667,High Engagement
+MB01412,20,Female,2024-09-08,318,Low Risk,0,Retained,63.75000000000001,High Engagement
+MB01413,43,Female,2025-04-23,91,Active,0,Retained,33.75,Low Engagement
+MB01414,27,Male,2023-12-05,596,Medium Risk,1,Churn,53.5,Medium Engagement
+MB01415,20,Other (self-described),2022-09-29,1028,High Risk,1,Churn,81.5,High Engagement
+MB01416,45,Male,2025-05-12,72,Active,0,Retained,55.333333333333336,Medium Engagement
+MB01417,27,Male,2025-02-12,161,Active,0,Retained,64.75000000000001,High Engagement
+MB01418,45,Female,2024-02-27,512,Low Risk,0,Retained,46.916666666666664,Medium Engagement
+MB01419,27,Male,2022-10-02,1025,High Risk,1,Churn,44.66666666666667,Medium Engagement
+MB01420,41,Female,2024-07-21,367,Low Risk,0,Retained,51.75000000000001,Medium Engagement
+MB01421,29,Female,2023-12-30,571,Medium Risk,1,Churn,64.91666666666667,High Engagement
+MB01422,21,Male,2025-05-09,75,Active,0,Retained,40.416666666666664,Medium Engagement
+MB01423,27,Other (self-described),2025-01-16,188,Active,0,Retained,39.24999999999999,Medium Engagement
+MB01424,13,Female,2022-08-07,1081,High Risk,1,Churn,16.75,Low Engagement
+MB01425,42,Male,2022-08-30,1058,High Risk,1,Churn,59.41666666666667,Medium Engagement
+MB01426,27,Male,2025-06-17,36,Active,0,Retained,46.833333333333336,Medium Engagement
+MB01427,12,Male,2022-09-13,1044,High Risk,1,Churn,63.83333333333334,High Engagement
+MB01428,47,Male,2023-08-12,711,Medium Risk,1,Churn,49.25000000000001,Medium Engagement
+MB01429,27,Male,2022-12-11,955,High Risk,1,Churn,88.00000000000001,High Engagement
+MB01430,47,Non-binary,2024-02-24,515,Low Risk,0,Retained,42.416666666666664,Medium Engagement
+MB01431,29,Male,2023-12-21,580,Medium Risk,1,Churn,30.75,Low Engagement
+MB01432,14,Male,2024-01-19,551,Low Risk,0,Retained,26.833333333333332,Low Engagement
+MB01433,12,Male,2023-07-13,741,Medium Risk,1,Churn,56.33333333333334,Medium Engagement
+MB01434,35,Non-binary,2025-01-25,179,Active,0,Retained,37.0,Medium Engagement
+MB01435,13,Male,2025-05-22,62,Active,0,Retained,37.83333333333333,Medium Engagement
+MB01436,32,Female,2024-07-30,358,Low Risk,0,Retained,22.333333333333332,Low Engagement
+MB01437,44,Other (self-described),2023-06-03,781,Medium Risk,1,Churn,40.25,Medium Engagement
+MB01438,12,Female,2024-11-20,245,Active,0,Retained,48.083333333333336,Medium Engagement
+MB01439,36,Male,2023-07-06,748,Medium Risk,1,Churn,56.58333333333333,Medium Engagement
+MB01440,32,Male,2022-08-25,1063,High Risk,1,Churn,42.00000000000001,Medium Engagement
+MB01441,21,Male,2025-03-14,131,Active,0,Retained,51.0,Medium Engagement
+MB01442,26,Female,2023-07-07,747,Medium Risk,1,Churn,78.5,High Engagement
+MB01443,26,Female,2024-03-07,503,Low Risk,0,Retained,67.33333333333333,High Engagement
+MB01444,42,Male,2022-12-11,955,High Risk,1,Churn,63.83333333333333,High Engagement
+MB01445,48,Female,2024-12-16,219,Active,0,Retained,39.583333333333336,Medium Engagement
+MB01446,18,Prefer not to say,2023-06-16,768,Medium Risk,1,Churn,45.666666666666664,Medium Engagement
+MB01447,19,Female,2023-01-12,923,High Risk,1,Churn,41.0,Medium Engagement
+MB01448,35,Female,2022-09-20,1037,High Risk,1,Churn,41.41666666666667,Medium Engagement
+MB01449,46,Female,2023-06-26,758,Medium Risk,1,Churn,76.41666666666667,High Engagement
+MB01450,39,Non-binary,2024-01-10,560,Low Risk,0,Retained,39.25,Medium Engagement
+MB01451,22,Female,2023-09-03,689,Medium Risk,1,Churn,67.66666666666667,High Engagement
+MB01452,27,Non-binary,2022-12-10,956,High Risk,1,Churn,28.166666666666668,Low Engagement
+MB01453,33,Male,2023-10-24,638,Medium Risk,1,Churn,17.166666666666668,Low Engagement
+MB01454,36,Female,2025-05-21,63,Active,0,Retained,35.916666666666664,Medium Engagement
+MB01455,36,Female,2022-10-05,1022,High Risk,1,Churn,33.833333333333336,Low Engagement
+MB01456,19,Female,2023-06-19,765,Medium Risk,1,Churn,35.75000000000001,Medium Engagement
+MB01457,16,Male,2023-07-03,751,Medium Risk,1,Churn,36.83333333333333,Medium Engagement
+MB01458,46,Non-binary,2024-11-05,260,Active,0,Retained,46.5,Medium Engagement
+MB01459,41,Female,2023-07-22,732,Medium Risk,1,Churn,34.0,Low Engagement
+MB01460,23,Male,2024-04-29,450,Low Risk,0,Retained,31.0,Low Engagement
+MB01461,16,Female,2023-07-30,724,Medium Risk,1,Churn,28.666666666666668,Low Engagement
+MB01462,41,Female,2025-03-01,144,Active,0,Retained,50.083333333333336,Medium Engagement
+MB01463,46,Non-binary,2023-07-23,731,Medium Risk,1,Churn,38.24999999999999,Medium Engagement
+MB01464,37,Male,2022-07-24,1095,High Risk,1,Churn,43.66666666666667,Medium Engagement
+MB01465,41,Non-binary,2025-05-02,82,Active,0,Retained,20.666666666666668,Low Engagement
+MB01466,20,Female,2022-08-17,1071,High Risk,1,Churn,63.75000000000001,High Engagement
+MB01467,30,Female,2024-04-15,464,Low Risk,0,Retained,37.666666666666664,Medium Engagement
+MB01468,40,Non-binary,2022-12-08,958,High Risk,1,Churn,56.750000000000014,Medium Engagement
+MB01469,38,Male,2023-03-12,864,High Risk,1,Churn,48.666666666666664,Medium Engagement
+MB01470,47,Non-binary,2023-10-28,634,Medium Risk,1,Churn,59.833333333333336,Medium Engagement
+MB01471,15,Male,2023-04-28,817,Medium Risk,1,Churn,45.0,Medium Engagement
+MB01472,26,Female,2022-11-30,966,High Risk,1,Churn,53.25,Medium Engagement
+MB01473,18,Non-binary,2024-04-18,461,Low Risk,0,Retained,56.25,Medium Engagement
+MB01474,30,Prefer not to say,2024-07-09,379,Low Risk,0,Retained,60.16666666666667,High Engagement
+MB01475,24,Male,2023-07-13,741,Medium Risk,1,Churn,66.66666666666667,High Engagement
+MB01476,15,Female,2023-02-13,891,High Risk,1,Churn,36.583333333333336,Medium Engagement
+MB01477,17,Non-binary,2023-04-03,842,High Risk,1,Churn,24.916666666666668,Low Engagement
+MB01478,27,Male,2023-02-24,880,High Risk,1,Churn,52.75000000000001,Medium Engagement
+MB01479,18,Male,2024-03-16,494,Low Risk,0,Retained,34.25,Low Engagement
+MB01480,40,Prefer not to say,2023-02-03,901,High Risk,1,Churn,59.25,Medium Engagement
+MB01481,46,Female,2025-02-14,159,Active,0,Retained,68.83333333333333,High Engagement
+MB01482,30,Prefer not to say,2023-11-21,610,Medium Risk,1,Churn,39.583333333333336,Medium Engagement
+MB01483,29,Male,2025-06-16,37,Active,0,Retained,34.583333333333336,Low Engagement
+MB01484,45,Female,2024-07-12,376,Low Risk,0,Retained,25.833333333333336,Low Engagement
+MB01485,27,Non-binary,2024-05-28,421,Low Risk,0,Retained,64.16666666666666,High Engagement
+MB01486,30,Female,2024-04-27,452,Low Risk,0,Retained,24.666666666666664,Low Engagement
+MB01487,43,Prefer not to say,2023-06-13,771,Medium Risk,1,Churn,25.16666666666667,Low Engagement
+MB01488,15,Female,2024-05-05,444,Low Risk,0,Retained,36.583333333333336,Medium Engagement
+MB01489,49,Female,2024-03-02,508,Low Risk,0,Retained,45.5,Medium Engagement
+MB01490,29,Female,2024-10-13,283,Low Risk,0,Retained,64.91666666666667,High Engagement
+MB01491,21,Male,2024-05-21,428,Low Risk,0,Retained,36.833333333333336,Medium Engagement
+MB01492,18,Female,2024-10-23,273,Active,0,Retained,61.33333333333334,High Engagement
+MB01493,40,Prefer not to say,2025-04-06,108,Active,0,Retained,59.25,Medium Engagement
+MB01494,23,Female,2023-09-19,673,Medium Risk,1,Churn,23.166666666666664,Low Engagement
+MB01495,33,Female,2023-07-12,742,Medium Risk,1,Churn,66.5,High Engagement
+MB01496,35,Female,2023-09-02,690,Medium Risk,1,Churn,4.666666666666668,Low Engagement
+MB01497,29,Other (self-described),2024-02-15,524,Low Risk,0,Retained,39.166666666666664,Medium Engagement
+MB01498,48,Female,2024-05-14,435,Low Risk,0,Retained,70.0,High Engagement
+MB01499,32,Prefer not to say,2022-12-16,950,High Risk,1,Churn,20.0,Low Engagement
+MB01500,13,Non-binary,2023-12-18,583,Medium Risk,1,Churn,74.83333333333334,High Engagement
+MB01501,49,Male,2024-01-29,541,Low Risk,0,Retained,22.499999999999996,Low Engagement
+MB01502,28,Male,2025-05-26,58,Active,0,Retained,39.49999999999999,Medium Engagement
+MB01503,49,Prefer not to say,2024-06-24,394,Low Risk,0,Retained,11.166666666666666,Low Engagement
+MB01504,34,Prefer not to say,2024-05-14,435,Low Risk,0,Retained,37.583333333333336,Medium Engagement
+MB01505,32,Female,2024-04-24,455,Low Risk,0,Retained,40.16666666666667,Medium Engagement
+MB01506,21,Male,2023-10-14,648,Medium Risk,1,Churn,40.416666666666664,Medium Engagement
+MB01507,26,Non-binary,2023-12-02,599,Medium Risk,1,Churn,39.5,Medium Engagement
+MB01508,13,Male,2023-09-14,678,Medium Risk,1,Churn,34.416666666666664,Low Engagement
+MB01509,36,Female,2023-03-31,845,High Risk,1,Churn,53.91666666666667,Medium Engagement
+MB01510,44,Female,2023-02-08,896,High Risk,1,Churn,47.0,Medium Engagement
+MB01511,29,Female,2023-05-20,795,Medium Risk,1,Churn,46.166666666666664,Medium Engagement
+MB01512,20,Male,2022-09-09,1048,High Risk,1,Churn,28.416666666666668,Low Engagement
+MB01513,45,Prefer not to say,2025-06-03,50,Active,0,Retained,40.75,Medium Engagement
+MB01514,48,Male,2024-11-26,239,Active,0,Retained,41.416666666666664,Medium Engagement
+MB01515,20,Male,2025-06-14,39,Active,0,Retained,47.333333333333336,Medium Engagement
+MB01516,25,Non-binary,2023-08-03,720,Medium Risk,1,Churn,35.25,Medium Engagement
+MB01517,45,Male,2022-11-09,987,High Risk,1,Churn,66.66666666666667,High Engagement
+MB01518,19,Male,2024-10-06,290,Low Risk,0,Retained,52.16666666666667,Medium Engagement
+MB01519,28,Female,2022-10-09,1018,High Risk,1,Churn,55.16666666666667,Medium Engagement
+MB01520,37,Female,2025-04-19,95,Active,0,Retained,28.833333333333332,Low Engagement
+MB01521,28,Male,2022-10-01,1026,High Risk,1,Churn,86.41666666666667,High Engagement
+MB01522,33,Other (self-described),2024-06-13,405,Low Risk,0,Retained,39.416666666666664,Medium Engagement
+MB01523,20,Female,2025-03-06,139,Active,0,Retained,19.166666666666664,Low Engagement
+MB01524,19,Female,2024-01-22,548,Low Risk,0,Retained,41.0,Medium Engagement
+MB01525,20,Male,2024-09-22,304,Low Risk,0,Retained,44.916666666666664,Medium Engagement
+MB01526,14,Male,2024-08-23,334,Low Risk,0,Retained,87.16666666666667,High Engagement
+MB01527,31,Non-binary,2024-07-30,358,Low Risk,0,Retained,40.91666666666667,Medium Engagement
+MB01528,14,Female,2023-02-18,886,High Risk,1,Churn,44.16666666666667,Medium Engagement
+MB01529,21,Male,2023-11-26,605,Medium Risk,1,Churn,70.33333333333334,High Engagement
+MB01530,28,Male,2024-07-26,362,Low Risk,0,Retained,39.49999999999999,Medium Engagement
+MB01531,33,Prefer not to say,2023-09-11,681,Medium Risk,1,Churn,11.333333333333334,Low Engagement
+MB01532,29,Other (self-described),2023-05-22,793,Medium Risk,1,Churn,39.166666666666664,Medium Engagement
+MB01533,37,Other (self-described),2024-09-05,321,Low Risk,0,Retained,23.333333333333332,Low Engagement
+MB01534,13,Male,2024-04-08,471,Low Risk,0,Retained,6.166666666666667,Low Engagement
+MB01535,49,Female,2025-02-13,160,Active,0,Retained,49.166666666666664,Medium Engagement
+MB01536,19,Female,2024-12-12,223,Active,0,Retained,88.83333333333334,High Engagement
+MB01537,13,Male,2023-06-28,756,Medium Risk,1,Churn,34.416666666666664,Low Engagement
+MB01538,38,Female,2024-12-11,224,Active,0,Retained,63.583333333333336,High Engagement
+MB01539,30,Non-binary,2023-12-11,590,Medium Risk,1,Churn,70.75,High Engagement
+MB01540,48,Female,2023-05-29,786,Medium Risk,1,Churn,28.666666666666668,Low Engagement
+MB01541,43,Non-binary,2025-03-01,144,Active,0,Retained,96.00000000000001,High Engagement
+MB01542,24,Male,2023-10-27,635,Medium Risk,1,Churn,72.16666666666669,High Engagement
+MB01543,45,Prefer not to say,2024-09-22,304,Low Risk,0,Retained,36.41666666666667,Medium Engagement
+MB01544,19,Male,2022-09-01,1056,High Risk,1,Churn,21.666666666666668,Low Engagement
+MB01545,46,Male,2024-01-25,545,Low Risk,0,Retained,37.16666666666667,Medium Engagement
+MB01546,17,Female,2023-02-15,889,High Risk,1,Churn,49.5,Medium Engagement
+MB01547,18,Male,2023-11-15,616,Medium Risk,1,Churn,47.0,Medium Engagement
+MB01548,41,Non-binary,2025-05-07,77,Active,0,Retained,20.666666666666668,Low Engagement
+MB01549,48,Male,2023-08-18,705,Medium Risk,1,Churn,41.416666666666664,Medium Engagement
+MB01550,33,Male,2022-09-13,1044,High Risk,1,Churn,48.00000000000001,Medium Engagement
+MB01551,16,Male,2023-09-21,671,Medium Risk,1,Churn,59.00000000000001,Medium Engagement
+MB01552,31,Female,2023-02-01,903,High Risk,1,Churn,52.583333333333336,Medium Engagement
+MB01553,33,Female,2022-11-24,972,High Risk,1,Churn,21.166666666666668,Low Engagement
+MB01554,13,Male,2024-10-23,273,Active,0,Retained,26.75,Low Engagement
+MB01555,33,Male,2024-11-09,256,Active,0,Retained,17.166666666666668,Low Engagement
+MB01556,33,Prefer not to say,2023-09-11,681,Medium Risk,1,Churn,51.74999999999999,Medium Engagement
+MB01557,44,Female,2024-04-11,468,Low Risk,0,Retained,10.666666666666668,Low Engagement
+MB01558,34,Non-binary,2023-01-10,925,High Risk,1,Churn,23.833333333333336,Low Engagement
+MB01559,26,Prefer not to say,2022-11-07,989,High Risk,1,Churn,46.833333333333336,Medium Engagement
+MB01560,18,Female,2024-06-11,407,Low Risk,0,Retained,29.416666666666668,Low Engagement
+MB01561,24,Female,2024-10-13,283,Low Risk,0,Retained,41.5,Medium Engagement
+MB01562,23,Non-binary,2023-03-14,862,High Risk,1,Churn,53.833333333333336,Medium Engagement
+MB01563,43,Male,2024-09-03,323,Low Risk,0,Retained,53.333333333333336,Medium Engagement
+MB01564,46,Female,2023-01-28,907,High Risk,1,Churn,21.000000000000004,Low Engagement
+MB01565,42,Female,2024-03-28,482,Low Risk,0,Retained,63.33333333333334,High Engagement
+MB01566,32,Female,2023-07-13,741,Medium Risk,1,Churn,67.0,High Engagement
+MB01567,45,Female,2025-03-13,132,Active,0,Retained,71.66666666666667,High Engagement
+MB01568,20,Female,2023-08-28,695,Medium Risk,1,Churn,48.75,Medium Engagement
+MB01569,37,Prefer not to say,2024-02-27,512,Low Risk,0,Retained,30.5,Low Engagement
+MB01570,43,Male,2023-10-07,655,Medium Risk,1,Churn,80.0,High Engagement
+MB01571,28,Male,2024-12-26,209,Active,0,Retained,34.333333333333336,Low Engagement
+MB01572,34,Male,2023-04-30,815,Medium Risk,1,Churn,16.5,Low Engagement
+MB01573,16,Female,2022-12-17,949,High Risk,1,Churn,13.666666666666666,Low Engagement
+MB01574,47,Female,2024-11-04,261,Active,0,Retained,28.749999999999996,Low Engagement
+MB01575,18,Prefer not to say,2025-03-13,132,Active,0,Retained,45.666666666666664,Medium Engagement
+MB01576,30,Female,2025-05-28,56,Active,0,Retained,62.0,High Engagement
+MB01577,33,Female,2023-08-09,714,Medium Risk,1,Churn,49.75000000000001,Medium Engagement
+MB01578,33,Non-binary,2023-09-15,677,Medium Risk,1,Churn,51.583333333333336,Medium Engagement
+MB01579,24,Female,2023-11-18,613,Medium Risk,1,Churn,26.666666666666668,Low Engagement
+MB01580,22,Male,2024-10-18,278,Active,0,Retained,75.50000000000001,High Engagement
+MB01581,30,Male,2024-05-02,447,Low Risk,0,Retained,42.833333333333336,Medium Engagement
+MB01582,41,Non-binary,2023-09-28,664,Medium Risk,1,Churn,40.5,Medium Engagement
+MB01583,30,Male,2024-01-10,560,Low Risk,0,Retained,57.333333333333336,Medium Engagement
+MB01584,35,Female,2022-08-06,1082,High Risk,1,Churn,41.41666666666667,Medium Engagement
+MB01585,27,Male,2025-01-28,176,Active,0,Retained,64.75000000000001,High Engagement
+MB01586,34,Non-binary,2023-06-13,771,Medium Risk,1,Churn,43.16666666666666,Medium Engagement
+MB01587,20,Female,2024-04-18,461,Low Risk,0,Retained,63.75000000000001,High Engagement
+MB01588,34,Non-binary,2024-03-23,487,Low Risk,0,Retained,64.33333333333334,High Engagement
+MB01589,40,Male,2023-05-20,795,Medium Risk,1,Churn,46.583333333333336,Medium Engagement
+MB01590,16,Female,2023-06-16,768,Medium Risk,1,Churn,45.83333333333333,Medium Engagement
+MB01591,25,Prefer not to say,2022-08-02,1086,High Risk,1,Churn,38.33333333333333,Medium Engagement
+MB01592,46,Male,2025-02-06,167,Active,0,Retained,37.16666666666667,Medium Engagement
+MB01593,19,Female,2025-03-04,141,Active,0,Retained,40.416666666666664,Medium Engagement
+MB01594,43,Female,2023-05-13,802,Medium Risk,1,Churn,85.00000000000001,High Engagement
+MB01595,37,Male,2023-10-16,646,Medium Risk,1,Churn,51.33333333333333,Medium Engagement
+MB01596,26,Other (self-described),2024-09-04,322,Low Risk,0,Retained,62.5,High Engagement
+MB01597,36,Non-binary,2025-03-30,115,Active,0,Retained,63.0,High Engagement
+MB01598,39,Female,2025-03-23,122,Active,0,Retained,53.833333333333336,Medium Engagement
+MB01599,26,Male,2022-11-13,983,High Risk,1,Churn,28.083333333333332,Low Engagement
+MB01600,27,Male,2024-11-30,235,Active,0,Retained,33.416666666666664,Low Engagement
+MB01601,16,Female,2024-07-13,375,Low Risk,0,Retained,28.666666666666668,Low Engagement
+MB01602,28,Female,2024-10-24,272,Active,0,Retained,18.583333333333336,Low Engagement
+MB01603,24,Female,2024-06-09,409,Low Risk,0,Retained,69.91666666666667,High Engagement
+MB01604,43,Male,2025-04-10,104,Active,0,Retained,18.5,Low Engagement
+MB01605,24,Prefer not to say,2023-12-18,583,Medium Risk,1,Churn,28.749999999999996,Low Engagement
+MB01606,33,Male,2025-04-11,103,Active,0,Retained,42.75000000000001,Medium Engagement
+MB01607,45,Other (self-described),2023-02-21,883,High Risk,1,Churn,38.0,Medium Engagement
+MB01608,21,Male,2024-10-17,279,Low Risk,0,Retained,30.333333333333336,Low Engagement
+MB01609,24,Non-binary,2023-11-25,606,Medium Risk,1,Churn,34.0,Low Engagement
+MB01610,37,Male,2022-11-28,968,High Risk,1,Churn,51.33333333333333,Medium Engagement
+MB01611,35,Non-binary,2023-07-30,724,Medium Risk,1,Churn,34.75,Low Engagement
+MB01612,43,Female,2023-12-03,598,Medium Risk,1,Churn,48.833333333333336,Medium Engagement
+MB01613,14,Male,2024-07-12,376,Low Risk,0,Retained,59.75,Medium Engagement
+MB01614,44,Female,2024-07-03,385,Low Risk,0,Retained,16.166666666666668,Low Engagement
+MB01615,47,Prefer not to say,2023-07-10,744,Medium Risk,1,Churn,50.583333333333336,Medium Engagement
+MB01616,30,Female,2022-07-30,1089,High Risk,1,Churn,58.50000000000001,Medium Engagement
+MB01617,43,Prefer not to say,2023-07-19,735,Medium Risk,1,Churn,33.0,Low Engagement
+MB01618,41,Female,2023-11-06,625,Medium Risk,1,Churn,51.75000000000001,Medium Engagement
+MB01619,43,Male,2023-05-06,809,Medium Risk,1,Churn,80.0,High Engagement
+MB01620,15,Male,2024-02-13,526,Low Risk,0,Retained,45.0,Medium Engagement
+MB01621,47,Prefer not to say,2025-04-19,95,Active,0,Retained,50.583333333333336,Medium Engagement
+MB01622,18,Female,2023-11-02,629,Medium Risk,1,Churn,29.416666666666668,Low Engagement
+MB01623,25,Male,2022-09-07,1050,High Risk,1,Churn,60.58333333333334,High Engagement
+MB01624,45,Male,2024-12-18,217,Active,0,Retained,60.416666666666664,High Engagement
+MB01625,41,Prefer not to say,2023-06-19,765,Medium Risk,1,Churn,56.25,Medium Engagement
+MB01626,33,Male,2024-11-21,244,Active,0,Retained,47.333333333333336,Medium Engagement
+MB01627,18,Male,2023-11-30,601,Medium Risk,1,Churn,39.416666666666664,Medium Engagement
+MB01628,39,Female,2025-03-12,133,Active,0,Retained,12.75,Low Engagement
+MB01629,32,Female,2024-02-29,510,Low Risk,0,Retained,84.00000000000001,High Engagement
+MB01630,15,Male,2023-04-09,836,High Risk,1,Churn,45.0,Medium Engagement
+MB01631,30,Non-binary,2024-06-17,401,Low Risk,0,Retained,59.333333333333336,Medium Engagement
+MB01632,47,Non-binary,2023-07-15,739,Medium Risk,1,Churn,59.833333333333336,Medium Engagement
+MB01633,30,Female,2023-02-26,878,High Risk,1,Churn,58.50000000000001,Medium Engagement
+MB01634,17,Prefer not to say,2022-10-09,1018,High Risk,1,Churn,63.916666666666664,High Engagement
+MB01635,48,Male,2024-10-16,280,Low Risk,0,Retained,41.33333333333333,Medium Engagement
+MB01636,32,Female,2024-04-23,456,Low Risk,0,Retained,67.0,High Engagement
+MB01637,12,Female,2025-01-11,193,Active,0,Retained,52.16666666666667,Medium Engagement
+MB01638,30,Prefer not to say,2022-08-01,1087,High Risk,1,Churn,37.66666666666667,Medium Engagement
+MB01639,49,Non-binary,2022-10-09,1018,High Risk,1,Churn,27.166666666666668,Low Engagement
+MB01640,35,Male,2023-11-25,606,Medium Risk,1,Churn,32.0,Low Engagement
+MB01641,24,Female,2023-01-08,927,High Risk,1,Churn,26.666666666666668,Low Engagement
+MB01642,49,Female,2023-12-16,585,Medium Risk,1,Churn,29.08333333333334,Low Engagement
+MB01643,26,Male,2023-08-28,695,Medium Risk,1,Churn,63.166666666666686,High Engagement
+MB01644,21,Female,2025-03-20,125,Active,0,Retained,82.83333333333334,High Engagement
+MB01645,45,Prefer not to say,2023-04-10,835,High Risk,1,Churn,40.75,Medium Engagement
+MB01646,47,Female,2025-02-06,167,Active,0,Retained,36.75,Medium Engagement
+MB01647,36,Female,2023-01-25,910,High Risk,1,Churn,53.08333333333333,Medium Engagement
+MB01648,25,Prefer not to say,2023-03-13,863,High Risk,1,Churn,34.583333333333336,Low Engagement
+MB01649,32,Female,2023-05-30,785,Medium Risk,1,Churn,84.00000000000001,High Engagement
+MB01650,19,Female,2025-05-15,69,Active,0,Retained,35.75000000000001,Medium Engagement
+MB01651,13,Male,2024-08-04,353,Low Risk,0,Retained,37.83333333333333,Medium Engagement
+MB01652,20,Female,2024-09-15,311,Low Risk,0,Retained,65.33333333333334,High Engagement
+MB01653,43,Female,2024-06-04,414,Low Risk,0,Retained,33.75,Low Engagement
+MB01654,26,Prefer not to say,2025-03-21,124,Active,0,Retained,84.75000000000001,High Engagement
+MB01655,35,Female,2022-09-29,1028,High Risk,1,Churn,36.0,Medium Engagement
+MB01656,19,Male,2023-11-11,620,Medium Risk,1,Churn,57.25,Medium Engagement
+MB01657,16,Female,2024-08-01,356,Low Risk,0,Retained,32.666666666666664,Low Engagement
+MB01658,23,Non-binary,2024-04-26,453,Low Risk,0,Retained,51.083333333333336,Medium Engagement
+MB01659,17,Male,2024-03-03,507,Low Risk,0,Retained,12.000000000000002,Low Engagement
+MB01660,40,Female,2023-09-22,670,Medium Risk,1,Churn,29.500000000000004,Low Engagement
+MB01661,21,Male,2023-12-21,580,Medium Risk,1,Churn,51.0,Medium Engagement
+MB01662,32,Female,2022-10-17,1010,High Risk,1,Churn,58.25,Medium Engagement
+MB01663,29,Non-binary,2024-01-10,560,Low Risk,0,Retained,50.25000000000001,Medium Engagement
+MB01664,38,Male,2022-08-01,1087,High Risk,1,Churn,48.666666666666664,Medium Engagement
+MB01665,24,Other (self-described),2022-12-29,937,High Risk,1,Churn,33.0,Low Engagement
+MB01666,37,Non-binary,2024-11-12,253,Active,0,Retained,35.83333333333334,Medium Engagement
+MB01667,30,Other (self-described),2022-10-05,1022,High Risk,1,Churn,35.75000000000001,Medium Engagement
+MB01668,26,Female,2025-02-19,154,Active,0,Retained,46.75,Medium Engagement
+MB01669,12,Female,2023-02-03,901,High Risk,1,Churn,48.083333333333336,Medium Engagement
+MB01670,39,Male,2024-05-13,436,Low Risk,0,Retained,69.08333333333334,High Engagement
+MB01671,33,Prefer not to say,2022-11-30,966,High Risk,1,Churn,51.74999999999999,Medium Engagement
+MB01672,26,Female,2022-12-11,955,High Risk,1,Churn,19.333333333333332,Low Engagement
+MB01673,23,Non-binary,2023-02-15,889,High Risk,1,Churn,86.33333333333334,High Engagement
+MB01674,20,Female,2023-03-04,872,High Risk,1,Churn,28.666666666666668,Low Engagement
+MB01675,40,Male,2024-08-02,355,Low Risk,0,Retained,48.91666666666667,Medium Engagement
+MB01676,14,Female,2025-03-28,117,Active,0,Retained,52.33333333333333,Medium Engagement
+MB01677,40,Female,2024-04-19,460,Low Risk,0,Retained,31.5,Low Engagement
+MB01678,42,Male,2024-12-20,215,Active,0,Retained,74.00000000000001,High Engagement
+MB01679,43,Non-binary,2023-06-13,771,Medium Risk,1,Churn,50.5,Medium Engagement
+MB01680,32,Female,2024-06-19,399,Low Risk,0,Retained,83.0,High Engagement
+MB01681,21,Male,2022-08-18,1070,High Risk,1,Churn,36.666666666666664,Medium Engagement
+MB01682,22,Male,2023-08-10,713,Medium Risk,1,Churn,73.33333333333334,High Engagement
+MB01683,12,Female,2023-01-29,906,High Risk,1,Churn,27.750000000000004,Low Engagement
+MB01684,14,Male,2025-02-01,172,Active,0,Retained,48.083333333333336,Medium Engagement
+MB01685,14,Male,2022-12-17,949,High Risk,1,Churn,26.833333333333332,Low Engagement
+MB01686,36,Male,2022-10-14,1013,High Risk,1,Churn,53.91666666666667,Medium Engagement
+MB01687,21,Prefer not to say,2024-01-21,549,Low Risk,0,Retained,47.41666666666667,Medium Engagement
+MB01688,43,Non-binary,2023-09-16,676,Medium Risk,1,Churn,50.5,Medium Engagement
+MB01689,33,Prefer not to say,2023-03-31,845,High Risk,1,Churn,11.333333333333334,Low Engagement
+MB01690,21,Female,2024-12-18,217,Active,0,Retained,22.083333333333336,Low Engagement
+MB01691,43,Prefer not to say,2024-01-04,566,Medium Risk,1,Churn,33.0,Low Engagement
+MB01692,12,Female,2024-04-24,455,Low Risk,0,Retained,32.99999999999999,Low Engagement
+MB01693,36,Male,2025-01-18,186,Active,0,Retained,37.16666666666667,Medium Engagement
+MB01694,21,Male,2024-05-27,422,Low Risk,0,Retained,89.83333333333334,High Engagement
+MB01695,45,Female,2025-04-11,103,Active,0,Retained,44.583333333333336,Medium Engagement
+MB01696,45,Other (self-described),2025-05-26,58,Active,0,Retained,26.833333333333332,Low Engagement
+MB01697,33,Other (self-described),2025-01-30,174,Active,0,Retained,39.416666666666664,Medium Engagement
+MB01698,20,Female,2022-09-01,1056,High Risk,1,Churn,66.83333333333334,High Engagement
+MB01699,19,Female,2023-11-15,616,Medium Risk,1,Churn,31.75,Low Engagement
+MB01700,40,Male,2022-08-29,1059,High Risk,1,Churn,43.583333333333336,Medium Engagement
+MB01701,49,Male,2024-03-19,491,Low Risk,0,Retained,33.833333333333336,Low Engagement
+MB01702,19,Male,2024-07-25,363,Low Risk,0,Retained,57.25,Medium Engagement
+MB01703,23,Female,2023-12-31,570,Medium Risk,1,Churn,38.91666666666666,Medium Engagement
+MB01704,48,Male,2024-03-11,499,Low Risk,0,Retained,48.50000000000001,Medium Engagement
+MB01705,38,Female,2025-03-02,143,Active,0,Retained,63.583333333333336,High Engagement
+MB01706,49,Female,2023-08-10,713,Medium Risk,1,Churn,45.5,Medium Engagement
+MB01707,21,Prefer not to say,2024-11-04,261,Active,0,Retained,47.41666666666667,Medium Engagement
+MB01708,42,Female,2023-09-02,690,Medium Risk,1,Churn,83.41666666666667,High Engagement
+MB01709,17,Female,2023-07-31,723,Medium Risk,1,Churn,64.00000000000001,High Engagement
+MB01710,29,Non-binary,2025-01-12,192,Active,0,Retained,44.83333333333333,Medium Engagement
+MB01711,33,Female,2025-04-18,96,Active,0,Retained,19.333333333333332,Low Engagement
+MB01712,29,Non-binary,2023-03-14,862,High Risk,1,Churn,48.50000000000001,Medium Engagement
+MB01713,39,Male,2024-02-19,520,Low Risk,0,Retained,61.16666666666667,High Engagement
+MB01714,28,Non-binary,2025-04-22,92,Active,0,Retained,38.916666666666664,Medium Engagement
+MB01715,19,Female,2022-07-29,1090,High Risk,1,Churn,40.416666666666664,Medium Engagement
+MB01716,27,Male,2025-04-22,92,Active,0,Retained,54.75,Medium Engagement
+MB01717,26,Female,2023-06-13,771,Medium Risk,1,Churn,78.5,High Engagement
+MB01718,43,Non-binary,2022-08-10,1078,High Risk,1,Churn,50.5,Medium Engagement
+MB01719,30,Non-binary,2024-10-11,285,Low Risk,0,Retained,52.583333333333336,Medium Engagement
+MB01720,45,Male,2025-01-22,182,Active,0,Retained,60.50000000000001,High Engagement
+MB01721,25,Male,2025-02-13,160,Active,0,Retained,27.500000000000004,Low Engagement
+MB01722,19,Female,2024-08-04,353,Low Risk,0,Retained,35.75000000000001,Medium Engagement
+MB01723,48,Other (self-described),2025-03-07,138,Active,0,Retained,59.333333333333336,Medium Engagement
+MB01724,28,Male,2023-06-16,768,Medium Risk,1,Churn,86.41666666666667,High Engagement
+MB01725,14,Other (self-described),2025-04-17,97,Active,0,Retained,50.25000000000001,Medium Engagement
+MB01726,39,Female,2023-12-28,573,Medium Risk,1,Churn,40.0,Medium Engagement
+MB01727,33,Female,2022-07-27,1092,High Risk,1,Churn,19.333333333333332,Low Engagement
+MB01728,17,Female,2023-02-07,897,High Risk,1,Churn,76.5,High Engagement
+MB01729,24,Female,2023-09-06,686,Medium Risk,1,Churn,63.25000000000001,High Engagement
+MB01730,12,Male,2024-07-31,357,Low Risk,0,Retained,69.33333333333334,High Engagement
+MB01731,26,Male,2023-08-28,695,Medium Risk,1,Churn,24.333333333333336,Low Engagement
+MB01732,23,Female,2023-12-09,592,Medium Risk,1,Churn,53.58333333333333,Medium Engagement
+MB01733,13,Male,2024-03-26,484,Low Risk,0,Retained,50.66666666666667,Medium Engagement
+MB01734,25,Female,2025-02-03,170,Active,0,Retained,40.583333333333336,Medium Engagement
+MB01735,34,Male,2022-11-21,975,High Risk,1,Churn,36.91666666666667,Medium Engagement
+MB01736,30,Non-binary,2024-02-29,510,Low Risk,0,Retained,59.333333333333336,Medium Engagement
+MB01737,49,Female,2024-11-27,238,Active,0,Retained,42.25000000000001,Medium Engagement
+MB01738,33,Female,2024-05-27,422,Low Risk,0,Retained,66.5,High Engagement
+MB01739,31,Non-binary,2024-04-07,472,Low Risk,0,Retained,40.91666666666667,Medium Engagement
+MB01740,24,Other (self-described),2023-01-23,912,High Risk,1,Churn,58.833333333333336,Medium Engagement
+MB01741,49,Male,2023-05-03,812,Medium Risk,1,Churn,26.916666666666668,Low Engagement
+MB01742,34,Prefer not to say,2023-03-26,850,High Risk,1,Churn,35.83333333333334,Medium Engagement
+MB01743,40,Female,2025-06-11,42,Active,0,Retained,31.5,Low Engagement
+MB01744,49,Female,2024-04-05,474,Low Risk,0,Retained,68.5,High Engagement
+MB01745,16,Male,2024-01-27,543,Low Risk,0,Retained,40.0,Medium Engagement
+MB01746,47,Prefer not to say,2025-06-02,51,Active,0,Retained,50.583333333333336,Medium Engagement
+MB01747,37,Male,2024-09-19,307,Low Risk,0,Retained,92.5,High Engagement
+MB01748,34,Male,2023-04-05,840,High Risk,1,Churn,46.333333333333336,Medium Engagement
+MB01749,16,Female,2025-01-27,177,Active,0,Retained,22.749999999999996,Low Engagement
+MB01750,27,Male,2023-11-30,601,Medium Risk,1,Churn,54.75,Medium Engagement
+MB01751,24,Female,2024-11-05,260,Active,0,Retained,44.166666666666664,Medium Engagement
+MB01752,24,Female,2025-06-10,43,Active,0,Retained,31.25,Low Engagement
+MB01753,49,Female,2024-10-09,287,Low Risk,0,Retained,45.833333333333336,Medium Engagement
+MB01754,30,Male,2022-08-18,1070,High Risk,1,Churn,57.333333333333336,Medium Engagement
+MB01755,15,Male,2023-02-20,884,High Risk,1,Churn,49.833333333333336,Medium Engagement
+MB01756,36,Male,2022-09-05,1052,High Risk,1,Churn,53.41666666666667,Medium Engagement
+MB01757,24,Male,2024-01-20,550,Low Risk,0,Retained,40.666666666666664,Medium Engagement
+MB01758,48,Male,2025-02-26,147,Active,0,Retained,34.91666666666667,Low Engagement
+MB01759,16,Male,2023-11-17,614,Medium Risk,1,Churn,45.833333333333336,Medium Engagement
+MB01760,14,Female,2024-02-25,514,Low Risk,0,Retained,57.50000000000001,Medium Engagement
+MB01761,49,Prefer not to say,2023-01-05,930,High Risk,1,Churn,43.50000000000001,Medium Engagement
+MB01762,27,Male,2025-03-10,135,Active,0,Retained,54.75,Medium Engagement
+MB01763,44,Prefer not to say,2024-01-20,550,Low Risk,0,Retained,92.0,High Engagement
+MB01764,37,Female,2025-01-14,190,Active,0,Retained,15.666666666666668,Low Engagement
+MB01765,21,Female,2024-07-12,376,Low Risk,0,Retained,82.83333333333334,High Engagement
+MB01766,28,Male,2023-04-29,816,Medium Risk,1,Churn,86.41666666666667,High Engagement
+MB01767,33,Female,2024-02-02,537,Low Risk,0,Retained,19.333333333333332,Low Engagement
+MB01768,16,Non-binary,2024-05-18,431,Low Risk,0,Retained,42.83333333333333,Medium Engagement
+MB01769,33,Male,2024-04-28,451,Low Risk,0,Retained,60.00000000000001,High Engagement
+MB01770,36,Male,2024-02-19,520,Low Risk,0,Retained,53.41666666666667,Medium Engagement
+MB01771,15,Other (self-described),2023-03-09,867,High Risk,1,Churn,41.833333333333336,Medium Engagement
+MB01772,35,Female,2022-11-15,981,High Risk,1,Churn,59.166666666666664,Medium Engagement
+MB01773,15,Male,2022-09-09,1048,High Risk,1,Churn,73.50000000000001,High Engagement
+MB01774,15,Male,2023-03-07,869,High Risk,1,Churn,45.0,Medium Engagement
+MB01775,16,Prefer not to say,2024-07-22,366,Low Risk,0,Retained,43.25,Medium Engagement
+MB01776,46,Female,2023-06-21,763,Medium Risk,1,Churn,46.25,Medium Engagement
+MB01777,46,Female,2024-03-13,497,Low Risk,0,Retained,68.83333333333333,High Engagement
+MB01778,40,Male,2024-09-24,302,Low Risk,0,Retained,47.833333333333336,Medium Engagement
+MB01779,27,Male,2023-01-09,926,High Risk,1,Churn,44.66666666666667,Medium Engagement
+MB01780,27,Female,2025-05-13,71,Active,0,Retained,66.83333333333333,High Engagement
+MB01781,38,Female,2022-11-05,991,High Risk,1,Churn,74.16666666666667,High Engagement
+MB01782,34,Male,2024-02-17,522,Low Risk,0,Retained,59.333333333333336,Medium Engagement
+MB01783,26,Non-binary,2023-08-14,709,Medium Risk,1,Churn,39.5,Medium Engagement
+MB01784,49,Non-binary,2023-07-21,733,Medium Risk,1,Churn,17.0,Low Engagement
+MB01785,32,Female,2022-11-12,984,High Risk,1,Churn,84.00000000000001,High Engagement
+MB01786,41,Non-binary,2023-08-14,709,Medium Risk,1,Churn,57.58333333333333,Medium Engagement
+MB01787,22,Female,2023-09-08,684,Medium Risk,1,Churn,78.5,High Engagement
+MB01788,44,Other (self-described),2025-04-13,101,Active,0,Retained,40.25,Medium Engagement
+MB01789,30,Female,2023-12-18,583,Medium Risk,1,Churn,62.0,High Engagement
+MB01790,41,Non-binary,2025-01-14,190,Active,0,Retained,57.58333333333333,Medium Engagement
+MB01791,31,Male,2023-04-29,816,Medium Risk,1,Churn,47.91666666666667,Medium Engagement
+MB01792,23,Female,2023-12-25,576,Medium Risk,1,Churn,54.41666666666667,Medium Engagement
+MB01793,22,Male,2023-06-29,755,Medium Risk,1,Churn,38.33333333333333,Medium Engagement
+MB01794,15,Male,2025-05-09,75,Active,0,Retained,28.166666666666668,Low Engagement
+MB01795,48,Non-binary,2025-03-24,121,Active,0,Retained,34.333333333333336,Low Engagement
+MB01796,47,Other (self-described),2023-05-22,793,Medium Risk,1,Churn,11.666666666666666,Low Engagement
+MB01797,33,Female,2025-04-07,107,Active,0,Retained,19.333333333333332,Low Engagement
+MB01798,17,Female,2025-04-08,106,Active,0,Retained,74.16666666666667,High Engagement
+MB01799,17,Prefer not to say,2025-06-10,43,Active,0,Retained,53.25000000000001,Medium Engagement
+MB01800,44,Male,2022-09-08,1049,High Risk,1,Churn,55.666666666666664,Medium Engagement
+MB01801,27,Non-binary,2023-04-29,816,Medium Risk,1,Churn,30.91666666666667,Low Engagement
+MB01802,49,Male,2024-06-11,407,Low Risk,0,Retained,14.166666666666666,Low Engagement
+MB01803,38,Female,2024-08-11,346,Low Risk,0,Retained,58.00000000000001,Medium Engagement
+MB01804,26,Prefer not to say,2024-06-15,403,Low Risk,0,Retained,84.75000000000001,High Engagement
+MB01805,19,Male,2023-03-20,856,High Risk,1,Churn,57.25,Medium Engagement
+MB01806,45,Prefer not to say,2023-07-19,735,Medium Risk,1,Churn,47.166666666666664,Medium Engagement
+MB01807,22,Male,2024-12-07,228,Active,0,Retained,77.83333333333333,High Engagement
+MB01808,26,Female,2024-12-19,216,Active,0,Retained,43.41666666666667,Medium Engagement
+MB01809,16,Prefer not to say,2025-03-10,135,Active,0,Retained,54.0,Medium Engagement
+MB01810,43,Other (self-described),2023-07-20,734,Medium Risk,1,Churn,75.16666666666667,High Engagement
+MB01811,26,Female,2023-03-31,845,High Risk,1,Churn,70.66666666666667,High Engagement
+MB01812,21,Male,2024-09-13,313,Low Risk,0,Retained,9.000000000000002,Low Engagement
+MB01813,15,Female,2025-05-31,53,Active,0,Retained,33.416666666666664,Low Engagement
+MB01814,39,Female,2025-03-27,118,Active,0,Retained,40.0,Medium Engagement
+MB01815,18,Male,2022-08-27,1061,High Risk,1,Churn,40.666666666666664,Medium Engagement
+MB01816,43,Prefer not to say,2024-08-12,345,Low Risk,0,Retained,25.16666666666667,Low Engagement
+MB01817,44,Male,2023-03-26,850,High Risk,1,Churn,15.416666666666668,Low Engagement
+MB01818,46,Male,2023-08-27,696,Medium Risk,1,Churn,98.00000000000001,High Engagement
+MB01819,34,Prefer not to say,2024-05-12,437,Low Risk,0,Retained,37.583333333333336,Medium Engagement
+MB01820,22,Prefer not to say,2024-11-15,250,Active,0,Retained,34.333333333333336,Low Engagement
+MB01821,20,Prefer not to say,2025-02-13,160,Active,0,Retained,42.083333333333336,Medium Engagement
+MB01822,21,Male,2023-09-07,685,Medium Risk,1,Churn,42.50000000000001,Medium Engagement
+MB01823,19,Female,2023-03-21,855,High Risk,1,Churn,47.41666666666667,Medium Engagement
+MB01824,24,Non-binary,2023-08-07,716,Medium Risk,1,Churn,55.333333333333336,Medium Engagement
+MB01825,24,Other (self-described),2023-12-06,595,Medium Risk,1,Churn,58.833333333333336,Medium Engagement
+MB01826,34,Male,2025-05-09,75,Active,0,Retained,46.333333333333336,Medium Engagement
+MB01827,15,Male,2022-08-26,1062,High Risk,1,Churn,55.41666666666667,Medium Engagement
+MB01828,40,Female,2023-02-23,881,High Risk,1,Churn,53.0,Medium Engagement
+MB01829,40,Male,2024-08-15,342,Low Risk,0,Retained,68.16666666666667,High Engagement
+MB01830,15,Prefer not to say,2022-08-14,1074,High Risk,1,Churn,44.5,Medium Engagement
+MB01831,49,Female,2023-09-20,672,Medium Risk,1,Churn,49.83333333333333,Medium Engagement
+MB01832,38,Female,2023-10-11,651,Medium Risk,1,Churn,74.16666666666667,High Engagement
+MB01833,40,Non-binary,2023-04-18,827,Medium Risk,1,Churn,56.750000000000014,Medium Engagement
+MB01834,37,Male,2023-02-09,895,High Risk,1,Churn,32.166666666666664,Low Engagement
+MB01835,23,Non-binary,2023-07-24,730,Medium Risk,1,Churn,86.33333333333334,High Engagement
+MB01836,35,Male,2025-02-06,167,Active,0,Retained,13.833333333333334,Low Engagement
+MB01837,27,Non-binary,2024-06-27,391,Low Risk,0,Retained,64.16666666666666,High Engagement
+MB01838,29,Non-binary,2022-10-08,1019,High Risk,1,Churn,48.50000000000001,Medium Engagement
+MB01839,21,Male,2024-10-26,270,Active,0,Retained,70.33333333333334,High Engagement
+MB01840,16,Female,2024-05-22,427,Low Risk,0,Retained,41.666666666666664,Medium Engagement
+MB01841,31,Prefer not to say,2024-03-19,491,Low Risk,0,Retained,45.25,Medium Engagement
+MB01842,49,Male,2024-03-12,498,Low Risk,0,Retained,33.833333333333336,Low Engagement
+MB01843,47,Other (self-described),2023-09-09,683,Medium Risk,1,Churn,35.5,Medium Engagement
+MB01844,32,Male,2022-09-22,1035,High Risk,1,Churn,59.166666666666664,Medium Engagement
+MB01845,29,Prefer not to say,2024-10-09,287,Low Risk,0,Retained,65.25000000000001,High Engagement
+MB01846,40,Male,2025-02-13,160,Active,0,Retained,61.00000000000001,High Engagement
+MB01847,19,Male,2024-11-24,241,Active,0,Retained,57.25,Medium Engagement
+MB01848,45,Female,2022-11-21,975,High Risk,1,Churn,71.66666666666667,High Engagement
+MB01849,17,Female,2023-08-05,718,Medium Risk,1,Churn,40.333333333333336,Medium Engagement
+MB01850,30,Non-binary,2024-08-22,335,Low Risk,0,Retained,28.333333333333332,Low Engagement
+MB01851,43,Female,2023-02-05,899,High Risk,1,Churn,52.166666666666664,Medium Engagement
+MB01852,14,Male,2022-12-18,948,High Risk,1,Churn,57.00000000000001,Medium Engagement
+MB01853,29,Non-binary,2023-01-03,932,High Risk,1,Churn,44.83333333333333,Medium Engagement
+MB01854,48,Female,2022-10-18,1009,High Risk,1,Churn,34.583333333333336,Low Engagement
+MB01855,44,Male,2024-09-27,299,Low Risk,0,Retained,55.666666666666664,Medium Engagement
+MB01856,36,Male,2023-04-10,835,High Risk,1,Churn,42.333333333333336,Medium Engagement
+MB01857,26,Male,2024-02-18,521,Low Risk,0,Retained,28.083333333333332,Low Engagement
+MB01858,34,Female,2023-01-08,927,High Risk,1,Churn,47.41666666666667,Medium Engagement
+MB01859,48,Male,2023-05-09,806,Medium Risk,1,Churn,64.16666666666667,High Engagement
+MB01860,30,Male,2023-03-19,857,High Risk,1,Churn,39.166666666666664,Medium Engagement
+MB01861,16,Non-binary,2023-07-25,729,Medium Risk,1,Churn,66.83333333333334,High Engagement
+MB01862,35,Female,2024-12-16,219,Active,0,Retained,36.0,Medium Engagement
+MB01863,18,Female,2023-11-20,611,Medium Risk,1,Churn,61.33333333333334,High Engagement
+MB01864,34,Female,2022-08-09,1079,High Risk,1,Churn,54.0,Medium Engagement
+MB01865,19,Female,2022-09-28,1029,High Risk,1,Churn,42.25,Medium Engagement
+MB01866,29,Non-binary,2025-05-08,76,Active,0,Retained,44.83333333333333,Medium Engagement
+MB01867,48,Male,2024-12-29,206,Active,0,Retained,47.583333333333336,Medium Engagement
+MB01868,20,Male,2025-02-02,171,Active,0,Retained,20.083333333333332,Low Engagement
+MB01869,32,Male,2023-05-11,804,Medium Risk,1,Churn,50.5,Medium Engagement
+MB01870,44,Female,2023-02-03,901,High Risk,1,Churn,47.0,Medium Engagement
+MB01871,20,Male,2024-11-07,258,Active,0,Retained,54.41666666666667,Medium Engagement
+MB01872,32,Female,2024-01-01,569,Medium Risk,1,Churn,83.0,High Engagement
+MB01873,23,Male,2023-01-09,926,High Risk,1,Churn,65.66666666666667,High Engagement
+MB01874,16,Female,2023-05-04,811,Medium Risk,1,Churn,45.83333333333333,Medium Engagement
+MB01875,15,Prefer not to say,2023-11-23,608,Medium Risk,1,Churn,59.833333333333336,Medium Engagement
+MB01876,30,Other (self-described),2023-10-03,659,Medium Risk,1,Churn,38.00000000000001,Medium Engagement
+MB01877,43,Female,2023-12-29,572,Medium Risk,1,Churn,82.91666666666667,High Engagement
+MB01878,34,Male,2024-08-10,347,Low Risk,0,Retained,16.5,Low Engagement
+MB01879,39,Male,2023-10-30,632,Medium Risk,1,Churn,91.33333333333333,High Engagement
+MB01880,47,Female,2023-06-20,764,Medium Risk,1,Churn,36.41666666666667,Medium Engagement
+MB01881,45,Male,2022-12-05,961,High Risk,1,Churn,60.416666666666664,High Engagement
+MB01882,14,Female,2023-08-15,708,Medium Risk,1,Churn,44.16666666666667,Medium Engagement
+MB01883,22,Female,2023-04-04,841,High Risk,1,Churn,67.66666666666667,High Engagement
+MB01884,49,Male,2025-01-03,201,Active,0,Retained,22.499999999999996,Low Engagement
+MB01885,32,Male,2024-02-17,522,Low Risk,0,Retained,50.5,Medium Engagement
+MB01886,47,Other (self-described),2025-06-13,40,Active,0,Retained,46.08333333333333,Medium Engagement
+MB01887,17,Male,2024-10-03,293,Low Risk,0,Retained,45.5,Medium Engagement
+MB01888,29,Male,2023-05-11,804,Medium Risk,1,Churn,30.75,Low Engagement
+MB01889,35,Female,2022-08-01,1087,High Risk,1,Churn,75.00000000000001,High Engagement
+MB01890,43,Male,2025-03-09,136,Active,0,Retained,69.25,High Engagement
+MB01891,43,Female,2024-04-21,458,Low Risk,0,Retained,66.66666666666666,High Engagement
+MB01892,25,Non-binary,2023-02-21,883,High Risk,1,Churn,35.25,Medium Engagement
+MB01893,33,Male,2024-11-17,248,Active,0,Retained,60.00000000000001,High Engagement
+MB01894,39,Prefer not to say,2023-11-09,622,Medium Risk,1,Churn,57.58333333333334,Medium Engagement
+MB01895,14,Male,2023-05-04,811,Medium Risk,1,Churn,26.833333333333332,Low Engagement
+MB01896,13,Female,2023-09-05,687,Medium Risk,1,Churn,16.75,Low Engagement
+MB01897,40,Non-binary,2024-12-04,231,Active,0,Retained,56.750000000000014,Medium Engagement
+MB01898,29,Male,2024-06-09,409,Low Risk,0,Retained,68.33333333333333,High Engagement
+MB01899,25,Female,2023-03-11,865,High Risk,1,Churn,31.83333333333333,Low Engagement
+MB01900,49,Male,2023-11-10,621,Medium Risk,1,Churn,56.50000000000001,Medium Engagement
+MB01901,45,Prefer not to say,2025-06-17,36,Active,0,Retained,47.166666666666664,Medium Engagement
+MB01902,13,Male,2023-04-04,841,High Risk,1,Churn,34.416666666666664,Low Engagement
+MB01903,15,Male,2025-05-16,68,Active,0,Retained,35.25,Medium Engagement
+MB01904,40,Non-binary,2023-04-20,825,Medium Risk,1,Churn,49.41666666666667,Medium Engagement
+MB01905,43,Male,2024-11-19,246,Active,0,Retained,80.0,High Engagement
+MB01906,33,Male,2022-09-06,1051,High Risk,1,Churn,42.75000000000001,Medium Engagement
+MB01907,22,Prefer not to say,2024-05-27,422,Low Risk,0,Retained,34.333333333333336,Low Engagement
+MB01908,34,Female,2024-07-09,379,Low Risk,0,Retained,41.333333333333336,Medium Engagement
+MB01909,23,Female,2025-01-15,189,Active,0,Retained,38.91666666666666,Medium Engagement
+MB01910,19,Other (self-described),2024-08-01,356,Low Risk,0,Retained,32.5,Low Engagement
+MB01911,27,Male,2022-12-02,964,High Risk,1,Churn,46.08333333333333,Medium Engagement
+MB01912,37,Male,2022-07-27,1092,High Risk,1,Churn,59.333333333333336,Medium Engagement
+MB01913,25,Female,2024-05-26,423,Low Risk,0,Retained,40.583333333333336,Medium Engagement
+MB01914,49,Female,2024-03-02,508,Low Risk,0,Retained,49.166666666666664,Medium Engagement
+MB01915,37,Female,2023-05-15,800,Medium Risk,1,Churn,36.25,Medium Engagement
+MB01916,20,Prefer not to say,2022-11-22,974,High Risk,1,Churn,32.75,Low Engagement
+MB01917,32,Male,2023-09-30,662,Medium Risk,1,Churn,59.166666666666664,Medium Engagement
+MB01918,26,Non-binary,2024-05-02,447,Low Risk,0,Retained,51.16666666666667,Medium Engagement
+MB01919,37,Male,2024-04-09,470,Low Risk,0,Retained,32.166666666666664,Low Engagement
+MB01920,16,Male,2025-06-19,34,Active,0,Retained,40.0,Medium Engagement
+MB01921,15,Female,2023-09-02,690,Medium Risk,1,Churn,36.583333333333336,Medium Engagement
+MB01922,12,Female,2024-06-09,409,Low Risk,0,Retained,48.083333333333336,Medium Engagement
+MB01923,21,Prefer not to say,2023-02-28,876,High Risk,1,Churn,63.083333333333336,High Engagement
+MB01924,27,Non-binary,2025-03-15,130,Active,0,Retained,57.00000000000001,Medium Engagement
+MB01925,17,Female,2023-10-05,657,Medium Risk,1,Churn,55.333333333333336,Medium Engagement
+MB01926,20,Male,2024-01-27,543,Low Risk,0,Retained,47.333333333333336,Medium Engagement
+MB01927,31,Male,2023-08-08,715,Medium Risk,1,Churn,48.25000000000001,Medium Engagement
+MB01928,15,Male,2025-04-14,100,Active,0,Retained,30.000000000000004,Low Engagement
+MB01929,26,Female,2023-10-14,648,Medium Risk,1,Churn,43.41666666666667,Medium Engagement
+MB01930,47,Male,2023-11-03,628,Medium Risk,1,Churn,33.33333333333333,Low Engagement
+MB01931,37,Non-binary,2023-11-03,628,Medium Risk,1,Churn,56.50000000000001,Medium Engagement
+MB01932,12,Female,2023-09-19,673,Medium Risk,1,Churn,48.083333333333336,Medium Engagement
+MB01933,27,Non-binary,2023-07-03,751,Medium Risk,1,Churn,57.00000000000001,Medium Engagement
+MB01934,25,Male,2023-02-16,888,High Risk,1,Churn,9.166666666666668,Low Engagement
+MB01935,19,Female,2024-09-08,318,Low Risk,0,Retained,41.0,Medium Engagement
+MB01936,36,Female,2023-01-26,909,High Risk,1,Churn,35.916666666666664,Medium Engagement
+MB01937,18,Female,2024-01-09,561,Low Risk,0,Retained,40.66666666666667,Medium Engagement
+MB01938,23,Male,2025-04-01,113,Active,0,Retained,57.333333333333336,Medium Engagement
+MB01939,49,Male,2025-04-21,93,Active,0,Retained,60.83333333333334,High Engagement
+MB01940,34,Male,2024-07-02,386,Low Risk,0,Retained,21.750000000000004,Low Engagement
+MB01941,21,Male,2023-03-10,866,High Risk,1,Churn,42.50000000000001,Medium Engagement
+MB01942,47,Prefer not to say,2023-05-31,784,Medium Risk,1,Churn,22.333333333333332,Low Engagement
+MB01943,47,Male,2023-03-06,870,High Risk,1,Churn,49.25000000000001,Medium Engagement
+MB01944,36,Female,2023-12-20,581,Medium Risk,1,Churn,54.66666666666667,Medium Engagement
+MB01945,35,Female,2024-03-11,499,Low Risk,0,Retained,41.41666666666667,Medium Engagement
+MB01946,27,Male,2025-01-16,188,Active,0,Retained,52.75000000000001,Medium Engagement
+MB01947,44,Female,2024-07-08,380,Low Risk,0,Retained,94.16666666666667,High Engagement
+MB01948,41,Male,2024-03-17,493,Low Risk,0,Retained,28.833333333333332,Low Engagement
+MB01949,19,Non-binary,2025-03-20,125,Active,0,Retained,54.833333333333336,Medium Engagement
+MB01950,16,Female,2024-10-31,265,Active,0,Retained,66.58333333333334,High Engagement
+MB01951,36,Female,2023-09-24,668,Medium Risk,1,Churn,56.16666666666668,Medium Engagement
+MB01952,12,Non-binary,2023-05-01,814,Medium Risk,1,Churn,64.16666666666667,High Engagement
+MB01953,38,Male,2022-07-25,1094,High Risk,1,Churn,35.16666666666667,Medium Engagement
+MB01954,20,Female,2022-10-03,1024,High Risk,1,Churn,19.166666666666664,Low Engagement
+MB01955,14,Male,2023-08-08,715,Medium Risk,1,Churn,51.66666666666666,Medium Engagement
+MB01956,31,Female,2024-03-31,479,Low Risk,0,Retained,47.0,Medium Engagement
+MB01957,29,Male,2023-08-15,708,Medium Risk,1,Churn,43.83333333333333,Medium Engagement
+MB01958,13,Male,2023-03-09,867,High Risk,1,Churn,43.5,Medium Engagement
+MB01959,26,Other (self-described),2025-02-16,157,Active,0,Retained,62.5,High Engagement
+MB01960,26,Female,2024-04-12,467,Low Risk,0,Retained,19.333333333333332,Low Engagement
+MB01961,18,Non-binary,2023-01-10,925,High Risk,1,Churn,56.25,Medium Engagement
+MB01962,39,Male,2024-05-10,439,Low Risk,0,Retained,69.08333333333334,High Engagement
+MB01963,49,Male,2023-10-22,640,Medium Risk,1,Churn,22.833333333333332,Low Engagement
+MB01964,25,Male,2023-10-06,656,Medium Risk,1,Churn,27.500000000000004,Low Engagement
+MB01965,29,Non-binary,2024-12-08,227,Active,0,Retained,34.25,Low Engagement
+MB01966,28,Non-binary,2024-06-02,416,Low Risk,0,Retained,39.916666666666664,Medium Engagement
+MB01967,29,Non-binary,2024-07-01,387,Low Risk,0,Retained,48.50000000000001,Medium Engagement
+MB01968,23,Non-binary,2025-05-26,58,Active,0,Retained,51.083333333333336,Medium Engagement
+MB01969,42,Female,2025-05-28,56,Active,0,Retained,53.333333333333336,Medium Engagement
+MB01970,14,Female,2023-01-19,916,High Risk,1,Churn,44.16666666666667,Medium Engagement
+MB01971,20,Female,2024-09-05,321,Low Risk,0,Retained,52.5,Medium Engagement
+MB01972,47,Male,2023-12-19,582,Medium Risk,1,Churn,3.333333333333334,Low Engagement
+MB01973,42,Female,2024-08-08,349,Low Risk,0,Retained,86.5,High Engagement
+MB01974,33,Male,2022-09-25,1032,High Risk,1,Churn,42.75000000000001,Medium Engagement
+MB01975,48,Other (self-described),2024-09-19,307,Low Risk,0,Retained,78.58333333333334,High Engagement
+MB01976,47,Female,2024-03-22,488,Low Risk,0,Retained,34.25,Low Engagement
+MB01977,40,Male,2022-12-06,960,High Risk,1,Churn,68.16666666666667,High Engagement
+MB01978,29,Male,2023-01-08,927,High Risk,1,Churn,43.83333333333333,Medium Engagement
+MB01979,28,Female,2024-12-06,229,Active,0,Retained,60.00000000000001,High Engagement
+MB01980,18,Male,2023-02-19,885,High Risk,1,Churn,47.0,Medium Engagement
+MB01981,16,Non-binary,2024-02-21,518,Low Risk,0,Retained,62.0,High Engagement
+MB01982,12,Male,2024-01-25,545,Low Risk,0,Retained,95.5,High Engagement
+MB01983,42,Male,2025-01-31,173,Active,0,Retained,37.5,Medium Engagement
+MB01984,32,Male,2025-03-29,116,Active,0,Retained,59.166666666666664,Medium Engagement
+MB01985,47,Male,2023-05-09,806,Medium Risk,1,Churn,45.416666666666664,Medium Engagement
+MB01986,36,Female,2024-01-11,559,Low Risk,0,Retained,58.08333333333334,Medium Engagement
+MB01987,43,Female,2024-03-14,496,Low Risk,0,Retained,33.75,Low Engagement
+MB01988,36,Female,2023-05-08,807,Medium Risk,1,Churn,53.91666666666667,Medium Engagement
+MB01989,42,Female,2023-03-30,846,High Risk,1,Churn,56.333333333333336,Medium Engagement
+MB01990,13,Male,2025-01-04,200,Active,0,Retained,57.91666666666666,Medium Engagement
+MB01991,16,Female,2023-09-12,680,Medium Risk,1,Churn,41.666666666666664,Medium Engagement
+MB01992,19,Prefer not to say,2025-01-29,175,Active,0,Retained,59.833333333333336,Medium Engagement
+MB01993,19,Female,2023-04-14,831,High Risk,1,Churn,40.416666666666664,Medium Engagement
+MB01994,12,Prefer not to say,2023-07-24,730,Medium Risk,1,Churn,36.25000000000001,Medium Engagement
+MB01995,16,Female,2022-09-08,1049,High Risk,1,Churn,22.749999999999996,Low Engagement
+MB01996,24,Male,2025-04-10,104,Active,0,Retained,49.75000000000001,Medium Engagement
+MB01997,20,Male,2025-04-23,91,Active,0,Retained,70.5,High Engagement
+MB01998,19,Male,2024-08-26,331,Low Risk,0,Retained,48.583333333333336,Medium Engagement

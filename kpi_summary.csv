@@ -1,0 +1,2 @@
+﻿total_members,churn_members,retained_members,churn_rate,retention_rate,average_visit_frequency,average_gym_duration_minutes,average_membership_tenure_days,arpu,average_engagement_score,reference_date,churn_definition
+1998,1011,987,0.506,0.494,2.68,104.82,561.43,34.47,46.57,2025-07-23,Churn = 1 if days_since_last_visit > 30

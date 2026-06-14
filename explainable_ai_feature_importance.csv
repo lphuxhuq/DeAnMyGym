@@ -1,0 +1,49 @@
+﻿feature,importance
+membership_tenure_days,0.7948560783616624
+age,0.024625304407135826
+duration_in_gym_minutes,0.022514904483228303
+final_price,0.01608655595427348
+personal_training_hours,0.014134263949186453
+visit_per_week,0.0108742946041011
+discount_rate,0.005717604904285722
+multi_location_access_False,0.004883845836437834
+multi_location_access_True,0.0045165013084329545
+self_identified_gender_Male,0.004373958384260204
+self_identified_gender_Prefer not to say,0.0037306878665025315
+subscription_price,0.003659424612835073
+attend_group_lesson_False,0.003603020432549749
+has_drink_subscription_False,0.003526239710217138
+uses_sauna_True,0.003522249802373352
+uses_sauna_False,0.0032699483522112462
+subscription_model_Early Bird (Annual),0.003207494163259274
+attend_group_lesson_True,0.003138274131775968
+"home_gym_location_Los Angeles, CA",0.0030453460878731788
+self_identified_gender_Female,0.0030108637413285124
+personal_training_False,0.0029586570305319485
+discount_type_No Discount,0.0029377205775135235
+"home_gym_location_Long Beach, CA",0.0028310724974436033
+"home_gym_location_Oakland, CA",0.00281086517805599
+discount_type_Loyalty,0.0027781557688278486
+self_identified_gender_Non-binary,0.00275339848691159
+"home_gym_location_San Diego, CA",0.002745448613693073
+subscription_model_Monthly,0.0026958624767511727
+"home_gym_location_Sacramento, CA",0.0026789579944608774
+"home_gym_location_Fresno, CA",0.0026324548577486367
+has_drink_subscription_True,0.0026322583887236927
+discount_type_Promo,0.002615541368408584
+"home_gym_location_San Francisco, CA",0.0023938165003891654
+subscription_model_Quarterly,0.0023764656061352886
+"home_gym_location_Anaheim, CA",0.0022854127992620234
+"home_gym_location_San Jose, CA",0.00227121558229731
+discount_type_Student,0.0022533534783747452
+personal_training_True,0.002201204236149306
+"home_gym_location_Bakersfield, CA",0.0021184669469711797
+membership_type_Standard,0.0020225416606395995
+access_hours_Off-peak only,0.0018670460048765406
+access_hours_All hours,0.001739301092600635
+membership_type_Basic,0.0016581941881094835
+membership_type_Elite,0.0016344118569413578
+self_identified_gender_Other (self-described),0.0016049057769051114
+access_hours_Weekdays only,0.0014443844741562988
+membership_type_Premium,0.0014405111103787391
+access_hours_All hours + Priority access,0.0013215143528123169
